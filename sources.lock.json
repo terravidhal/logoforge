@@ -1,0 +1,9 @@
+{
+  "$comment": "Upstream versions the import is pinned to. Bump deliberately, then re-run npm run logos:import and review the report.",
+  "simpleIcons": { "package": "simple-icons", "version": "16.32.0", "license": "CC0-1.0" },
+  "gilbarbara": {
+    "repo": "gilbarbara/logos",
+    "sha": "a5b65275e761a8347a99eded1101c6b130a06e52",
+    "license": "CC0-1.0"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "logoforge-logos",
+  "private": true,
+  "description": "Logoforge logo set: optimized SVGs, typed React components, metadata and the import pipeline (CC0 sources + documented additions).",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "import": "tsx scripts/import.ts",
+    "analyze": "tsx scripts/analyze.ts",
+    "check": "tsx scripts/check.ts"
+  },
+  "devDependencies": {
+    "@svgr/core": "^8.1.0",
+    "@svgr/plugin-jsx": "^8.1.0",
+    "simple-icons": "16.32.0",
+    "svgo": "^4.1.0",
+    "tsx": "^4.23.15"
+  },
+  "engines": {
+    "node": ">=20.11"
+  }
+}

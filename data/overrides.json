@@ -1,0 +1,745 @@
+{
+  "$comment": "Manual fixes applied after the automatic import, keyed by slug. Each one carries its reason.",
+  "logos": {
+    "redis": {
+      "iconFrom": "si",
+      "reason": "gilbarbara ships the pre-2024 cube logo"
+    },
+    "drizzle": {
+      "iconFrom": "si",
+      "reason": "gilbarbara icon is not the Drizzle mark"
+    },
+    "javascript": {
+      "skipMono": true,
+      "reason": "letters overlap the square; a derived mono loses them"
+    },
+    "deno": {
+      "skipMono": true,
+      "reason": "dinosaur is white detail on black; a derived mono loses it"
+    },
+    "mysql": {
+      "monoFrom": "derived",
+      "reason": "Simple Icons' MySQL is a wordmark; mono should be the dolphin",
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "php": {
+      "skipMono": true,
+      "reason": "letters sit inside the oval; a derived mono is a plain ellipse"
+    },
+    "vue": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "angular": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "rust": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "aws": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "git": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "openai": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "slack": {
+      "reviewed": "2026-09-27: derived mono checked on the review sheet"
+    },
+    "eclipse": {
+      "monoKnockout": true,
+      "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"
+    },
+    "monero": {
+      "monoKnockout": true,
+      "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"
+    },
+    "hanami": {
+      "monoKnockout": true,
+      "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"
+    },
+    "dreamhost": {
+      "monoKnockout": true,
+      "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"
+    },
+    "inferno": {
+      "monoKnockout": true,
+      "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"
+    },
+    "sendgrid": {
+      "monoKnockout": false,
+      "reason": "cluster of squares, not a background: plain derived mono",
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "csharp": {
+      "skipMono": true,
+      "reason": "letters are lost in both the plain and the knockout mono"
+    },
+    "skype": {
+      "skipMono": true,
+      "reason": "letters are lost in both the plain and the knockout mono"
+    },
+    "memcached": {
+      "skipMono": true,
+      "reason": "letters are lost in both the plain and the knockout mono"
+    },
+    "vscode": {
+      "monoFrom": "derived",
+      "reason": "the Simple Icons match was VSCodium, a different brand",
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "storybook": {
+      "monoKnockout": true,
+      "reason": "badge mark missed by the detector"
+    },
+    "t3": {
+      "monoKnockout": true,
+      "reason": "badge mark missed by the detector"
+    },
+    "unionpay": {
+      "skipMono": true,
+      "reason": "no usable one-color version from the source"
+    },
+    "webkit": {
+      "skipMono": true,
+      "reason": "no usable one-color version from the source"
+    },
+    "zod": {
+      "skipMono": true,
+      "reason": "no usable one-color version from the source"
+    },
+    "adobe": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "airbrake": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "amplitude": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "analog": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "android": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "antigravity": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "apache-http": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "apache-superset": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "apidog": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "appdynamics": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "applitools": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ava": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "aws-amplify": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "aws-lightsail": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "bolt": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "bootstrap": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "browserify": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "bubble": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "builder-io": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "bunny-net": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "cartesia": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "cassandra": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "certbot": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "chargebee": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "claude-code": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "codeception": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "codepen": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "codex": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "commitizen": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "compose-multiplatform": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "conda": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "cordova": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "couchdb": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "crossplane": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "customerio": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "dataspell": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "dbt": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "debian": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "devin": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "dokploy": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "dolt": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "drift": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ebanx": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "edgedb": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "effect": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "envoy": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "feathersjs": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "fly": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "foundation": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "frontapp": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "gin": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "github-copilot": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "gleam": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "godot": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "google-aistudio": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "google-workspace": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "grok": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "grommet": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "growth-book": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "grpc": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hapi": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hardhat": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "harness": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hcaptcha": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "heap": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "heroku": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hhvm": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "highcharts": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hostgator": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "hyperapp": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ibm": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "immutable": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "incident": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "java": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jekyll": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jenkins": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jotai": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jruby": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "json-schema": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jspm": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "jwt": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "kafka": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "karma": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "katalon": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "keydb": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "keystonejs": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "kilo": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "launchdarkly": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "letsencrypt": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "lexical": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "lightstep": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "lighttpd": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "linkedin": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "linode": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "mailjet": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "marvel": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "materializecss": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "maven": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "memgraph": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "mercurial": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "metamask": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-azure": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-edge": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-onedrive": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-power-bi": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-teams": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "microsoft-windows": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "midjourney": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "mindsdb": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "minimax": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "mithril": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "momentjs": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "monday": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "moonshot-ai": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "msw": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "naiveui": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "nats": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "neovim": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "netbeans": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "nightwatch": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ocaml": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "onesignal": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "openapi": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "opencart": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "openshift": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "opentelemetry": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "optimizely": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "oracle": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "parcel": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "payload": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "phoenix": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "pico-css": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "pinecone": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "pipedream": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "pixijs": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "plasmic": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "playwright": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "polymer": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "purescript": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "pyscript": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "r": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "rails": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ramda": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "realm": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "recaptcha": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "rethinkdb": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "risingwave": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "rocky-linux": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "ruby": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "rush": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sails": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sanity": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sass": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "segment": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sinatra": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "solidity": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sonarcloud": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sonarqube": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sourcegraph": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "spree": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "stability-ai": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "stylex": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "stytch": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "supertokens": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "surge": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sveltekit": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "svgator": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "sysdig": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "tableau": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "tauri": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "terser": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "tomcat": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "tor": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "turbopack": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "twilio": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "typeorm": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "typesense": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "v": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "valkey": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "vercel-ai-sdk": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "visual-studio": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "vuetifyjs": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "vwo": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "webhooks": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "websocket": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "windi-css": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "workos": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "xai": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "xamarin": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "xata": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "yugabyte": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "zeplin": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "zeroheight": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "zig": {
+      "reviewed": "2026-09-27: full contact-sheet review (891 logos)"
+    },
+    "craft": {
+      "reviewed": "2026-09-27: recovered via filename fallback, checked visually"
+    },
+    "mcp": {
+      "reviewed": "2026-09-27: recovered via filename fallback, checked visually"
+    },
+    "riotjs": {
+      "reviewed": "2026-09-27: recovered via filename fallback, checked visually"
+    },
+    "semaphore": {
+      "reviewed": "2026-09-27: recovered via filename fallback, checked visually"
+    },
+    "moniepoint": {
+      "monoKnockout": true,
+      "reason": "the M sits on a blue tile: knockout keeps it",
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "chipper-cash": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "flutterwave": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "interswitch": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "kuda": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "m-pesa": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "mtn": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "opay": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "orange-money": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "paystack": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "yoco": {
+      "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    }
+  }
+}

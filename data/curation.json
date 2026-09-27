@@ -1,0 +1,7907 @@
+{
+  "$comment": "Which logos Logoforge ships, and where each variant comes from. si = Simple Icons slug, gb = gilbarbara/logos shortname. The import picks CC0 sources only.",
+  "logos": [
+    {
+      "slug": "1password",
+      "name": "1Password",
+      "si": "1password",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "adobe",
+      "name": "Adobe",
+      "gb": "adobe",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-after-effects",
+      "name": "Adobe After Effects",
+      "gb": "adobe-after-effects",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-illustrator",
+      "name": "Adobe Illustrator",
+      "gb": "adobe-illustrator",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-indesign",
+      "name": "Adobe InDesign",
+      "gb": "adobe-indesign",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-lightroom",
+      "name": "Adobe Lightroom",
+      "gb": "adobe-lightroom",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-photoshop",
+      "name": "Adobe Photoshop",
+      "gb": "adobe-photoshop",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-premiere",
+      "name": "Adobe Premiere",
+      "gb": "adobe-premiere",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adobe-xd",
+      "name": "Adobe Xd",
+      "gb": "adobe-xd",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "adonisjs",
+      "si": "adonisjs",
+      "gb": "adonisjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "adyen",
+      "name": "Adyen",
+      "si": "adyen",
+      "gb": "adyen",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "airbrake",
+      "name": "Airbrake",
+      "si": "airbrake",
+      "gb": "airbrake",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "airtable",
+      "name": "Airtable",
+      "si": "airtable",
+      "gb": "airtable",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "airtel",
+      "si": "airtel",
+      "categories": [
+        "african-brands",
+        "communication",
+        "payments"
+      ],
+      "aliases": [
+        "Airtel Money",
+        "Airtel Africa"
+      ]
+    },
+    {
+      "slug": "akamai",
+      "name": "Akamai",
+      "si": "akamai",
+      "gb": "akamai",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "algolia",
+      "name": "Algolia",
+      "si": "algolia",
+      "gb": "algolia",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "alibaba-cloud",
+      "name": "Alibaba Cloud",
+      "si": "alibabacloud",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "alipay",
+      "name": "Alipay",
+      "si": "alipay",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "alpine-linux",
+      "name": "Alpine Linux",
+      "si": "alpinelinux",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "alpinejs",
+      "name": "Alpine.js",
+      "si": "alpinedotjs",
+      "gb": "alpinejs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "amd",
+      "name": "AMD",
+      "si": "amd",
+      "gb": "amd",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "amex",
+      "name": "American Express",
+      "si": "americanexpress",
+      "gb": "amex",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "amplitude",
+      "name": "Amplitude",
+      "gb": "amplitude",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "analog",
+      "name": "Analog",
+      "gb": "analog",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "andela",
+      "si": "andela",
+      "categories": [
+        "african-brands",
+        "productivity"
+      ]
+    },
+    {
+      "slug": "android",
+      "name": "Android",
+      "si": "android",
+      "gb": "android",
+      "categories": [
+        "frameworks",
+        "editors",
+        "platforms"
+      ]
+    },
+    {
+      "slug": "android-studio",
+      "name": "Android Studio",
+      "si": "androidstudio",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "angular",
+      "name": "Angular",
+      "si": "angular",
+      "gb": "angular",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "ansible",
+      "name": "Ansible",
+      "si": "ansible",
+      "gb": "ansible",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "ant-design",
+      "name": "Ant Design",
+      "si": "antdesign",
+      "gb": "ant-design",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "anthropic",
+      "name": "Anthropic",
+      "si": "anthropic",
+      "gb": "anthropic",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "antigravity",
+      "name": "Antigravity",
+      "gb": "antigravity",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "apache-http",
+      "name": "Apache HTTP Server",
+      "si": "apache",
+      "gb": "apache-http",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "apache-superset",
+      "si": "apachesuperset",
+      "gb": "apache-superset",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "apidog",
+      "name": "Apidog",
+      "gb": "apidog",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "apollo-graphql",
+      "si": "apollographql",
+      "gb": "apollostack",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "appdynamics",
+      "name": "AppDynamics",
+      "gb": "appdynamics",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "appium",
+      "name": "Appium",
+      "si": "appium",
+      "gb": "appium",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "apple",
+      "name": "Apple",
+      "si": "apple",
+      "gb": "apple",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "apple-pay",
+      "name": "Apple Pay",
+      "si": "applepay",
+      "gb": "apple-pay",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "applitools",
+      "name": "Applitools",
+      "gb": "applitools",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "appsignal",
+      "name": "AppSignal",
+      "si": "appsignal",
+      "gb": "appsignal",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "appveyor",
+      "name": "AppVeyor",
+      "si": "appveyor",
+      "gb": "appveyor",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "appwrite",
+      "si": "appwrite",
+      "gb": "appwrite",
+      "categories": [
+        "databases",
+        "cloud"
+      ]
+    },
+    {
+      "slug": "arangodb",
+      "name": "ArangoDB",
+      "si": "arangodb",
+      "gb": "arangodb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "arc",
+      "name": "Arc",
+      "si": "arc",
+      "gb": "arc",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "archlinux",
+      "si": "archlinux",
+      "gb": "archlinux",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "arduino",
+      "name": "Arduino",
+      "si": "arduino",
+      "gb": "arduino",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "argo",
+      "name": "Argo",
+      "si": "argo",
+      "gb": "argo",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "arm",
+      "name": "Arm",
+      "si": "arm",
+      "gb": "arm",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "asana",
+      "name": "Asana",
+      "si": "asana",
+      "gb": "asana",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "assemblyscript",
+      "name": "AssemblyScript",
+      "si": "assemblyscript",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "astro",
+      "name": "Astro",
+      "si": "astro",
+      "gb": "astro",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "atom",
+      "name": "Atom",
+      "gb": "atom",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "aurelia",
+      "name": "Aurelia",
+      "si": "aurelia",
+      "gb": "aurelia",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "auth0",
+      "name": "Auth0",
+      "si": "auth0",
+      "gb": "auth0",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "authentik",
+      "name": "Authentik",
+      "si": "authentik",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "authy",
+      "name": "Authy",
+      "gb": "authy",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "ava",
+      "name": "Ava",
+      "gb": "ava",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "aws",
+      "name": "AWS",
+      "gb": "aws",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Amazon Web Services"
+      ]
+    },
+    {
+      "slug": "aws-amplify",
+      "name": "AWS Amplify",
+      "gb": "aws-amplify",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-api-gateway",
+      "name": "AWS API Gateway",
+      "gb": "aws-api-gateway",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-cloudfront",
+      "name": "AWS CloudFront",
+      "gb": "aws-cloudfront",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-cloudwatch",
+      "name": "AWS CloudWatch",
+      "gb": "aws-cloudwatch",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-cognito",
+      "name": "AWS Cognito",
+      "gb": "aws-cognito",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-dynamodb",
+      "name": "AWS DynamoDB",
+      "gb": "aws-dynamodb",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-ec2",
+      "name": "AWS EC2",
+      "gb": "aws-ec2",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Elastic Compute Cloud"
+      ]
+    },
+    {
+      "slug": "aws-ecs",
+      "name": "AWS ECS",
+      "gb": "aws-ecs",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Elastic Container Service"
+      ]
+    },
+    {
+      "slug": "aws-eks",
+      "name": "AWS EKS",
+      "gb": "aws-eks",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Elastic Kubernetes Service"
+      ]
+    },
+    {
+      "slug": "aws-elastic-beanstalk",
+      "name": "AWS Elastic Beanstalk",
+      "gb": "aws-elastic-beanstalk",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-fargate",
+      "name": "AWS Fargate",
+      "gb": "aws-fargate",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-iam",
+      "name": "AWS IAM",
+      "gb": "aws-iam",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Identity and Access Management"
+      ]
+    },
+    {
+      "slug": "aws-lambda",
+      "name": "AWS Lambda",
+      "gb": "aws-lambda",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-lightsail",
+      "name": "AWS Lightsail",
+      "gb": "aws-lightsail",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-rds",
+      "name": "AWS RDS",
+      "gb": "aws-rds",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Relational Database Service"
+      ]
+    },
+    {
+      "slug": "aws-route53",
+      "name": "AWS Route 53",
+      "gb": "aws-route53",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "aws-s3",
+      "name": "AWS S3",
+      "gb": "aws-s3",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Simple Storage Service"
+      ]
+    },
+    {
+      "slug": "aws-sns",
+      "name": "AWS SNS",
+      "gb": "aws-sns",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Simple Notification Service"
+      ]
+    },
+    {
+      "slug": "aws-sqs",
+      "name": "AWS SQS",
+      "gb": "aws-sqs",
+      "categories": [
+        "cloud"
+      ],
+      "aliases": [
+        "Simple Queue Service"
+      ]
+    },
+    {
+      "slug": "axios",
+      "name": "Axios",
+      "si": "axios",
+      "gb": "axios",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "babel",
+      "name": "Babel",
+      "si": "babel",
+      "gb": "babel",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "backblaze",
+      "name": "Backblaze",
+      "si": "backblaze",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "backbone",
+      "name": "Backbone",
+      "si": "backbone",
+      "gb": "backbone",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "bamboo",
+      "name": "Bamboo",
+      "si": "bamboo",
+      "gb": "bamboo",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "basecamp",
+      "name": "Basecamp",
+      "si": "basecamp",
+      "gb": "basecamp",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "bash",
+      "name": "Bash",
+      "gb": "bash",
+      "categories": [
+        "languages",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "behance",
+      "name": "Behance",
+      "si": "behance",
+      "gb": "behance",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "better-auth",
+      "name": "Better Auth",
+      "si": "betterauth",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "better-stack",
+      "name": "Better Stack",
+      "si": "betterstack",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "bigcommerce",
+      "name": "BigCommerce",
+      "si": "bigcommerce",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "biomejs",
+      "name": "Biome",
+      "si": "biome",
+      "gb": "biomejs",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "bitbucket",
+      "name": "Bitbucket",
+      "si": "bitbucket",
+      "gb": "bitbucket",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "si": "bitcoin",
+      "gb": "bitcoin",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "bitrise",
+      "name": "Bitrise",
+      "si": "bitrise",
+      "gb": "bitrise",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "bitwarden",
+      "name": "Bitwarden",
+      "si": "bitwarden",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "blender",
+      "name": "Blender",
+      "si": "blender",
+      "gb": "blender",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "blueprint",
+      "name": "Blueprint",
+      "si": "blueprint",
+      "gb": "blueprint",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "bluesky",
+      "name": "Bluesky",
+      "si": "bluesky",
+      "gb": "bluesky",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "bolt",
+      "name": "Bolt",
+      "gb": "bolt",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "bootstrap",
+      "name": "Bootstrap",
+      "si": "bootstrap",
+      "gb": "bootstrap",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "bower",
+      "name": "Bower",
+      "si": "bower",
+      "gb": "bower",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "box",
+      "si": "box",
+      "gb": "box",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "brackets",
+      "name": "Brackets",
+      "gb": "brackets",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "braintree",
+      "name": "Braintree",
+      "si": "braintree",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "brave",
+      "name": "Brave",
+      "si": "brave",
+      "gb": "brave",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "brevo",
+      "name": "Brevo",
+      "si": "brevo",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "browserify",
+      "name": "Browserify",
+      "gb": "browserify",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "browserstack",
+      "name": "BrowserStack",
+      "gb": "browserstack",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "bruno",
+      "name": "Bruno",
+      "si": "bruno",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "bubble",
+      "name": "Bubble",
+      "gb": "bubble",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "bugsnag",
+      "name": "Bugsnag",
+      "gb": "bugsnag",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "builder-io",
+      "name": "Builder",
+      "gb": "builder-io",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "buildkite",
+      "name": "Buildkite",
+      "si": "buildkite",
+      "gb": "buildkite",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "bulma",
+      "name": "Bulma",
+      "si": "bulma",
+      "gb": "bulma",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "bun",
+      "name": "Bun",
+      "si": "bun",
+      "gb": "bun",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "bunny-net",
+      "name": "Bunny",
+      "gb": "bunny-net",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "buy-me-a-coffee",
+      "name": "Buy Me A Coffee",
+      "si": "buymeacoffee",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "c",
+      "name": "C",
+      "si": "c",
+      "gb": "c",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "cachet",
+      "name": "Cachet",
+      "si": "cachet",
+      "gb": "cachet",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "cakephp",
+      "name": "CakePHP",
+      "si": "cakephp",
+      "gb": "cakephp",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "cal-com",
+      "name": "Cal.com",
+      "si": "caldotcom",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "calendly",
+      "name": "Calendly",
+      "si": "calendly",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "capacitorjs",
+      "name": "Capacitor",
+      "si": "capacitor",
+      "gb": "capacitorjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "cardano",
+      "name": "Cardano",
+      "si": "cardano",
+      "gb": "cardano",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "cartesia",
+      "name": "Cartesia",
+      "gb": "cartesia",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "cassandra",
+      "name": "Cassandra",
+      "gb": "cassandra",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "centos",
+      "name": "CentOS",
+      "si": "centos",
+      "gb": "centos",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "certbot",
+      "name": "Certbot",
+      "gb": "certbot",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "chai",
+      "name": "Chai",
+      "si": "chai",
+      "gb": "chai",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "chainlink",
+      "name": "Chainlink",
+      "si": "chainlink",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "chakra-ui",
+      "name": "Chakra UI",
+      "si": "chakraui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "chargebee",
+      "name": "Chargebee",
+      "gb": "chargebee",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "chartjs",
+      "name": "Chart.js",
+      "si": "chartdotjs",
+      "gb": "chartjs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "chef",
+      "name": "Chef",
+      "si": "chef",
+      "gb": "chef",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "chipper-cash",
+      "name": "Chipper Cash",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ],
+      "aliases": [
+        "Chipper"
+      ]
+    },
+    {
+      "slug": "chromatic",
+      "name": "Chromatic",
+      "si": "chromatic",
+      "gb": "chromatic",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "chrome",
+      "name": "Chrome",
+      "si": "googlechrome",
+      "gb": "chrome",
+      "categories": [
+        "browsers"
+      ],
+      "aliases": [
+        "Google Chrome"
+      ]
+    },
+    {
+      "slug": "circleci",
+      "name": "CircleCI",
+      "si": "circleci",
+      "gb": "circleci",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "claude",
+      "name": "Claude",
+      "si": "claude",
+      "gb": "claude",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "claude-code",
+      "name": "Claude Code",
+      "gb": "claude-code",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "clerk",
+      "name": "Clerk",
+      "si": "clerk",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "clickhouse",
+      "name": "ClickHouse",
+      "si": "clickhouse",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "clickup",
+      "name": "ClickUp",
+      "si": "clickup",
+      "gb": "clickup",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "cline",
+      "name": "Cline",
+      "si": "cline",
+      "gb": "cline",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "clion",
+      "name": "CLion",
+      "si": "clion",
+      "gb": "clion",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "clojure",
+      "name": "Clojure",
+      "si": "clojure",
+      "gb": "clojure",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "cloudflare",
+      "si": "cloudflare",
+      "gb": "cloudflare",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "cloudflare-pages",
+      "name": "Cloudflare Pages",
+      "si": "cloudflarepages",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "cloudflare-workers",
+      "name": "Cloudflare Workers",
+      "si": "cloudflareworkers",
+      "gb": "cloudflare-workers",
+      "categories": [
+        "runtimes",
+        "cloud"
+      ]
+    },
+    {
+      "slug": "cloudinary",
+      "name": "Cloudinary",
+      "si": "cloudinary",
+      "gb": "cloudinary",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "cockroachdb",
+      "name": "Cockroach Labs",
+      "si": "cockroachlabs",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "cocoapods",
+      "name": "CocoaPods",
+      "si": "cocoapods",
+      "gb": "cocoapods",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "coda",
+      "name": "Coda",
+      "si": "coda",
+      "gb": "coda",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "codacy",
+      "name": "Codacy",
+      "si": "codacy",
+      "gb": "codacy",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codeberg",
+      "name": "Codeberg",
+      "si": "codeberg",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codeception",
+      "name": "Codeception",
+      "gb": "codeception",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "codeclimate",
+      "name": "Code Climate",
+      "si": "codeclimate",
+      "gb": "codeclimate",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codecov",
+      "name": "Codecov",
+      "si": "codecov",
+      "gb": "codecov",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codeigniter",
+      "name": "CodeIgniter",
+      "si": "codeigniter",
+      "gb": "codeigniter",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "codepen",
+      "name": "Codepen",
+      "gb": "codepen",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "coderabbit",
+      "name": "CodeRabbit",
+      "si": "coderabbit",
+      "gb": "coderabbit",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codesandbox",
+      "si": "codesandbox",
+      "gb": "codesandbox",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "codex",
+      "name": "Codex",
+      "gb": "codex",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "coffeescript",
+      "name": "CoffeeScript",
+      "si": "coffeescript",
+      "gb": "coffeescript",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "coinbase",
+      "name": "Coinbase",
+      "si": "coinbase",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "commitizen",
+      "name": "Commitizen",
+      "gb": "commitizen",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "compose-multiplatform",
+      "name": "Compose Multiplatform",
+      "gb": "compose-multiplatform",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "composer",
+      "name": "Composer",
+      "si": "composer",
+      "gb": "composer",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "concourse",
+      "name": "Concourse",
+      "si": "concourse",
+      "gb": "concourse",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "conda",
+      "name": "Conda",
+      "gb": "conda",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "confluence",
+      "name": "Confluence",
+      "si": "confluence",
+      "gb": "confluence",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "consul",
+      "name": "Consul",
+      "si": "consul",
+      "gb": "consul",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "contentful",
+      "name": "Contentful",
+      "si": "contentful",
+      "gb": "contentful",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "convex",
+      "name": "Convex",
+      "si": "convex",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "coolify",
+      "name": "Coolify",
+      "si": "coolify",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "cordova",
+      "name": "Cordova",
+      "gb": "cordova",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "couchbase",
+      "name": "Couchbase",
+      "si": "couchbase",
+      "gb": "couchbase",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "couchdb",
+      "name": "CouchDB",
+      "gb": "couchdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "coveralls",
+      "name": "Coveralls",
+      "si": "coveralls",
+      "gb": "coveralls",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "cpanel",
+      "name": "cPanel",
+      "si": "cpanel",
+      "gb": "cpanel",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "cpp",
+      "name": "C++",
+      "si": "cplusplus",
+      "gb": "c-plusplus",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "craft",
+      "name": "Craft",
+      "gb": "craft",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "crossplane",
+      "name": "Crossplane",
+      "gb": "crossplane",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "crystal",
+      "name": "Crystal",
+      "si": "crystal",
+      "gb": "crystal",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "csharp",
+      "name": "C#",
+      "gb": "c-sharp",
+      "categories": [
+        "languages"
+      ],
+      "aliases": [
+        "C Sharp"
+      ]
+    },
+    {
+      "slug": "css",
+      "name": "CSS",
+      "si": "css",
+      "gb": "css",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "cucumber",
+      "name": "Cucumber",
+      "si": "cucumber",
+      "gb": "cucumber",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "curl",
+      "name": "curl",
+      "si": "curl",
+      "gb": "curl",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "cursor",
+      "name": "Cursor",
+      "si": "cursor",
+      "gb": "cursor",
+      "categories": [
+        "ai",
+        "editors"
+      ]
+    },
+    {
+      "slug": "customerio",
+      "name": "Customer.io",
+      "gb": "customerio",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "cypress",
+      "name": "Cypress",
+      "si": "cypress",
+      "gb": "cypress",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "d3",
+      "name": "D3",
+      "si": "d3",
+      "gb": "d3",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "dailydev",
+      "name": "daily.dev",
+      "si": "dailydotdev",
+      "gb": "dailydev",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "daisyui",
+      "name": "daisyUI",
+      "si": "daisyui",
+      "gb": "daisyui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "dart",
+      "name": "Dart",
+      "si": "dart",
+      "gb": "dart",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "dashlane",
+      "name": "Dashlane",
+      "si": "dashlane",
+      "gb": "dashlane",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "databricks",
+      "name": "Databricks",
+      "si": "databricks",
+      "gb": "databricks",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "datadog",
+      "name": "Datadog",
+      "si": "datadog",
+      "gb": "datadog",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "datagrip",
+      "name": "DataGrip",
+      "si": "datagrip",
+      "gb": "datagrip",
+      "categories": [
+        "databases",
+        "editors"
+      ]
+    },
+    {
+      "slug": "dataspell",
+      "name": "DataSpell",
+      "gb": "dataspell",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "datocms",
+      "name": "DatoCMS",
+      "si": "datocms",
+      "gb": "datocms",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "dbt",
+      "name": "dbt",
+      "gb": "dbt",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "debian",
+      "si": "debian",
+      "gb": "debian",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "decap-cms",
+      "name": "Decap CMS",
+      "si": "decapcms",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "deepgram",
+      "name": "Deepgram",
+      "si": "deepgram",
+      "gb": "deepgram",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "deepseek",
+      "name": "DeepSeek",
+      "si": "deepseek",
+      "gb": "deepseek",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "deno",
+      "name": "Deno",
+      "si": "deno",
+      "gb": "deno",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "dependabot",
+      "name": "Dependabot",
+      "si": "dependabot",
+      "gb": "dependabot",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "dev-to",
+      "name": "dev.to",
+      "si": "devdotto",
+      "categories": [
+        "devtools",
+        "social"
+      ]
+    },
+    {
+      "slug": "devin",
+      "name": "Devin",
+      "gb": "devin",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "dgraph",
+      "name": "Dgraph",
+      "si": "dgraph",
+      "gb": "dgraph",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "dialogflow",
+      "name": "Dialogflow",
+      "si": "dialogflow",
+      "gb": "dialogflow",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "digitalocean",
+      "name": "DigitalOcean",
+      "si": "digitalocean",
+      "gb": "digitalocean",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "dinersclub",
+      "name": "Diners Club",
+      "si": "dinersclub",
+      "gb": "dinersclub",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "directus",
+      "name": "Directus",
+      "si": "directus",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "discord",
+      "name": "Discord",
+      "si": "discord",
+      "gb": "discord",
+      "categories": [
+        "communication",
+        "social"
+      ]
+    },
+    {
+      "slug": "discover",
+      "name": "Discover",
+      "si": "discover",
+      "gb": "discover",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "django",
+      "name": "Django",
+      "si": "django",
+      "gb": "django",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "docker",
+      "si": "docker",
+      "gb": "docker",
+      "categories": [
+        "devtools",
+        "cloud",
+        "devops"
+      ]
+    },
+    {
+      "slug": "docusaurus",
+      "name": "Docusaurus",
+      "si": "docusaurus",
+      "gb": "docusaurus",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "dokploy",
+      "name": "Dokploy",
+      "gb": "dokploy",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "dolt",
+      "name": "dolt",
+      "gb": "dolt",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "dotnet",
+      "name": ".NET",
+      "si": "dotnet",
+      "gb": "dotnet",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "dreamhost",
+      "name": "DreamHost",
+      "gb": "dreamhost",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "dribbble",
+      "si": "dribbble",
+      "gb": "dribbble",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "drift",
+      "name": "Drift",
+      "gb": "drift",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "drizzle",
+      "name": "Drizzle ORM",
+      "si": "drizzle",
+      "gb": "drizzle",
+      "categories": [
+        "databases",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "drone",
+      "name": "Drone",
+      "si": "drone",
+      "gb": "drone",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "dropbox",
+      "name": "Dropbox",
+      "si": "dropbox",
+      "gb": "dropbox",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "drupal",
+      "name": "Drupal",
+      "si": "drupal",
+      "gb": "drupal",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "duckdb",
+      "name": "DuckDB",
+      "si": "duckdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "dynatrace",
+      "name": "Dynatrace",
+      "si": "dynatrace",
+      "gb": "dynatrace",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "ebanx",
+      "name": "EBANX",
+      "gb": "ebanx",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "eclipse",
+      "name": "Eclipse",
+      "gb": "eclipse",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "edgedb",
+      "name": "EdgeDB",
+      "gb": "edgedb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "editorconfig",
+      "name": "EditorConfig",
+      "si": "editorconfig",
+      "gb": "editorconfig",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "effect",
+      "name": "Effect",
+      "si": "effect",
+      "gb": "effect",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "elasticsearch",
+      "name": "Elasticsearch",
+      "si": "elasticsearch",
+      "gb": "elasticsearch",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "electron",
+      "name": "Electron",
+      "si": "electron",
+      "gb": "electron",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "element",
+      "name": "Element",
+      "si": "element",
+      "gb": "element",
+      "categories": [
+        "ui",
+        "communication"
+      ]
+    },
+    {
+      "slug": "elevenlabs",
+      "name": "ElevenLabs",
+      "si": "elevenlabs",
+      "gb": "elevenlabs",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "eleventy",
+      "name": "Eleventy",
+      "si": "eleventy",
+      "gb": "eleventy",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "elixir",
+      "name": "Elixir",
+      "si": "elixir",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "elm",
+      "si": "elm",
+      "gb": "elm",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "emacs",
+      "name": "Emacs",
+      "gb": "emacs",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "ember",
+      "si": "emberdotjs",
+      "gb": "ember",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "envoy",
+      "name": "Envoy",
+      "gb": "envoy",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "erlang",
+      "name": "Erlang",
+      "si": "erlang",
+      "gb": "erlang",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "esbuild",
+      "name": "esbuild",
+      "si": "esbuild",
+      "gb": "esbuild",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "eslint",
+      "name": "ESLint",
+      "si": "eslint",
+      "gb": "eslint",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "etcd",
+      "name": "etcd",
+      "si": "etcd",
+      "gb": "etcd",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "ethereum",
+      "name": "Ethereum",
+      "si": "ethereum",
+      "gb": "ethereum",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "ethers",
+      "name": "Ethers",
+      "si": "ethers",
+      "gb": "ethers",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "evernote",
+      "name": "Evernote",
+      "si": "evernote",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "excalidraw",
+      "name": "Excalidraw",
+      "si": "excalidraw",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "expo",
+      "name": "Expo",
+      "si": "expo",
+      "gb": "expo",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "express",
+      "name": "Express",
+      "si": "express",
+      "gb": "express",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "facebook",
+      "name": "Facebook",
+      "si": "facebook",
+      "gb": "facebook",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "faker",
+      "name": "Faker",
+      "si": "faker",
+      "gb": "faker",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "fastapi",
+      "name": "FastAPI",
+      "si": "fastapi",
+      "gb": "fastapi",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "fastify",
+      "name": "Fastify",
+      "si": "fastify",
+      "gb": "fastify",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "fastly",
+      "name": "Fastly",
+      "si": "fastly",
+      "gb": "fastly",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "fathom",
+      "name": "Fathom",
+      "si": "fathom",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "fauna",
+      "name": "Fauna",
+      "si": "fauna",
+      "gb": "fauna",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "feathersjs",
+      "name": "Feathers",
+      "gb": "feathersjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "fedora",
+      "si": "fedora",
+      "gb": "fedora",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "ffmpeg",
+      "name": "FFmpeg",
+      "si": "ffmpeg",
+      "gb": "ffmpeg",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "figma",
+      "name": "Figma",
+      "si": "figma",
+      "gb": "figma",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "firebase",
+      "name": "Firebase",
+      "si": "firebase",
+      "gb": "firebase",
+      "categories": [
+        "databases",
+        "cloud"
+      ]
+    },
+    {
+      "slug": "firefox",
+      "name": "Firefox",
+      "si": "firefoxbrowser",
+      "gb": "firefox",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "flask",
+      "name": "Flask",
+      "si": "flask",
+      "gb": "flask",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "flutter",
+      "name": "Flutter",
+      "si": "flutter",
+      "gb": "flutter",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "flutterwave",
+      "name": "Flutterwave",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "fly",
+      "name": "Fly",
+      "gb": "fly",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "font-awesome",
+      "name": "Font Awesome",
+      "si": "fontawesome",
+      "gb": "font-awesome",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "fortran",
+      "name": "Fortran",
+      "si": "fortran",
+      "gb": "fortran",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "foundation",
+      "name": "Foundation",
+      "gb": "foundation",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "framer",
+      "name": "Framer",
+      "si": "framer",
+      "categories": [
+        "libraries",
+        "design",
+        "cms"
+      ]
+    },
+    {
+      "slug": "freebsd",
+      "name": "FreeBSD",
+      "si": "freebsd",
+      "gb": "freebsd",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "fresh",
+      "name": "Fresh",
+      "si": "fresh",
+      "gb": "fresh",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "frontapp",
+      "name": "Front",
+      "gb": "frontapp",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "fsharp",
+      "name": "F#",
+      "si": "fsharp",
+      "gb": "fsharp",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "gatsby",
+      "name": "Gatsby",
+      "si": "gatsby",
+      "gb": "gatsby",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "ghost",
+      "name": "Ghost",
+      "si": "ghost",
+      "gb": "ghost",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "gin",
+      "name": "Gin",
+      "si": "gin",
+      "gb": "gin",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "git",
+      "name": "Git",
+      "si": "git",
+      "gb": "git",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "gitea",
+      "name": "Gitea",
+      "si": "gitea",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "github",
+      "name": "GitHub",
+      "si": "github",
+      "gb": "github",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "github-actions",
+      "name": "GitHub Actions",
+      "si": "githubactions",
+      "gb": "github-actions",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "github-copilot",
+      "name": "GitHub Copilot",
+      "si": "githubcopilot",
+      "gb": "github-copilot",
+      "categories": [
+        "ai",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "github-sponsors",
+      "name": "GitHub Sponsors",
+      "si": "githubsponsors",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "gitkraken",
+      "name": "GitKraken",
+      "si": "gitkraken",
+      "gb": "gitkraken",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "gitlab",
+      "si": "gitlab",
+      "gb": "gitlab",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "gleam",
+      "name": "Gleam",
+      "si": "gleam",
+      "gb": "gleam",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "glitch",
+      "name": "Glitch",
+      "si": "glitch",
+      "gb": "glitch",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "gnome",
+      "name": "GNOME",
+      "si": "gnome",
+      "gb": "gnome",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "go",
+      "name": "Go",
+      "si": "go",
+      "gb": "go",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "gocd",
+      "name": "GoCD",
+      "si": "gocd",
+      "gb": "gocd",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "godot",
+      "name": "Godot",
+      "gb": "godot",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "goland",
+      "name": "GoLand",
+      "si": "goland",
+      "gb": "goland",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "google",
+      "name": "Google",
+      "si": "google",
+      "gb": "google",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "google-aistudio",
+      "name": "Google AI Studio",
+      "gb": "google-aistudio",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "google-analytics",
+      "name": "Google Analytics",
+      "si": "googleanalytics",
+      "gb": "google-analytics",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "google-calendar",
+      "name": "Google Calendar",
+      "si": "googlecalendar",
+      "gb": "google-calendar",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "google-cloud",
+      "name": "Google Cloud",
+      "si": "googlecloud",
+      "gb": "google-cloud",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "google-cloud-functions",
+      "name": "Google Cloud Functions",
+      "gb": "google-cloud-functions",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "google-cloud-run",
+      "name": "Google Cloud Run",
+      "gb": "google-cloud-run",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "google-colab",
+      "name": "Google Colab",
+      "si": "googlecolab",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "google-drive",
+      "name": "Google Drive",
+      "si": "googledrive",
+      "gb": "google-drive",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "google-gemini",
+      "name": "Google Gemini",
+      "si": "googlegemini",
+      "gb": "google-gemini",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "google-gmail",
+      "si": "gmail",
+      "gb": "google-gmail",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "google-keep",
+      "name": "Google Keep",
+      "si": "googlekeep",
+      "gb": "google-keep",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "google-meet",
+      "name": "Google Meet",
+      "si": "googlemeet",
+      "gb": "google-meet",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "google-pay",
+      "name": "Google Pay",
+      "si": "googlepay",
+      "gb": "google-pay",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "google-search-console",
+      "name": "Google Search Console",
+      "si": "googlesearchconsole",
+      "gb": "google-search-console",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "google-tag-manager",
+      "name": "Google Tag Manager",
+      "si": "googletagmanager",
+      "gb": "google-tag-manager",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "google-workspace",
+      "name": "Google Workspace",
+      "gb": "google-workspace",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "gradio",
+      "name": "Gradio",
+      "si": "gradio",
+      "gb": "gradio",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "gradle",
+      "name": "Gradle",
+      "si": "gradle",
+      "gb": "gradle",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "grafana",
+      "name": "Grafana",
+      "si": "grafana",
+      "gb": "grafana",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "graphql",
+      "name": "GraphQL",
+      "si": "graphql",
+      "gb": "graphql",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "graylog",
+      "name": "Graylog",
+      "si": "graylog",
+      "gb": "graylog",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "gridsome",
+      "name": "Gridsome",
+      "si": "gridsome",
+      "gb": "gridsome",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "grok",
+      "name": "Grok",
+      "gb": "grok",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "grommet",
+      "name": "Grommet",
+      "gb": "grommet",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "growth-book",
+      "name": "GrowthBook",
+      "gb": "growth-book",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "grpc",
+      "name": "gRPC",
+      "gb": "grpc",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "grunt",
+      "name": "Grunt",
+      "si": "grunt",
+      "gb": "grunt",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "gsap",
+      "name": "GSAP",
+      "si": "gsap",
+      "gb": "gsap",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "gulp",
+      "si": "gulp",
+      "gb": "gulp",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "gunicorn",
+      "name": "Gunicorn",
+      "si": "gunicorn",
+      "gb": "gunicorn",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "hanami",
+      "name": "Hanami",
+      "gb": "hanami",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "hapi",
+      "name": "hapi",
+      "gb": "hapi",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "hardhat",
+      "name": "Hardhat",
+      "gb": "hardhat",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "harness",
+      "name": "Harness",
+      "gb": "harness",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "hashicorp",
+      "name": "HashiCorp",
+      "si": "hashicorp",
+      "gb": "hashicorp",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "hashnode",
+      "name": "Hashnode",
+      "si": "hashnode",
+      "gb": "hashnode",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "haskell",
+      "name": "Haskell",
+      "si": "haskell",
+      "gb": "haskell",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "hasura",
+      "name": "Hasura",
+      "si": "hasura",
+      "gb": "hasura",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "haxe",
+      "name": "Haxe",
+      "si": "haxe",
+      "gb": "haxe",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "hcaptcha",
+      "name": "hCaptcha",
+      "gb": "hcaptcha",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "headlessui",
+      "name": "Headless UI",
+      "si": "headlessui",
+      "gb": "headlessui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "heap",
+      "name": "Heap",
+      "gb": "heap",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "helix",
+      "name": "Helix",
+      "si": "helix",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "helm",
+      "name": "Helm",
+      "si": "helm",
+      "gb": "helm",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "helpscout",
+      "name": "Help Scout",
+      "si": "helpscout",
+      "gb": "helpscout",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "heroku",
+      "name": "Heroku",
+      "gb": "heroku",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "hetzner",
+      "name": "Hetzner",
+      "si": "hetzner",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "hexo",
+      "name": "Hexo",
+      "si": "hexo",
+      "gb": "hexo",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "hhvm",
+      "name": "HHVM",
+      "gb": "hhvm",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "highcharts",
+      "name": "Highcharts",
+      "gb": "highcharts",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "homebrew",
+      "name": "Homebrew",
+      "si": "homebrew",
+      "gb": "homebrew",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "hono",
+      "name": "Hono",
+      "si": "hono",
+      "gb": "hono",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "hoppscotch",
+      "name": "Hoppscotch",
+      "si": "hoppscotch",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "hostgator",
+      "name": "HostGator",
+      "gb": "hostgator",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "hotjar",
+      "name": "Hotjar",
+      "si": "hotjar",
+      "gb": "hotjar",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "html5",
+      "name": "HTML5",
+      "si": "html5",
+      "gb": "html-5",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "htmx",
+      "name": "htmx",
+      "si": "htmx",
+      "gb": "htmx",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "httpie",
+      "name": "HTTPie",
+      "si": "httpie",
+      "gb": "httpie",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "hugging-face",
+      "name": "Hugging Face",
+      "si": "huggingface",
+      "gb": "hugging-face",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "hugo",
+      "name": "Hugo",
+      "si": "hugo",
+      "gb": "hugo",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "hyperapp",
+      "name": "Hyperapp",
+      "gb": "hyperapp",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "ibm",
+      "name": "IBM",
+      "gb": "ibm",
+      "categories": [
+        "cloud",
+        "platforms"
+      ]
+    },
+    {
+      "slug": "ifttt",
+      "name": "IFTTT",
+      "si": "ifttt",
+      "gb": "ifttt",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "immer",
+      "name": "Immer",
+      "si": "immer",
+      "gb": "immer",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "immutable",
+      "name": "Immutable",
+      "gb": "immutable",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "incident",
+      "name": "Incident",
+      "gb": "incident",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "inferno",
+      "name": "Inferno",
+      "gb": "inferno",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "influxdb",
+      "name": "InfluxDB",
+      "si": "influxdb",
+      "gb": "influxdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "insomnia",
+      "name": "Insomnia",
+      "si": "insomnia",
+      "gb": "insomnia",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "instagram",
+      "name": "Instagram",
+      "si": "instagram",
+      "gb": "instagram",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "intel",
+      "name": "Intel",
+      "si": "intel",
+      "gb": "intel",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "intellij-idea",
+      "name": "IntelliJ IDEA",
+      "si": "intellijidea",
+      "gb": "intellij-idea",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "intercom",
+      "name": "Intercom",
+      "si": "intercom",
+      "gb": "intercom",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "internetcomputer",
+      "name": "Internet Computer",
+      "si": "internetcomputer",
+      "gb": "internetcomputer",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "interswitch",
+      "name": "Interswitch",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ],
+      "aliases": [
+        "Verve",
+        "Quickteller"
+      ]
+    },
+    {
+      "slug": "invision",
+      "name": "Invision",
+      "gb": "invision",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "ionic",
+      "name": "Ionic",
+      "si": "ionic",
+      "gb": "ionic",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "ios",
+      "name": "iOS",
+      "si": "ios",
+      "gb": "ios",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "istio",
+      "name": "Istio",
+      "si": "istio",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "iterm2",
+      "name": "iTerm2",
+      "si": "iterm2",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "jaeger",
+      "name": "Jaeger",
+      "si": "jaeger",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "jasmine",
+      "name": "Jasmine",
+      "si": "jasmine",
+      "gb": "jasmine",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "java",
+      "name": "Java",
+      "gb": "java",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "javascript",
+      "si": "javascript",
+      "gb": "javascript",
+      "categories": [
+        "languages"
+      ],
+      "name": "JavaScript",
+      "aliases": [
+        "JS"
+      ]
+    },
+    {
+      "slug": "jcb",
+      "name": "JCB",
+      "si": "jcb",
+      "gb": "jcb",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "jekyll",
+      "name": "Jekyll",
+      "si": "jekyll",
+      "gb": "jekyll",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "jenkins",
+      "name": "Jenkins",
+      "si": "jenkins",
+      "gb": "jenkins",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "jest",
+      "name": "Jest",
+      "si": "jest",
+      "gb": "jest",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "jetbrains",
+      "name": "JetBrains",
+      "si": "jetbrains",
+      "categories": [
+        "devtools",
+        "editors"
+      ]
+    },
+    {
+      "slug": "jira",
+      "si": "jira",
+      "gb": "jira",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "joomla",
+      "name": "Joomla",
+      "si": "joomla",
+      "gb": "joomla",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "jotai",
+      "name": "Jotai",
+      "gb": "jotai",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "jquery",
+      "name": "jQuery",
+      "si": "jquery",
+      "gb": "jquery",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "jruby",
+      "name": "JRuby",
+      "gb": "jruby",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "jsdelivr",
+      "name": "jsDelivr",
+      "si": "jsdelivr",
+      "gb": "jsdelivr",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "jsfiddle",
+      "name": "JSFiddle",
+      "si": "jsfiddle",
+      "gb": "jsfiddle",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "json",
+      "name": "JSON",
+      "si": "json",
+      "gb": "json",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "json-schema",
+      "name": "JSON Schema",
+      "gb": "json-schema",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "jspm",
+      "name": "JSPM",
+      "gb": "jspm",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "julia",
+      "name": "Julia",
+      "si": "julia",
+      "gb": "julia",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "junit",
+      "name": "JUnit5",
+      "si": "junit5",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "jupyter",
+      "name": "Jupyter",
+      "si": "jupyter",
+      "gb": "jupyter",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "jwt",
+      "name": "JWT",
+      "gb": "jwt",
+      "categories": [
+        "devtools",
+        "auth"
+      ]
+    },
+    {
+      "slug": "k3s",
+      "name": "K3s",
+      "si": "k3s",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "k6",
+      "name": "k6",
+      "si": "k6",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "kafka",
+      "name": "Kafka",
+      "gb": "kafka",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "kaggle",
+      "name": "Kaggle",
+      "si": "kaggle",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "karma",
+      "name": "Karma",
+      "gb": "karma",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "katalon",
+      "name": "Katalon",
+      "gb": "katalon",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "kde",
+      "name": "KDE",
+      "si": "kde",
+      "gb": "kde",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "keras",
+      "name": "Keras",
+      "si": "keras",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "keycdn",
+      "name": "KeyCDN",
+      "si": "keycdn",
+      "gb": "keycdn",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "keydb",
+      "name": "KeyDB",
+      "gb": "keydb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "keystonejs",
+      "name": "KeystoneJS",
+      "gb": "keystonejs",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "kibana",
+      "name": "Kibana",
+      "si": "kibana",
+      "gb": "kibana",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "kilo",
+      "name": "Kilo",
+      "gb": "kilo",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "kirby",
+      "si": "kirby",
+      "gb": "kirby",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "kiro",
+      "name": "Kiro",
+      "gb": "kiro",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "klarna",
+      "name": "Klarna",
+      "si": "klarna",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "knex",
+      "name": "Knex.js",
+      "si": "knexdotjs",
+      "gb": "knex",
+      "categories": [
+        "libraries",
+        "databases"
+      ]
+    },
+    {
+      "slug": "ko-fi",
+      "name": "Ko-fi",
+      "si": "kofi",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "koa",
+      "name": "Koa",
+      "si": "koa",
+      "gb": "koa",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "kotlin",
+      "name": "Kotlin",
+      "si": "kotlin",
+      "gb": "kotlin",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "koyeb",
+      "name": "Koyeb",
+      "si": "koyeb",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "kubernetes",
+      "name": "Kubernetes",
+      "si": "kubernetes",
+      "gb": "kubernetes",
+      "categories": [
+        "devtools",
+        "cloud",
+        "devops"
+      ]
+    },
+    {
+      "slug": "kuda",
+      "name": "Kuda",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ],
+      "aliases": [
+        "Kuda Bank"
+      ]
+    },
+    {
+      "slug": "langchain",
+      "name": "LangChain",
+      "si": "langchain",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "laravel",
+      "name": "Laravel",
+      "si": "laravel",
+      "gb": "laravel",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "lastpass",
+      "name": "LastPass",
+      "si": "lastpass",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "launchdarkly",
+      "name": "LaunchDarkly",
+      "gb": "launchdarkly",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "leaflet",
+      "name": "Leaflet",
+      "si": "leaflet",
+      "gb": "leaflet",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "lemon-squeezy",
+      "name": "Lemon Squeezy",
+      "si": "lemonsqueezy",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "lerna",
+      "name": "Lerna",
+      "si": "lerna",
+      "gb": "lerna",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "less",
+      "name": "Less",
+      "si": "less",
+      "gb": "less",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "letsencrypt",
+      "name": "Let's Encrypt",
+      "si": "letsencrypt",
+      "gb": "letsencrypt",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "leveldb",
+      "name": "LevelDB",
+      "gb": "leveldb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "lexical",
+      "name": "Lexical",
+      "gb": "lexical",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "librewolf",
+      "name": "LibreWolf",
+      "si": "librewolf",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "lighthouse",
+      "name": "Lighthouse",
+      "si": "lighthouse",
+      "gb": "lighthouse",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "lightstep",
+      "name": "Lightstep",
+      "gb": "lightstep",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "lighttpd",
+      "name": "lighttpd",
+      "gb": "lighttpd",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "linear",
+      "name": "Linear",
+      "si": "linear",
+      "gb": "linear",
+      "categories": [
+        "productivity",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "linkedin",
+      "name": "LinkedIn",
+      "gb": "linkedin",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "linkerd",
+      "si": "linkerd",
+      "gb": "linkerd",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "linode",
+      "name": "Linode",
+      "gb": "linode",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "linux",
+      "si": "linux",
+      "gb": "linux-tux",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "linux-mint",
+      "name": "Linux Mint",
+      "si": "linuxmint",
+      "gb": "linux-mint",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "lit",
+      "name": "Lit",
+      "si": "lit",
+      "gb": "lit",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "livekit",
+      "name": "LiveKit",
+      "si": "livekit",
+      "gb": "livekit",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "lodash",
+      "name": "Lodash",
+      "si": "lodash",
+      "gb": "lodash",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "logseq",
+      "name": "Logseq",
+      "si": "logseq",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "logstash",
+      "name": "Logstash",
+      "si": "logstash",
+      "gb": "logstash",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "looker",
+      "name": "Looker",
+      "si": "looker",
+      "gb": "looker",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "loom",
+      "name": "Loom",
+      "si": "loom",
+      "gb": "loom",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "loopback",
+      "si": "loopback",
+      "gb": "loopback",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "loops",
+      "name": "Loops",
+      "si": "loops",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "lottie",
+      "name": "LottieFiles",
+      "si": "lottiefiles",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "lovable",
+      "name": "Lovable",
+      "gb": "lovable",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "lua",
+      "name": "Lua",
+      "si": "lua",
+      "gb": "lua",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "lucide",
+      "name": "Lucide",
+      "si": "lucide",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "m-pesa",
+      "name": "M-Pesa",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ],
+      "aliases": [
+        "MPesa",
+        "Safaricom M-Pesa"
+      ]
+    },
+    {
+      "slug": "macos",
+      "si": "macos",
+      "gb": "macos",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "mailchimp",
+      "name": "Mailchimp",
+      "si": "mailchimp",
+      "gb": "mailchimp",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "mailgun",
+      "name": "Mailgun",
+      "si": "mailgun",
+      "gb": "mailgun",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "mailjet",
+      "name": "Mailjet",
+      "gb": "mailjet",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "make",
+      "name": "Make",
+      "si": "make",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "manjaro",
+      "name": "Manjaro",
+      "si": "manjaro",
+      "gb": "manjaro",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "mantine",
+      "name": "Mantine",
+      "si": "mantine",
+      "gb": "mantine",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "mapbox",
+      "name": "Mapbox",
+      "si": "mapbox",
+      "gb": "mapbox",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "mariadb",
+      "name": "MariaDB",
+      "si": "mariadb",
+      "gb": "mariadb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "markdown",
+      "name": "Markdown",
+      "si": "markdown",
+      "gb": "markdown",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "marko",
+      "name": "Marko",
+      "si": "marko",
+      "gb": "marko",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "marvel",
+      "name": "Marvel",
+      "gb": "marvel",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "mastercard",
+      "name": "Mastercard",
+      "si": "mastercard",
+      "gb": "mastercard",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "mastodon",
+      "name": "Mastodon",
+      "si": "mastodon",
+      "gb": "mastodon",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "material-ui",
+      "name": "Material UI",
+      "si": "mui",
+      "gb": "material-ui",
+      "categories": [
+        "ui"
+      ],
+      "aliases": [
+        "MUI"
+      ]
+    },
+    {
+      "slug": "materializecss",
+      "name": "Materialize",
+      "gb": "materializecss",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "matomo",
+      "name": "Matomo",
+      "si": "matomo",
+      "gb": "matomo",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "matplotlib",
+      "name": "Matplotlib",
+      "gb": "matplotlib",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "matrix",
+      "name": "Matrix",
+      "si": "matrix",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "mattermost",
+      "name": "Mattermost",
+      "si": "mattermost",
+      "gb": "mattermost",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "maven",
+      "name": "Maven",
+      "gb": "maven",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "mcp",
+      "name": "MCP",
+      "gb": "mcp",
+      "categories": [
+        "ai"
+      ],
+      "aliases": [
+        "Model Context Protocol"
+      ]
+    },
+    {
+      "slug": "mdx",
+      "name": "MDX",
+      "si": "mdx",
+      "gb": "mdx",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "medium",
+      "name": "Medium",
+      "si": "medium",
+      "gb": "medium",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "medusa",
+      "si": "medusa",
+      "gb": "medusa",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "meilisearch",
+      "name": "Meilisearch",
+      "si": "meilisearch",
+      "gb": "meilisearch",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "memcached",
+      "name": "Memcached",
+      "gb": "memcached",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "memgraph",
+      "name": "Memgraph",
+      "gb": "memgraph",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "mercurial",
+      "name": "Mercurial",
+      "si": "mercurial",
+      "gb": "mercurial",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "mermaid",
+      "name": "Mermaid",
+      "si": "mermaid",
+      "gb": "mermaid",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "messenger",
+      "name": "Messenger",
+      "si": "messenger",
+      "gb": "messenger",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "meta",
+      "name": "Meta",
+      "si": "meta",
+      "gb": "meta",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "metabase",
+      "name": "Metabase",
+      "si": "metabase",
+      "gb": "metabase",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "metamask",
+      "name": "MetaMask",
+      "gb": "metamask",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "meteor",
+      "name": "Meteor",
+      "si": "meteor",
+      "gb": "meteor",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "micropython",
+      "name": "MicroPython",
+      "si": "micropython",
+      "gb": "micropython",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "microsoft",
+      "name": "Microsoft",
+      "gb": "microsoft",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "microsoft-azure",
+      "name": "Microsoft Azure",
+      "gb": "microsoft-azure",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "microsoft-edge",
+      "name": "Microsoft Edge",
+      "gb": "microsoft-edge",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "microsoft-onedrive",
+      "name": "Microsoft OneDrive",
+      "gb": "microsoft-onedrive",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "microsoft-power-bi",
+      "name": "Microsoft Power BI",
+      "gb": "microsoft-power-bi",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "microsoft-teams",
+      "name": "Microsoft Teams",
+      "gb": "microsoft-teams",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "microsoft-windows",
+      "name": "Microsoft Windows",
+      "gb": "microsoft-windows",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "midjourney",
+      "name": "Midjourney",
+      "gb": "midjourney",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "milvus",
+      "name": "Milvus",
+      "si": "milvus",
+      "gb": "milvus",
+      "categories": [
+        "ai",
+        "databases"
+      ]
+    },
+    {
+      "slug": "mindsdb",
+      "name": "MindsDB",
+      "gb": "mindsdb",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "minimax",
+      "name": "MiniMax",
+      "si": "minimax",
+      "gb": "minimax",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "miro",
+      "name": "Miro",
+      "si": "miro",
+      "gb": "miro",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "mistral",
+      "name": "Mistral AI",
+      "si": "mistralai",
+      "gb": "mistral-ai",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "mithril",
+      "name": "Mithril",
+      "gb": "mithril",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "mixpanel",
+      "name": "Mixpanel",
+      "si": "mixpanel",
+      "gb": "mixpanel",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "mobx",
+      "name": "MobX",
+      "si": "mobx",
+      "gb": "mobx",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "mocha",
+      "name": "Mocha",
+      "si": "mocha",
+      "gb": "mocha",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "momentjs",
+      "name": "Moment.js",
+      "gb": "momentjs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "monday",
+      "name": "Monday",
+      "gb": "monday",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "monero",
+      "name": "Monero",
+      "si": "monero",
+      "gb": "monero",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "mongodb",
+      "name": "MongoDB",
+      "si": "mongodb",
+      "gb": "mongodb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "mongoose",
+      "name": "Mongoose",
+      "si": "mongoose",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "moniepoint",
+      "name": "Moniepoint",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "moonshot-ai",
+      "name": "Moonshot AI",
+      "gb": "moonshot-ai",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "msw",
+      "name": "MSW",
+      "gb": "msw",
+      "categories": [
+        "testing"
+      ],
+      "aliases": [
+        "Mock Service Worker"
+      ]
+    },
+    {
+      "slug": "mtn",
+      "name": "MTN",
+      "addition": true,
+      "hex": "#ffcb05",
+      "categories": [
+        "african-brands",
+        "communication",
+        "payments"
+      ],
+      "aliases": [
+        "MTN MoMo",
+        "MoMo",
+        "Mobile Money"
+      ]
+    },
+    {
+      "slug": "mysql",
+      "name": "MySQL",
+      "si": "mysql",
+      "gb": "mysql",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "n8n",
+      "name": "n8n",
+      "si": "n8n",
+      "gb": "n8n",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "naiveui",
+      "name": "Naive UI",
+      "gb": "naiveui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "namecheap",
+      "name": "Namecheap",
+      "si": "namecheap",
+      "gb": "namecheap",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "nativescript",
+      "name": "NativeScript",
+      "si": "nativescript",
+      "gb": "nativescript",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "nats",
+      "name": "NATS",
+      "gb": "nats",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "neo4j",
+      "name": "Neo4j",
+      "si": "neo4j",
+      "gb": "neo4j",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "neon",
+      "name": "Neon",
+      "si": "neon",
+      "gb": "neon",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "neovim",
+      "name": "Neovim",
+      "si": "neovim",
+      "gb": "neovim",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "nestjs",
+      "name": "NestJS",
+      "si": "nestjs",
+      "gb": "nestjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "netbeans",
+      "name": "Netbeans",
+      "gb": "netbeans",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "netlify",
+      "name": "Netlify",
+      "si": "netlify",
+      "gb": "netlify",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "new-relic",
+      "name": "New Relic",
+      "si": "newrelic",
+      "gb": "new-relic",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "nextjs",
+      "name": "Next.js",
+      "si": "nextdotjs",
+      "gb": "nextjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "nginx",
+      "name": "NGINX",
+      "si": "nginx",
+      "gb": "nginx",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "ngrok",
+      "name": "ngrok",
+      "si": "ngrok",
+      "gb": "ngrok",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "nhost",
+      "si": "nhost",
+      "gb": "nhost",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "nightwatch",
+      "name": "Nightwatch.js",
+      "gb": "nightwatch",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "nim",
+      "name": "Nim",
+      "si": "nim",
+      "gb": "nim-lang",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "nodejs",
+      "name": "Node.js",
+      "si": "nodedotjs",
+      "gb": "nodejs",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "nodemon",
+      "si": "nodemon",
+      "gb": "nodemon",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "nomad",
+      "name": "Nomad",
+      "si": "nomad",
+      "gb": "nomad",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "notion",
+      "name": "Notion",
+      "si": "notion",
+      "gb": "notion",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "npm",
+      "si": "npm",
+      "gb": "npm",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "numpy",
+      "name": "NumPy",
+      "si": "numpy",
+      "gb": "numpy",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "nuxt",
+      "name": "Nuxt",
+      "si": "nuxt",
+      "gb": "nuxt",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "nvidia",
+      "si": "nvidia",
+      "gb": "nvidia",
+      "categories": [
+        "ai",
+        "platforms"
+      ]
+    },
+    {
+      "slug": "nvm",
+      "name": "nvm",
+      "si": "nvm",
+      "gb": "nvm",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "nx",
+      "name": "Nx",
+      "si": "nx",
+      "gb": "nx",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "oauth",
+      "name": "OAuth",
+      "gb": "oauth",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "obsidian",
+      "name": "Obsidian",
+      "si": "obsidian",
+      "gb": "obsidian",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "ocaml",
+      "name": "OCaml",
+      "si": "ocaml",
+      "gb": "ocaml",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "octopus-deploy",
+      "name": "Octopus Deploy",
+      "si": "octopusdeploy",
+      "gb": "octopus-deploy",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "okta",
+      "name": "Okta",
+      "si": "okta",
+      "gb": "okta",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "ollama",
+      "name": "Ollama",
+      "si": "ollama",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "onesignal",
+      "name": "OneSignal",
+      "gb": "onesignal",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "opay",
+      "name": "OPay",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "openai",
+      "name": "OpenAI",
+      "gb": "openai",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "openapi",
+      "name": "OpenAPI",
+      "gb": "openapi",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "opencart",
+      "name": "OpenCart",
+      "gb": "opencart",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "opencode",
+      "name": "OpenCode",
+      "si": "opencode",
+      "gb": "opencode",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "opencollective",
+      "si": "opencollective",
+      "gb": "opencollective",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "opencv",
+      "name": "OpenCV",
+      "si": "opencv",
+      "gb": "opencv",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "opensearch",
+      "name": "OpenSearch",
+      "si": "opensearch",
+      "gb": "opensearch",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "openshift",
+      "name": "OpenShift",
+      "gb": "openshift",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "openstack",
+      "si": "openstack",
+      "gb": "openstack",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "opentelemetry",
+      "name": "OpenTelemetry",
+      "si": "opentelemetry",
+      "gb": "opentelemetry",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "openzeppelin",
+      "name": "OpenZeppelin",
+      "si": "openzeppelin",
+      "gb": "open-zeppelin",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "opera",
+      "name": "Opera",
+      "si": "opera",
+      "gb": "opera",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "opsgenie",
+      "si": "opsgenie",
+      "gb": "opsgenie",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "optimizely",
+      "name": "Optimizely",
+      "gb": "optimizely",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "oracle",
+      "name": "Oracle",
+      "gb": "oracle",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "orange",
+      "si": "orange",
+      "categories": [
+        "african-brands",
+        "communication"
+      ]
+    },
+    {
+      "slug": "orange-money",
+      "name": "Orange Money",
+      "addition": true,
+      "hex": "#ff7900",
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "ory",
+      "name": "Ory",
+      "si": "ory",
+      "gb": "ory",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "ovh",
+      "name": "OVH",
+      "si": "ovh",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "oxc",
+      "si": "oxc",
+      "gb": "oxc",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "p5js",
+      "name": "p5.js",
+      "si": "p5dotjs",
+      "gb": "p5js",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "packer",
+      "name": "Packer",
+      "si": "packer",
+      "gb": "packer",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "paddle",
+      "name": "Paddle",
+      "si": "paddle",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "pagerduty",
+      "name": "PagerDuty",
+      "si": "pagerduty",
+      "gb": "pagerduty",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "pandacss",
+      "name": "Panda",
+      "gb": "pandacss",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "pandas",
+      "si": "pandas",
+      "gb": "pandas",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "parcel",
+      "name": "Parcel",
+      "gb": "parcel",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "passbolt",
+      "name": "Passbolt",
+      "si": "passbolt",
+      "gb": "passbolt",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "passport",
+      "name": "Passport",
+      "si": "passport",
+      "gb": "passport",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "patreon",
+      "name": "Patreon",
+      "si": "patreon",
+      "gb": "patreon",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "payload",
+      "name": "Payload",
+      "gb": "payload",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "paypal",
+      "name": "PayPal",
+      "si": "paypal",
+      "gb": "paypal",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "paystack",
+      "name": "Paystack",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "penpot",
+      "name": "Penpot",
+      "si": "penpot",
+      "gb": "penpot",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "percy",
+      "name": "Percy",
+      "si": "percy",
+      "gb": "percy",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "perl",
+      "name": "Perl",
+      "si": "perl",
+      "gb": "perl",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "perplexity",
+      "si": "perplexity",
+      "gb": "perplexity",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "phoenix",
+      "name": "Phoenix",
+      "gb": "phoenix",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "php",
+      "name": "PHP",
+      "si": "php",
+      "gb": "php",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "phpstorm",
+      "name": "PhpStorm",
+      "si": "phpstorm",
+      "gb": "phpstorm",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "pico-css",
+      "name": "Pico CSS",
+      "gb": "pico-css",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "pinecone",
+      "name": "Pinecone",
+      "gb": "pinecone",
+      "categories": [
+        "ai",
+        "databases"
+      ]
+    },
+    {
+      "slug": "pinia",
+      "name": "Pinia",
+      "si": "pinia",
+      "gb": "pinia",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "pinterest",
+      "name": "Pinterest",
+      "si": "pinterest",
+      "gb": "pinterest",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "pipecat",
+      "name": "Pipecat",
+      "si": "pipecat",
+      "gb": "pipecat",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "pipedream",
+      "name": "Pipedream",
+      "gb": "pipedream",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "pixijs",
+      "name": "PixiJS",
+      "gb": "pixijs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "planetscale",
+      "name": "PlanetScale",
+      "si": "planetscale",
+      "gb": "planetscale",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "plasmic",
+      "name": "Plasmic",
+      "gb": "plasmic",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "plausible",
+      "name": "Plausible Analytics",
+      "si": "plausibleanalytics",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "playwright",
+      "name": "Playwright",
+      "gb": "playwright",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "pm2",
+      "name": "PM2",
+      "si": "pm2",
+      "gb": "pm2",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "pnpm",
+      "si": "pnpm",
+      "gb": "pnpm",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "pocketbase",
+      "name": "PocketBase",
+      "si": "pocketbase",
+      "gb": "pocket-base",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "podman",
+      "name": "Podman",
+      "si": "podman",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "poetry",
+      "name": "Poetry",
+      "si": "poetry",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "polygon",
+      "name": "Polygon",
+      "si": "polygon",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "polymer",
+      "name": "Polymer",
+      "gb": "polymer",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "pop-os",
+      "name": "Pop!_OS",
+      "si": "popos",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "portainer",
+      "name": "Portainer",
+      "si": "portainer",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "postcss",
+      "name": "PostCSS",
+      "si": "postcss",
+      "gb": "postcss",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "postgresql",
+      "name": "PostgreSQL",
+      "si": "postgresql",
+      "gb": "postgresql",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "posthog",
+      "name": "PostHog",
+      "si": "posthog",
+      "gb": "posthog",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "postman",
+      "name": "Postman",
+      "si": "postman",
+      "gb": "postman",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "preact",
+      "name": "Preact",
+      "si": "preact",
+      "gb": "preact",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "prestashop",
+      "name": "PrestaShop",
+      "si": "prestashop",
+      "gb": "prestashop",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "prettier",
+      "name": "Prettier",
+      "si": "prettier",
+      "gb": "prettier",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "prisma",
+      "name": "Prisma",
+      "si": "prisma",
+      "gb": "prisma",
+      "categories": [
+        "databases",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "prismic",
+      "name": "Prismic",
+      "si": "prismic",
+      "gb": "prismic",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "producthunt",
+      "name": "Product Hunt",
+      "si": "producthunt",
+      "gb": "producthunt",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "prometheus",
+      "name": "Prometheus",
+      "si": "prometheus",
+      "gb": "prometheus",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "protractor",
+      "name": "Protractor",
+      "si": "protractor",
+      "gb": "protractor",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "pulumi",
+      "name": "Pulumi",
+      "si": "pulumi",
+      "gb": "pulumi",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "puppet",
+      "name": "Puppet",
+      "si": "puppet",
+      "gb": "puppet",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "puppeteer",
+      "name": "Puppeteer",
+      "si": "puppeteer",
+      "gb": "puppeteer",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "purescript",
+      "si": "purescript",
+      "gb": "purescript",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "pusher",
+      "name": "Pusher",
+      "si": "pusher",
+      "gb": "pusher",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "pycharm",
+      "name": "PyCharm",
+      "si": "pycharm",
+      "gb": "pycharm",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "pypi",
+      "name": "PyPI",
+      "si": "pypi",
+      "gb": "pypi",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "pyscript",
+      "name": "PyScript",
+      "gb": "pyscript",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "pytest",
+      "name": "Pytest",
+      "si": "pytest",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "python",
+      "name": "Python",
+      "si": "python",
+      "gb": "python",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "pytorch",
+      "name": "PyTorch",
+      "si": "pytorch",
+      "gb": "pytorch",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "qdrant",
+      "name": "Qdrant",
+      "si": "qdrant",
+      "gb": "qdrant",
+      "categories": [
+        "ai",
+        "databases"
+      ]
+    },
+    {
+      "slug": "qt",
+      "name": "Qt",
+      "si": "qt",
+      "gb": "qt",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "qualcomm",
+      "name": "Qualcomm",
+      "si": "qualcomm",
+      "gb": "qualcomm",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "quarkus",
+      "name": "Quarkus",
+      "si": "quarkus",
+      "gb": "quarkus",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "qwen",
+      "name": "Qwen",
+      "si": "qwen",
+      "gb": "Qwen",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "qwik",
+      "name": "Qwik",
+      "si": "qwik",
+      "gb": "qwik",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "r",
+      "si": "r",
+      "gb": "r-lang",
+      "categories": [
+        "languages"
+      ],
+      "name": "R",
+      "aliases": [
+        "R language"
+      ]
+    },
+    {
+      "slug": "rabbitmq",
+      "name": "RabbitMQ",
+      "si": "rabbitmq",
+      "gb": "rabbitmq",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "rackspace",
+      "name": "Rackspace",
+      "gb": "rackspace",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "radix-ui",
+      "name": "Radix UI",
+      "si": "radixui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "rails",
+      "name": "Rails",
+      "gb": "rails",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "railway",
+      "name": "Railway",
+      "si": "railway",
+      "gb": "railway",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "ramda",
+      "name": "Ramda",
+      "gb": "ramda",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "rancher",
+      "name": "Rancher",
+      "si": "rancher",
+      "gb": "rancher",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "raspberry-pi",
+      "name": "Raspberry Pi",
+      "si": "raspberrypi",
+      "gb": "raspberry-pi",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "raycast",
+      "name": "Raycast",
+      "si": "raycast",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "razorpay",
+      "name": "Razorpay",
+      "si": "razorpay",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "react",
+      "name": "React",
+      "si": "react",
+      "gb": "react",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "react-query",
+      "name": "React Query",
+      "si": "reactquery",
+      "gb": "react-query",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "react-router",
+      "si": "reactrouter",
+      "gb": "react-router",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "react-spring",
+      "name": "React Spring",
+      "gb": "react-spring",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "reactivex",
+      "si": "reactivex",
+      "gb": "reactivex",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "realm",
+      "name": "Realm",
+      "gb": "realm",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "reasonml",
+      "name": "Reason ML",
+      "gb": "reasonml",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "recaptcha",
+      "name": "reCAPTCHA",
+      "gb": "recaptcha",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "recoil",
+      "name": "Recoil",
+      "si": "recoil",
+      "gb": "recoil",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "reddit",
+      "name": "Reddit",
+      "si": "reddit",
+      "gb": "reddit",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "redhat",
+      "si": "redhat",
+      "gb": "redhat",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "redis",
+      "name": "Redis",
+      "si": "redis",
+      "gb": "redis",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "redux",
+      "name": "Redux",
+      "si": "redux",
+      "gb": "redux",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "redwoodjs",
+      "name": "RedwoodJS",
+      "si": "redwoodjs",
+      "gb": "redwoodjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "relay",
+      "name": "Relay",
+      "si": "relay",
+      "gb": "relay",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "remix",
+      "name": "Remix",
+      "si": "remix",
+      "gb": "remix",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "render",
+      "name": "Render",
+      "si": "render",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "renovatebot",
+      "name": "Renovate",
+      "si": "renovate",
+      "gb": "renovatebot",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "replicate",
+      "name": "Replicate",
+      "si": "replicate",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "replit",
+      "name": "Replit",
+      "si": "replit",
+      "gb": "replit",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "rescript",
+      "name": "ReScript",
+      "si": "rescript",
+      "gb": "rescript",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "resend",
+      "name": "Resend",
+      "si": "resend",
+      "gb": "resend",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "rethinkdb",
+      "name": "RethinkDB",
+      "gb": "rethinkdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "retool",
+      "name": "Retool",
+      "si": "retool",
+      "gb": "retool",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "revolut",
+      "name": "Revolut",
+      "si": "revolut",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "rider",
+      "name": "Rider",
+      "si": "rider",
+      "gb": "rider",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "riotjs",
+      "name": "Riot",
+      "gb": "riotjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "risingwave",
+      "name": "RisingWave",
+      "gb": "risingwave",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "rocket-chat",
+      "si": "rocketdotchat",
+      "gb": "rocket-chat",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "rocksdb",
+      "name": "RocksDB",
+      "si": "rocksdb",
+      "gb": "rocksdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "rocky-linux",
+      "name": "Rocky Linux",
+      "si": "rockylinux",
+      "gb": "rocky-linux",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "rollbar",
+      "name": "Rollbar",
+      "si": "rollbar",
+      "gb": "rollbar",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "rolldown",
+      "name": "Rolldown",
+      "si": "rolldown",
+      "gb": "rolldown",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "rollup",
+      "name": "rollup.js",
+      "si": "rollupdotjs",
+      "gb": "rollupjs",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "ruby",
+      "name": "Ruby",
+      "si": "ruby",
+      "gb": "ruby",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "rubygems",
+      "name": "RubyGems",
+      "si": "rubygems",
+      "gb": "rubygems",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "rubymine",
+      "name": "RubyMine",
+      "si": "rubymine",
+      "gb": "rubymine",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "rush",
+      "name": "Rush",
+      "gb": "rush",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "rust",
+      "name": "Rust",
+      "si": "rust",
+      "gb": "rust",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "safari",
+      "name": "Safari",
+      "si": "safari",
+      "gb": "safari",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "sails",
+      "name": "Sails",
+      "gb": "sails",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "samsung",
+      "name": "Samsung",
+      "si": "samsung",
+      "gb": "samsung",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "sanity",
+      "name": "Sanity",
+      "si": "sanity",
+      "gb": "sanity",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "sass",
+      "name": "Sass",
+      "si": "sass",
+      "gb": "sass",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "saucelabs",
+      "name": "Sauce Labs",
+      "si": "saucelabs",
+      "gb": "saucelabs",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "scala",
+      "name": "Scala",
+      "si": "scala",
+      "gb": "scala",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "scaleway",
+      "name": "Scaleway",
+      "si": "scaleway",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "scikit-learn",
+      "name": "scikit-learn",
+      "si": "scikitlearn",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "seaborn",
+      "name": "seaborn",
+      "gb": "seaborn",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "segment",
+      "name": "Segment",
+      "gb": "segment",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "selenium",
+      "name": "Selenium",
+      "si": "selenium",
+      "gb": "selenium",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "semantic-release",
+      "name": "semantic-release",
+      "si": "semanticrelease",
+      "gb": "semantic-release",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "semantic-ui",
+      "name": "Semantic UI",
+      "si": "semanticuireact",
+      "gb": "semantic-ui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "semaphore",
+      "name": "Semaphore",
+      "gb": "semaphore",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "sendgrid",
+      "name": "SendGrid",
+      "gb": "sendgrid",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "sentry",
+      "name": "Sentry",
+      "si": "sentry",
+      "gb": "sentry",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "sequelize",
+      "name": "Sequelize",
+      "si": "sequelize",
+      "gb": "sequelize",
+      "categories": [
+        "libraries",
+        "databases"
+      ]
+    },
+    {
+      "slug": "serverless",
+      "name": "Serverless",
+      "si": "serverless",
+      "gb": "serverless",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "shadcn-ui",
+      "name": "shadcn/ui",
+      "si": "shadcnui",
+      "categories": [
+        "frameworks",
+        "design",
+        "ui"
+      ]
+    },
+    {
+      "slug": "shopify",
+      "name": "Shopify",
+      "si": "shopify",
+      "gb": "shopify",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "signal",
+      "name": "Signal",
+      "si": "signal",
+      "gb": "signal",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "signoz",
+      "name": "SigNoz",
+      "gb": "signoz",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "sinatra",
+      "name": "Sinatra",
+      "gb": "sinatra",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "singlestore",
+      "name": "SingleStore",
+      "si": "singlestore",
+      "gb": "singlestore",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "sketch",
+      "name": "Sketch",
+      "si": "sketch",
+      "gb": "sketchapp",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "skype",
+      "name": "Skype",
+      "gb": "skype",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "slack",
+      "name": "Slack",
+      "gb": "slack",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "snapchat",
+      "name": "Snapchat",
+      "si": "snapchat",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "snowflake",
+      "si": "snowflake",
+      "gb": "snowflake",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "snowpack",
+      "name": "Snowpack",
+      "si": "snowpack",
+      "gb": "snowpack",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "snyk",
+      "name": "Snyk",
+      "si": "snyk",
+      "gb": "snyk",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "socket-io",
+      "name": "Socket.io",
+      "si": "socketdotio",
+      "gb": "socket_io",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "solana",
+      "name": "Solana",
+      "si": "solana",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "solidity",
+      "name": "Solidity",
+      "si": "solidity",
+      "gb": "solidity",
+      "categories": [
+        "languages",
+        "web3"
+      ]
+    },
+    {
+      "slug": "solidjs",
+      "name": "Solid",
+      "si": "solid",
+      "gb": "solidjs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "sonarcloud",
+      "name": "SonarCloud",
+      "gb": "sonarcloud",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "sonarqube",
+      "name": "SonarQube",
+      "gb": "sonarqube",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "sourcegraph",
+      "name": "Sourcegraph",
+      "gb": "sourcegraph",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "sourcetree",
+      "si": "sourcetree",
+      "gb": "sourcetree",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "sparkpost",
+      "name": "SparkPost",
+      "si": "sparkpost",
+      "gb": "sparkpost",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "spinnaker",
+      "name": "Spinnaker",
+      "si": "spinnaker",
+      "gb": "spinnaker",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "splunk",
+      "name": "Splunk",
+      "si": "splunk",
+      "gb": "splunk",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "spotify",
+      "name": "Spotify",
+      "si": "spotify",
+      "gb": "spotify",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "spree",
+      "name": "Spree Commerce",
+      "gb": "spree",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "spring",
+      "name": "Spring",
+      "si": "spring",
+      "gb": "spring",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "sqlite",
+      "name": "SQLite",
+      "si": "sqlite",
+      "gb": "sqlite",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "square",
+      "name": "Square",
+      "si": "square",
+      "gb": "square",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "squarespace",
+      "name": "Squarespace",
+      "si": "squarespace",
+      "gb": "squarespace",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "sst",
+      "name": "SST",
+      "si": "sst",
+      "gb": "sst",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "stability-ai",
+      "name": "Stability AI",
+      "gb": "stability-ai",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "stackblitz",
+      "name": "StackBlitz",
+      "si": "stackblitz",
+      "gb": "stackblitz",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "stackoverflow",
+      "name": "Stack Overflow",
+      "si": "stackoverflow",
+      "gb": "stackoverflow",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "statuspage",
+      "si": "statuspage",
+      "gb": "statuspage",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "steam-deck",
+      "name": "Steam Deck",
+      "si": "steamdeck",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "stenciljs",
+      "name": "Stencil",
+      "si": "stencil",
+      "gb": "stenciljs",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "stoplight",
+      "name": "StopLight",
+      "gb": "stoplight",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "storyblok",
+      "name": "Storyblok",
+      "si": "storyblok",
+      "gb": "storyblok",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "storybook",
+      "name": "Storybook",
+      "si": "storybook",
+      "gb": "storybook",
+      "categories": [
+        "libraries",
+        "devtools"
+      ]
+    },
+    {
+      "slug": "strapi",
+      "name": "Strapi",
+      "si": "strapi",
+      "gb": "strapi",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "streamlit",
+      "name": "Streamlit",
+      "si": "streamlit",
+      "gb": "streamlit",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "stripe",
+      "name": "Stripe",
+      "si": "stripe",
+      "gb": "stripe",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "struts",
+      "name": "Struts",
+      "gb": "struts",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "styled-components",
+      "name": "styled-components",
+      "si": "styledcomponents",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "stylelint",
+      "name": "stylelint",
+      "si": "stylelint",
+      "gb": "stylelint",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "stylex",
+      "name": "StyleX",
+      "gb": "stylex",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "stylus",
+      "name": "Stylus",
+      "si": "stylus",
+      "gb": "stylus",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "stytch",
+      "name": "Stytch",
+      "gb": "stytch",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "sublimetext",
+      "name": "Sublime Text",
+      "si": "sublimetext",
+      "gb": "sublimetext",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "substack",
+      "name": "Substack",
+      "si": "substack",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "subversion",
+      "name": "Subversion",
+      "si": "subversion",
+      "gb": "subversion",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "supabase",
+      "name": "Supabase",
+      "si": "supabase",
+      "gb": "supabase",
+      "categories": [
+        "databases",
+        "auth"
+      ]
+    },
+    {
+      "slug": "supertokens",
+      "name": "SuperTokens",
+      "gb": "supertokens",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "surge",
+      "name": "Surge",
+      "gb": "surge",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "surrealdb",
+      "name": "SurrealDB",
+      "si": "surrealdb",
+      "gb": "surrealdb",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "suse",
+      "si": "suse",
+      "gb": "suse",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "svelte",
+      "name": "Svelte",
+      "si": "svelte",
+      "gb": "svelte",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "sveltekit",
+      "name": "SvelteKit",
+      "gb": "svelte-kit",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "svgator",
+      "name": "Svgator",
+      "gb": "svgator",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "swagger",
+      "name": "Swagger",
+      "si": "swagger",
+      "gb": "swagger",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "swc",
+      "name": "SWC",
+      "si": "swc",
+      "gb": "swc",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "swift",
+      "name": "Swift",
+      "si": "swift",
+      "gb": "swift",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "swr",
+      "name": "SWR",
+      "si": "swr",
+      "gb": "swr",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "symfony",
+      "name": "Symfony",
+      "si": "symfony",
+      "gb": "symfony",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "sysdig",
+      "name": "Sysdig",
+      "gb": "sysdig",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "t3",
+      "name": "T3",
+      "gb": "t3",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "tableau",
+      "name": "Tableau",
+      "gb": "tableau",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "tailwindcss",
+      "name": "Tailwind CSS",
+      "si": "tailwindcss",
+      "gb": "tailwindcss",
+      "categories": [
+        "frameworks",
+        "design",
+        "ui"
+      ]
+    },
+    {
+      "slug": "tanstack",
+      "name": "TanStack",
+      "si": "tanstack",
+      "categories": [
+        "frameworks",
+        "libraries"
+      ]
+    },
+    {
+      "slug": "taskade",
+      "name": "Taskade",
+      "gb": "taskade",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "tauri",
+      "name": "Tauri",
+      "si": "tauri",
+      "gb": "tauri",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "teamcity",
+      "name": "TeamCity",
+      "si": "teamcity",
+      "gb": "teamcity",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "telegram",
+      "name": "Telegram",
+      "si": "telegram",
+      "gb": "telegram",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "tensorflow",
+      "name": "TensorFlow",
+      "si": "tensorflow",
+      "gb": "tensorflow",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "terminal",
+      "name": "Terminal",
+      "gb": "terminal",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "terraform",
+      "name": "Terraform",
+      "si": "terraform",
+      "gb": "terraform",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "terser",
+      "name": "Terser",
+      "gb": "terser",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "testcafe",
+      "name": "TestCafe",
+      "si": "testcafe",
+      "gb": "testcafe",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "testing-library",
+      "name": "Testing Library",
+      "si": "testinglibrary",
+      "gb": "testing-library",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "threads",
+      "name": "Threads",
+      "si": "threads",
+      "gb": "threads",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "threejs",
+      "si": "threedotjs",
+      "gb": "threejs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "tiktok",
+      "name": "TikTok",
+      "si": "tiktok",
+      "gb": "tiktok",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "timescale",
+      "name": "Timescale",
+      "si": "timescale",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "tldraw",
+      "name": "tldraw",
+      "si": "tldraw",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "tmux",
+      "name": "tmux",
+      "si": "tmux",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "todoist",
+      "name": "Todoist",
+      "si": "todoist",
+      "gb": "todoist",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "tomcat",
+      "name": "Apache Tomcat",
+      "si": "apachetomcat",
+      "gb": "tomcat",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "toml",
+      "name": "TOML",
+      "si": "toml",
+      "gb": "toml",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "tor",
+      "name": "Tor",
+      "gb": "tor",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "traefik",
+      "name": "Traefik Proxy",
+      "si": "traefikproxy",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "travis-ci",
+      "name": "Travis CI",
+      "si": "travisci",
+      "gb": "travis-ci",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "trello",
+      "name": "Trello",
+      "si": "trello",
+      "gb": "trello",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "trpc",
+      "name": "tRPC",
+      "si": "trpc",
+      "gb": "trpc",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "truffle",
+      "name": "Truffle",
+      "gb": "truffle",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "tsnode",
+      "name": "ts-node",
+      "si": "tsnode",
+      "gb": "tsnode",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "turbopack",
+      "name": "Turbopack",
+      "gb": "turbopack",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "turborepo",
+      "name": "Turborepo",
+      "si": "turborepo",
+      "gb": "turborepo",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "turso",
+      "name": "Turso",
+      "si": "turso",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "twilio",
+      "name": "Twilio",
+      "gb": "twilio",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "twitch",
+      "name": "Twitch",
+      "si": "twitch",
+      "gb": "twitch",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "typeform",
+      "name": "Typeform",
+      "si": "typeform",
+      "gb": "typeform",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "typeorm",
+      "name": "TypeORM",
+      "si": "typeorm",
+      "gb": "typeorm",
+      "categories": [
+        "libraries",
+        "databases"
+      ]
+    },
+    {
+      "slug": "typescript",
+      "si": "typescript",
+      "gb": "typescript",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "typesense",
+      "name": "typesense",
+      "gb": "typesense",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "typo3",
+      "name": "TYPO3",
+      "si": "typo3",
+      "gb": "typo3",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "ubuntu",
+      "si": "ubuntu",
+      "gb": "ubuntu",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "uikit",
+      "si": "uikit",
+      "gb": "uikit",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "umbraco",
+      "name": "Umbraco",
+      "si": "umbraco",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "unionpay",
+      "name": "UnionPay",
+      "gb": "unionpay",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "unity",
+      "name": "Unity",
+      "si": "unity",
+      "gb": "unity",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "unjs",
+      "name": "UnJS",
+      "si": "unjs",
+      "gb": "unjs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "unocss",
+      "si": "unocss",
+      "gb": "unocss",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "unrealengine",
+      "name": "Unreal Engine",
+      "si": "unrealengine",
+      "gb": "unrealengine",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "unsplash",
+      "name": "Unsplash",
+      "si": "unsplash",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "upstash",
+      "name": "Upstash",
+      "si": "upstash",
+      "gb": "upstash",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "uptime-kuma",
+      "name": "Uptime Kuma",
+      "si": "uptimekuma",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "uv",
+      "name": "uv",
+      "si": "uv",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "v",
+      "name": "V",
+      "si": "v",
+      "gb": "vlang",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "v0",
+      "name": "v0",
+      "si": "v0",
+      "gb": "v0",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "v8",
+      "name": "V8",
+      "si": "v8",
+      "gb": "v8",
+      "categories": [
+        "runtimes"
+      ]
+    },
+    {
+      "slug": "vaadin",
+      "name": "Vaadin",
+      "si": "vaadin",
+      "gb": "vaadin",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "vagrant",
+      "name": "Vagrant",
+      "si": "vagrant",
+      "gb": "vagrant",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "valkey",
+      "name": "Valkey",
+      "gb": "valkey",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "vault",
+      "name": "Vault",
+      "si": "vault",
+      "gb": "vault",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "vercel",
+      "name": "Vercel",
+      "si": "vercel",
+      "gb": "vercel",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "vercel-ai-sdk",
+      "name": "Vercel AI SDK",
+      "gb": "vercel-ai-sdk",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "vim",
+      "name": "Vim",
+      "si": "vim",
+      "gb": "vim",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "vimeo",
+      "name": "Vimeo",
+      "si": "vimeo",
+      "gb": "vimeo",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "visa",
+      "name": "Visa",
+      "si": "visa",
+      "gb": "visa",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "visual-studio",
+      "name": "Visual Studio",
+      "gb": "visual-studio",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "vite",
+      "name": "Vite",
+      "si": "vite",
+      "gb": "vitejs",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "vitepress",
+      "name": "VitePress",
+      "si": "vitepress",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "vitess",
+      "name": "Vitess",
+      "si": "vitess",
+      "gb": "vitess",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "vitest",
+      "name": "Vitest",
+      "si": "vitest",
+      "gb": "vitest",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "vivaldi",
+      "name": "Vivaldi",
+      "si": "vivaldi",
+      "gb": "vivaldi",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "vmware",
+      "name": "VMware",
+      "si": "vmware",
+      "gb": "vmware",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "vscode",
+      "name": "Visual Studio Code",
+      "si": "vscodium",
+      "gb": "visual-studio-code",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "vue",
+      "name": "Vue.js",
+      "si": "vuedotjs",
+      "gb": "vue",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "vuetifyjs",
+      "name": "Vuetify",
+      "si": "vuetify",
+      "gb": "vuetifyjs",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "vueuse",
+      "name": "VueUse",
+      "si": "vueuse",
+      "gb": "vueuse",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "vultr",
+      "name": "Vultr",
+      "si": "vultr",
+      "gb": "vultr",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "vwo",
+      "name": "VWO",
+      "gb": "vwo",
+      "categories": [
+        "analytics"
+      ]
+    },
+    {
+      "slug": "wagtail",
+      "name": "Wagtail",
+      "si": "wagtail",
+      "gb": "wagtail",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "warp",
+      "name": "Warp",
+      "si": "warp",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "web3js",
+      "si": "web3dotjs",
+      "gb": "web3js",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
+      "slug": "webassembly",
+      "name": "WebAssembly",
+      "si": "webassembly",
+      "gb": "webassembly",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "webdriverio",
+      "name": "WebdriverIO",
+      "si": "webdriverio",
+      "gb": "webdriverio",
+      "categories": [
+        "testing"
+      ]
+    },
+    {
+      "slug": "webflow",
+      "name": "Webflow",
+      "si": "webflow",
+      "gb": "webflow",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "webhooks",
+      "name": "Webhooks",
+      "gb": "webhooks",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "webkit",
+      "name": "WebKit",
+      "gb": "webkit",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "webpack",
+      "name": "webpack",
+      "si": "webpack",
+      "gb": "webpack",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "webrtc",
+      "name": "WebRTC",
+      "si": "webrtc",
+      "gb": "webrtc",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "websocket",
+      "name": "WebSocket",
+      "gb": "websocket",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "webstorm",
+      "name": "WebStorm",
+      "si": "webstorm",
+      "gb": "webstorm",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "wechat",
+      "name": "WeChat",
+      "si": "wechat",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "whatsapp",
+      "name": "WhatsApp",
+      "si": "whatsapp",
+      "gb": "whatsapp",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "windi-css",
+      "name": "Windi CSS",
+      "gb": "windi-css",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
+      "slug": "windsurf",
+      "name": "Windsurf",
+      "si": "windsurf",
+      "categories": [
+        "ai",
+        "editors"
+      ]
+    },
+    {
+      "slug": "wise",
+      "name": "Wise",
+      "si": "wise",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
+      "slug": "wix",
+      "name": "Wix",
+      "si": "wix",
+      "gb": "wix",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "woocommerce",
+      "name": "WooCommerce",
+      "si": "woocommerce",
+      "gb": "woocommerce",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "wordpress",
+      "si": "wordpress",
+      "gb": "wordpress",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
+      "slug": "workos",
+      "name": "WorkOS",
+      "gb": "workos",
+      "categories": [
+        "auth"
+      ]
+    },
+    {
+      "slug": "wpengine",
+      "si": "wpengine",
+      "gb": "wpengine",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "x",
+      "name": "X",
+      "si": "x",
+      "gb": "x",
+      "categories": [
+        "social"
+      ],
+      "aliases": [
+        "Twitter"
+      ]
+    },
+    {
+      "slug": "xai",
+      "name": "xAI",
+      "gb": "x-ai",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "xamarin",
+      "name": "Xamarin",
+      "gb": "xamarin",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "xata",
+      "name": "Xata",
+      "gb": "xata",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "xcode",
+      "name": "Xcode",
+      "si": "xcode",
+      "gb": "xcode",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "xstate",
+      "name": "XState",
+      "si": "xstate",
+      "gb": "xstate",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "yaml",
+      "name": "YAML",
+      "si": "yaml",
+      "gb": "yaml",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "yarn",
+      "name": "Yarn",
+      "si": "yarn",
+      "gb": "yarn",
+      "categories": [
+        "build"
+      ]
+    },
+    {
+      "slug": "ycombinator",
+      "si": "ycombinator",
+      "gb": "ycombinator",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "yii",
+      "name": "Yii",
+      "si": "yii",
+      "gb": "yii",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "yoco",
+      "name": "Yoco",
+      "addition": true,
+      "categories": [
+        "african-brands",
+        "payments"
+      ]
+    },
+    {
+      "slug": "youtube",
+      "name": "YouTube",
+      "si": "youtube",
+      "gb": "youtube",
+      "categories": [
+        "social"
+      ]
+    },
+    {
+      "slug": "yugabyte",
+      "name": "YugabyteDB",
+      "gb": "yugabyte",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
+      "slug": "zabbix",
+      "name": "Zabbix",
+      "gb": "zabbix",
+      "categories": [
+        "monitoring"
+      ]
+    },
+    {
+      "slug": "zapier",
+      "name": "Zapier",
+      "si": "zapier",
+      "gb": "zapier",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "zed",
+      "name": "Zed Industries",
+      "si": "zedindustries",
+      "categories": [
+        "editors"
+      ]
+    },
+    {
+      "slug": "zen-browser",
+      "name": "Zen Browser",
+      "si": "zenbrowser",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
+      "slug": "zendesk",
+      "name": "Zendesk",
+      "si": "zendesk",
+      "gb": "zendesk",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "zeplin",
+      "name": "Zeplin",
+      "gb": "zeplin",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "zeroheight",
+      "name": "zeroheight",
+      "gb": "zeroheight",
+      "categories": [
+        "design"
+      ]
+    },
+    {
+      "slug": "zig",
+      "name": "Zig",
+      "si": "zig",
+      "gb": "zig",
+      "categories": [
+        "languages"
+      ]
+    },
+    {
+      "slug": "zod",
+      "name": "Zod",
+      "si": "zod",
+      "gb": "zod",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
+      "slug": "zoom",
+      "name": "Zoom",
+      "si": "zoom",
+      "gb": "zoom",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "zsh",
+      "si": "zsh",
+      "gb": "zsh",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
+      "slug": "zulip",
+      "name": "Zulip",
+      "si": "zulip",
+      "gb": "zulip",
+      "categories": [
+        "communication"
+      ]
+    }
+  ]
+}
