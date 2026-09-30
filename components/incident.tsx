@@ -47,7 +47,7 @@ export function IncidentLogo({
     ) : (
       <>
         <Wordmark {...shared} className={join(className, "dark:hidden")} />
-        <WordmarkDark {...shared} className={join(className, "not-dark:hidden")} />
+        <WordmarkDark {...shared} className={join(className, "hidden dark:block not-dark:hidden")} />
       </>
     );
   }

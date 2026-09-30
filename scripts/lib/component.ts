@@ -8,8 +8,10 @@ import { transform } from "@svgr/core";
  *   <StripeLogo type="wordmark" />     when the brand has a wordmark
  *   <StripeLogo title="" />            decorative (aria-hidden)
  *
- * No dependency but React. The light/dark swap uses `dark:hidden` and
- * `not-dark:hidden` (variants, so they win over a user `block`/`flex` class).
+ * No dependency but React. The light/dark swap works with Tailwind v3 and v4:
+ * the light file gets `dark:hidden`; the dark file gets `hidden dark:block` (block = Tailwind's preflight default for svg)
+ * (v3 and v4) plus `not-dark:hidden` (v4: a variant, so it still wins over a
+ * user `block`/`flex` class in light mode; v3 ignores it).
  */
 
 type Files = Partial<Record<"icon" | "icon-dark" | "icon-mono" | "wordmark" | "wordmark-dark", string>>;
@@ -83,7 +85,7 @@ export async function buildComponent(opts: {
   ) : (
     <>
       <${light} {...shared} className={join(className, "dark:hidden")} />
-      <${dark} {...shared} className={join(className, "not-dark:hidden")} />
+      <${dark} {...shared} className={join(className, "hidden dark:block not-dark:hidden")} />
     </>
   )`.replaceAll("\n", `\n${indent}`)
       : `<${light} {...shared} className={className} />`;

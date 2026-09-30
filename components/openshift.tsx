@@ -43,7 +43,7 @@ export function OpenshiftLogo({
   ) : (
     <>
       <Icon {...shared} className={join(className, "dark:hidden")} />
-      <IconDark {...shared} className={join(className, "not-dark:hidden")} />
+      <IconDark {...shared} className={join(className, "hidden dark:block not-dark:hidden")} />
     </>
   );
 }

@@ -49,7 +49,7 @@ export function KeydbLogo({
     ) : (
       <>
         <Wordmark {...shared} className={join(className, "dark:hidden")} />
-        <WordmarkDark {...shared} className={join(className, "not-dark:hidden")} />
+        <WordmarkDark {...shared} className={join(className, "hidden dark:block not-dark:hidden")} />
       </>
     );
   }
@@ -63,7 +63,7 @@ export function KeydbLogo({
   ) : (
     <>
       <Icon {...shared} className={join(className, "dark:hidden")} />
-      <IconDark {...shared} className={join(className, "not-dark:hidden")} />
+      <IconDark {...shared} className={join(className, "hidden dark:block not-dark:hidden")} />
     </>
   );
 }
