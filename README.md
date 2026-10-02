@@ -28,7 +28,14 @@ through a shadcn registry, a JSON API and an MCP server for AI editors.
 
 ### shadcn CLI
 
-Add the registry to your `components.json` once:
+`@logoforge` is in the [official shadcn registry directory](https://ui.shadcn.com/docs/directory) — no setup needed. Install any logo (slug = the logo page URL):
+
+```bash
+npx shadcn@latest add @logoforge/stripe @logoforge/supabase
+```
+
+<details>
+<summary>Older shadcn CLI? Declare the namespace once in <code>components.json</code></summary>
 
 ```json
 {
@@ -38,11 +45,7 @@ Add the registry to your `components.json` once:
 }
 ```
 
-Then install any logo (slug = the logo page URL):
-
-```bash
-npx shadcn@latest add @logoforge/stripe @logoforge/supabase
-```
+</details>
 
 ```tsx
 import { StripeLogo } from "@/components/logos/stripe";
