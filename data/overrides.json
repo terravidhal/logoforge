@@ -740,6 +740,14 @@
     },
     "yoco": {
       "reviewed": "2026-09-27: African brands sheet checked (light, dark, mono)"
+    },
+    "elastic": {
+      "darkContrast": 4.5,
+      "reason": "navy #005571 lightened to 3:1 still reads dim on #0a0a0a"
+    },
+    "codecademy": {
+      "darkContrast": 4.5,
+      "reason": "navy #1f4056 lightened to 3:1 still reads dim on #0a0a0a"
     }
   }
 }

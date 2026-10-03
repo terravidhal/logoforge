@@ -73,6 +73,8 @@ type Overrides = Record<
     monoKnockout?: boolean;
     noDark?: boolean;
     darkMode?: DarkMode;
+    /** Lighten failing colors further than 3:1 when a dark brand color still reads dim (e.g. 4.5). */
+    darkContrast?: number;
     noWordmark?: boolean;
     reason?: string;
     /** A human checked the REVIEW flags on the contact sheet (date + what). */
@@ -262,7 +264,7 @@ async function main() {
       for (const base of ["icon", "wordmark"] as const) {
         if (lightFixed.has(base)) continue;
         const svg = variants[base];
-        const dark = svg ? makeDarkVariant(svg, fix.darkMode) : null;
+        const dark = svg ? makeDarkVariant(svg, fix.darkMode, fix.darkContrast) : null;
         if (dark) {
           variants[`${base}-dark`] = dark;
           sources[`${base}-dark`] = { ...sources[base], origin: `${sources[base].origin} (dark: auto)` };

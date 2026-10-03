@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 909,
+  "count": 970,
   "logos": [
     {
       "slug": "1password",
@@ -801,6 +801,35 @@
           "origin": "simple-icons",
           "file": "americanexpress.svg",
           "url": "https://commons.wikimedia.org/wiki/File:American_Express_logo_(2018).svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "amp",
+      "name": "AMP",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#005af0",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "amp.svg",
+          "url": "https://amp.dev",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "amp.svg",
+          "url": "https://amp.dev",
           "license": "CC0-1.0"
         }
       }
@@ -2045,6 +2074,42 @@
       }
     },
     {
+      "slug": "atlassian",
+      "name": "Atlassian",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#0052cc",
+      "url": null,
+      "guidelines": "https://atlassian.design/foundations/logos",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "atlassian.svg",
+          "url": "https://atlassian.design/resources/logo-library",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "atlassian.svg",
+          "url": "https://atlassian.design/resources/logo-library",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "atlassian.svg",
+          "url": "https://atlassian.design/resources/logo-library",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "atom",
       "name": "Atom",
       "aliases": [],
@@ -3029,6 +3094,35 @@
       }
     },
     {
+      "slug": "babylonjs",
+      "name": "Babylon.js",
+      "aliases": [],
+      "categories": [
+        "libraries"
+      ],
+      "hex": "#bb464b",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "babylondotjs.svg",
+          "url": "https://github.com/BabylonJS/Brand-Toolkit/blob/8583d4d9bf252a233fa480fa02ac6f367d5207a1/babylon_logo/monochrome/babylon_logo_monochrome_dark.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "babylondotjs.svg",
+          "url": "https://github.com/BabylonJS/Brand-Toolkit/blob/8583d4d9bf252a233fa480fa02ac6f367d5207a1/babylon_logo/monochrome/babylon_logo_monochrome_dark.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "backblaze",
       "name": "Backblaze",
       "aliases": [],
@@ -3139,6 +3233,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "bamboo.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/bamboo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "base-ui",
+      "name": "Base UI",
+      "aliases": [],
+      "categories": [
+        "ui"
+      ],
+      "hex": "#ededed",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons (light: auto-darkened)",
+          "file": "baseui.svg",
+          "url": "https://base-ui.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "baseui.svg",
+          "url": "https://base-ui.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons",
+          "file": "baseui.svg",
+          "url": "https://base-ui.com",
           "license": "CC0-1.0"
         }
       }
@@ -4643,6 +4773,35 @@
       }
     },
     {
+      "slug": "carrd",
+      "name": "Carrd",
+      "aliases": [],
+      "categories": [
+        "platforms"
+      ],
+      "hex": "#596caf",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "carrd.svg",
+          "url": "https://carrd.co/docs/general/brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "carrd.svg",
+          "url": "https://carrd.co/docs/general/brand-assets",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "cartesia",
       "name": "Cartesia",
       "aliases": [],
@@ -5140,6 +5299,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "circleci.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/circleci.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "cisco",
+      "name": "Cisco",
+      "aliases": [],
+      "categories": [
+        "devops"
+      ],
+      "hex": "#1ba0d7",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "cisco.svg",
+          "url": "https://www.cisco.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "cisco.svg",
+          "url": "https://www.cisco.com",
           "license": "CC0-1.0"
         }
       }
@@ -5765,6 +5953,42 @@
       }
     },
     {
+      "slug": "codecademy",
+      "name": "Codecademy",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#1f4056",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "codecademy.svg",
+          "url": "https://www.codecademy.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "codecademy.svg",
+          "url": "https://www.codecademy.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "codecademy.svg",
+          "url": "https://www.codecademy.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "codeception",
       "name": "Codeception",
       "aliases": [],
@@ -6054,6 +6278,64 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "codesandbox.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/codesandbox.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "codesignal",
+      "name": "CodeSignal",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#1062fb",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "codesignal.svg",
+          "url": "https://codesignal.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "codesignal.svg",
+          "url": "https://codesignal.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "codewars",
+      "name": "Codewars",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#b1361e",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "codewars.svg",
+          "url": "https://github.com/codewars/branding/tree/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "codewars.svg",
+          "url": "https://github.com/codewars/branding/tree/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983",
           "license": "CC0-1.0"
         }
       }
@@ -6574,6 +6856,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "couchdb.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/couchdb.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "coursera",
+      "name": "Coursera",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#0056d2",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "coursera.svg",
+          "url": "https://about.coursera.org/press",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "coursera.svg",
+          "url": "https://about.coursera.org/press",
           "license": "CC0-1.0"
         }
       }
@@ -7373,6 +7684,35 @@
       }
     },
     {
+      "slug": "datacamp",
+      "name": "DataCamp",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#03ef62",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "datacamp.svg",
+          "url": "https://www.datacamp.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "datacamp.svg",
+          "url": "https://www.datacamp.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "datadog",
       "name": "Datadog",
       "aliases": [],
@@ -8067,6 +8407,42 @@
       }
     },
     {
+      "slug": "discourse",
+      "name": "Discourse",
+      "aliases": [],
+      "categories": [
+        "communication"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "discourse.svg",
+          "url": "https://www.discourse.org",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "discourse.svg",
+          "url": "https://www.discourse.org",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "discourse.svg",
+          "url": "https://www.discourse.org",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "discover",
       "name": "Discover",
       "aliases": [],
@@ -8234,6 +8610,42 @@
       }
     },
     {
+      "slug": "dodo-payments",
+      "name": "Dodo Payments",
+      "aliases": [],
+      "categories": [
+        "payments"
+      ],
+      "hex": "#c6fe1e",
+      "url": null,
+      "guidelines": "https://dodopayments.com/brand",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons (light: auto-darkened)",
+          "file": "dodopayments.svg",
+          "url": "https://dodopayments.com/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "dodopayments.svg",
+          "url": "https://dodopayments.com/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons",
+          "file": "dodopayments.svg",
+          "url": "https://dodopayments.com/brand",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "dokploy",
       "name": "Dokploy",
       "aliases": [],
@@ -8294,6 +8706,37 @@
           "origin": "gilbarbara/logos (derived)",
           "file": "dolt.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/dolt.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "dotenv",
+      "name": "dotenv",
+      "aliases": [
+        "Dotenv"
+      ],
+      "categories": [
+        "devtools"
+      ],
+      "hex": "#ecd53f",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "dotenv.svg",
+          "url": "https://github.com/motdotla/dotenv/blob/40e75440337d1de2345dc8326d6108331f583fd8/dotenv.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "dotenv.svg",
+          "url": "https://github.com/motdotla/dotenv/blob/40e75440337d1de2345dc8326d6108331f583fd8/dotenv.svg",
           "license": "CC0-1.0"
         }
       }
@@ -8631,6 +9074,35 @@
       }
     },
     {
+      "slug": "duolingo",
+      "name": "Duolingo",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#58cc02",
+      "url": null,
+      "guidelines": "https://design.duolingo.com",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "duolingo.svg",
+          "url": "https://design.duolingo.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "duolingo.svg",
+          "url": "https://design.duolingo.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "dynatrace",
       "name": "Dynatrace",
       "aliases": [],
@@ -8832,6 +9304,42 @@
       }
     },
     {
+      "slug": "edx",
+      "name": "edX",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#02262b",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "edx.svg",
+          "url": "https://www.edx.org",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "edx.svg",
+          "url": "https://www.edx.org",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "edx.svg",
+          "url": "https://www.edx.org",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "effect",
       "name": "Effect",
       "aliases": [],
@@ -8877,6 +9385,78 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "effect.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/effect.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "egghead",
+      "name": "egghead",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#fcfbfa",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons (light: auto-darkened)",
+          "file": "egghead.svg",
+          "url": "https://egghead.io",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "egghead.svg",
+          "url": "https://egghead.io",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons",
+          "file": "egghead.svg",
+          "url": "https://egghead.io",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "elastic",
+      "name": "Elastic",
+      "aliases": [],
+      "categories": [
+        "databases"
+      ],
+      "hex": "#005571",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "elastic.svg",
+          "url": "https://www.elastic.co/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "elastic.svg",
+          "url": "https://www.elastic.co/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "elastic.svg",
+          "url": "https://www.elastic.co/brand",
           "license": "CC0-1.0"
         }
       }
@@ -8972,6 +9552,42 @@
           "origin": "simple-icons",
           "file": "element.svg",
           "url": "https://element.io",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "elementor",
+      "name": "Elementor",
+      "aliases": [],
+      "categories": [
+        "cms"
+      ],
+      "hex": "#92003b",
+      "url": null,
+      "guidelines": "https://elementor.com/logos/",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "elementor.svg",
+          "url": "https://elementor.com/logos/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "elementor.svg",
+          "url": "https://elementor.com/logos/",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "elementor.svg",
+          "url": "https://elementor.com/logos/",
           "license": "CC0-1.0"
         }
       }
@@ -10305,6 +10921,42 @@
       }
     },
     {
+      "slug": "fly-io",
+      "name": "Fly.io",
+      "aliases": [],
+      "categories": [
+        "cloud"
+      ],
+      "hex": "#24175b",
+      "url": null,
+      "guidelines": "https://fly.io/docs/about/brand",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "flydotio.svg",
+          "url": "https://fly.io/docs/about/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "flydotio.svg",
+          "url": "https://fly.io/docs/about/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "flydotio.svg",
+          "url": "https://fly.io/docs/about/brand",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "font-awesome",
       "name": "Font Awesome",
       "aliases": [],
@@ -10643,6 +11295,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "ghost.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/ghost.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "ghostty",
+      "name": "Ghostty",
+      "aliases": [],
+      "categories": [
+        "devtools"
+      ],
+      "hex": "#3551f3",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "ghostty.svg",
+          "url": "https://github.com/ghostty-org/website/blob/7093f052a2f35e0247fcb828ede644ed74a749a0/public/ghostty-logo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "ghostty.svg",
+          "url": "https://github.com/ghostty-org/website/blob/7093f052a2f35e0247fcb828ede644ed74a749a0/public/ghostty-logo.svg",
           "license": "CC0-1.0"
         }
       }
@@ -11368,6 +12049,35 @@
       }
     },
     {
+      "slug": "google-bigquery",
+      "name": "Google BigQuery",
+      "aliases": [],
+      "categories": [
+        "databases"
+      ],
+      "hex": "#669df6",
+      "url": null,
+      "guidelines": "https://about.google/brand-resource-center",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "googlebigquery.svg",
+          "url": "https://cloud.google.com/icons",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googlebigquery.svg",
+          "url": "https://cloud.google.com/icons",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "google-calendar",
       "name": "Google Calendar",
       "aliases": [],
@@ -11392,6 +12102,35 @@
           "origin": "simple-icons",
           "file": "googlecalendar.svg",
           "url": "https://fonts.gstatic.com/s/i/productlogos/calendar_2020q4/v8/192px.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "google-classroom",
+      "name": "Google Classroom",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#0f9d58",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "googleclassroom.svg",
+          "url": "https://classroom.google.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googleclassroom.svg",
+          "url": "https://classroom.google.com",
           "license": "CC0-1.0"
         }
       }
@@ -12314,6 +13053,35 @@
       }
     },
     {
+      "slug": "gumroad",
+      "name": "Gumroad",
+      "aliases": [],
+      "categories": [
+        "payments"
+      ],
+      "hex": "#ff90e8",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "gumroad.svg",
+          "url": "https://gumroad.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "gumroad.svg",
+          "url": "https://gumroad.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "gunicorn",
       "name": "Gunicorn",
       "aliases": [],
@@ -12345,6 +13113,65 @@
           "origin": "gilbarbara/logos",
           "file": "gunicorn.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/gunicorn.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "hack-the-box",
+      "name": "Hack The Box",
+      "aliases": [],
+      "categories": [
+        "learning",
+        "auth"
+      ],
+      "hex": "#9fef00",
+      "url": null,
+      "guidelines": "https://www.hackthebox.com/contact-us",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "hackthebox.svg",
+          "url": "https://www.hackthebox.com/contact-us",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "hackthebox.svg",
+          "url": "https://www.hackthebox.com/contact-us",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "hackerrank",
+      "name": "HackerRank",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#00ea64",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "hackerrank.svg",
+          "url": "https://www.hackerrank.com/about-us/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "hackerrank.svg",
+          "url": "https://www.hackerrank.com/about-us/",
           "license": "CC0-1.0"
         }
       }
@@ -13024,6 +13851,42 @@
       }
     },
     {
+      "slug": "heroui",
+      "name": "HeroUI",
+      "aliases": [],
+      "categories": [
+        "ui"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "heroui.svg",
+          "url": "https://www.heroui.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "heroui.svg",
+          "url": "https://www.heroui.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "heroui.svg",
+          "url": "https://www.heroui.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "hetzner",
       "name": "Hetzner",
       "aliases": [],
@@ -13142,6 +14005,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "highcharts.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/highcharts.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "home-assistant",
+      "name": "Home Assistant",
+      "aliases": [],
+      "categories": [
+        "platforms"
+      ],
+      "hex": "#18bcf2",
+      "url": null,
+      "guidelines": "https://design.home-assistant.io/#brand/logo",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "homeassistant.svg",
+          "url": "https://github.com/home-assistant/assets/blob/0f69676da79c3881e7dfca6d6c0a5739f88273d8/logo/home-assistant-logo.zip",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "homeassistant.svg",
+          "url": "https://github.com/home-assistant/assets/blob/0f69676da79c3881e7dfca6d6c0a5739f88273d8/logo/home-assistant-logo.zip",
           "license": "CC0-1.0"
         }
       }
@@ -13472,6 +14364,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "httpie.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/httpie.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "hubspot",
+      "name": "HubSpot",
+      "aliases": [],
+      "categories": [
+        "analytics"
+      ],
+      "hex": "#ff7a59",
+      "url": null,
+      "guidelines": "https://www.hubspot.com/style-guide",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "hubspot.svg",
+          "url": "https://www.hubspot.com/style-guide",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "hubspot.svg",
+          "url": "https://www.hubspot.com/style-guide",
           "license": "CC0-1.0"
         }
       }
@@ -13975,6 +14896,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "instagram.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/instagram.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "instatus",
+      "name": "Instatus",
+      "aliases": [],
+      "categories": [
+        "monitoring"
+      ],
+      "hex": "#4ee3c2",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "instatus.svg",
+          "url": "https://www.instatus.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "instatus.svg",
+          "url": "https://www.instatus.com",
           "license": "CC0-1.0"
         }
       }
@@ -15611,6 +16561,35 @@
       }
     },
     {
+      "slug": "khan-academy",
+      "name": "Khan Academy",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#14bf96",
+      "url": null,
+      "guidelines": "https://support.khanacademy.org/hc/en-us/articles/202263034-Trademark-and-Brand-Usage-Policy",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "khanacademy.svg",
+          "url": "https://khanacademy.zendesk.com/hc/en-us/articles/202483630-Press-room",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "khanacademy.svg",
+          "url": "https://khanacademy.zendesk.com/hc/en-us/articles/202483630-Press-room",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "kibana",
       "name": "Kibana",
       "aliases": [],
@@ -15678,6 +16657,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "kilo.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/kilo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "kimi",
+      "name": "Kimi",
+      "aliases": [],
+      "categories": [
+        "ai"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": "https://moonshotai.github.io/Branding-Guide",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "kimi.svg",
+          "url": "https://moonshotai.github.io/Branding-Guide",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "kimi.svg",
+          "url": "https://moonshotai.github.io/Branding-Guide",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "kimi.svg",
+          "url": "https://moonshotai.github.io/Branding-Guide",
           "license": "CC0-1.0"
         }
       }
@@ -16231,6 +17246,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "leaflet.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/leaflet.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "leetcode",
+      "name": "LeetCode",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#ffa116",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "leetcode.svg",
+          "url": "https://leetcode.com/store",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "leetcode.svg",
+          "url": "https://leetcode.com/store",
           "license": "CC0-1.0"
         }
       }
@@ -16934,6 +17978,46 @@
       }
     },
     {
+      "slug": "lm-studio",
+      "name": "LM Studio",
+      "aliases": [
+        "Bionic",
+        "LM Studio Bionic",
+        "lmstudio"
+      ],
+      "categories": [
+        "ai"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "lmstudio.svg",
+          "url": "https://files.lmstudio.ai/lmstudio_icon2.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "lmstudio.svg",
+          "url": "https://files.lmstudio.ai/lmstudio_icon2.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "lmstudio.svg",
+          "url": "https://files.lmstudio.ai/lmstudio_icon2.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "lodash",
       "name": "Lodash",
       "aliases": [],
@@ -17296,6 +18380,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "lua.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/lua.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "lucia",
+      "name": "Lucia",
+      "aliases": [],
+      "categories": [
+        "auth"
+      ],
+      "hex": "#5f57ff",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "lucia.svg",
+          "url": "https://v2.lucia-auth.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "lucia.svg",
+          "url": "https://v2.lucia-auth.com",
           "license": "CC0-1.0"
         }
       }
@@ -18272,6 +19385,42 @@
       }
     },
     {
+      "slug": "mdn-web-docs",
+      "name": "MDN Web Docs",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "mdnwebdocs.svg",
+          "url": "https://github.com/mdn/yari/blob/77e6cda02f7013219e9da27a00b9424085e60fdb/client/src/assets/mdn-logo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "mdnwebdocs.svg",
+          "url": "https://github.com/mdn/yari/blob/77e6cda02f7013219e9da27a00b9424085e60fdb/client/src/assets/mdn-logo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "mdnwebdocs.svg",
+          "url": "https://github.com/mdn/yari/blob/77e6cda02f7013219e9da27a00b9424085e60fdb/client/src/assets/mdn-logo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "mdx",
       "name": "MDX",
       "aliases": [],
@@ -18518,6 +19667,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "memgraph.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/memgraph.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "mercado-pago",
+      "name": "Mercado Pago",
+      "aliases": [],
+      "categories": [
+        "payments"
+      ],
+      "hex": "#00b1ea",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "mercadopago.svg",
+          "url": "https://www.mercadopago.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "mercadopago.svg",
+          "url": "https://www.mercadopago.com",
           "license": "CC0-1.0"
         }
       }
@@ -19224,6 +20402,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "minimax.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/minimax.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "mintlify",
+      "name": "Mintlify",
+      "aliases": [],
+      "categories": [
+        "devtools"
+      ],
+      "hex": "#18e299",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "mintlify.svg",
+          "url": "https://mintlify.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "mintlify.svg",
+          "url": "https://mintlify.com",
           "license": "CC0-1.0"
         }
       }
@@ -20817,6 +22024,42 @@
       }
     },
     {
+      "slug": "nuget",
+      "name": "NuGet",
+      "aliases": [],
+      "categories": [
+        "build"
+      ],
+      "hex": "#004880",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "nuget.svg",
+          "url": "https://github.com/NuGet/Media/blob/89f7c87245e52e8ce91d94c0a47f44c6576e3a0d/Images/MainLogo/Vector/nuget.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "nuget.svg",
+          "url": "https://github.com/NuGet/Media/blob/89f7c87245e52e8ce91d94c0a47f44c6576e3a0d/Images/MainLogo/Vector/nuget.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "nuget.svg",
+          "url": "https://github.com/NuGet/Media/blob/89f7c87245e52e8ce91d94c0a47f44c6576e3a0d/Images/MainLogo/Vector/nuget.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "numpy",
       "name": "NumPy",
       "aliases": [],
@@ -21563,6 +22806,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "opencv.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/opencv.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "openrouter",
+      "name": "OpenRouter",
+      "aliases": [],
+      "categories": [
+        "ai"
+      ],
+      "hex": "#94a3b8",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "openrouter.svg",
+          "url": "https://openrouter.ai",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "openrouter.svg",
+          "url": "https://openrouter.ai",
           "license": "CC0-1.0"
         }
       }
@@ -22526,6 +23798,42 @@
       }
     },
     {
+      "slug": "payload-cms",
+      "name": "Payload CMS",
+      "aliases": [],
+      "categories": [
+        "cms"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "payloadcms.svg",
+          "url": "https://payloadcms.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "payloadcms.svg",
+          "url": "https://payloadcms.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "payloadcms.svg",
+          "url": "https://payloadcms.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "paypal",
       "name": "PayPal",
       "aliases": [],
@@ -22595,6 +23903,35 @@
           "file": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Paystack_Logo.svg",
           "url": "https://commons.wikimedia.org/wiki/File:Paystack_Logo.svg",
           "license": "public-domain"
+        }
+      }
+    },
+    {
+      "slug": "peerlist",
+      "name": "Peerlist",
+      "aliases": [],
+      "categories": [
+        "social"
+      ],
+      "hex": "#00aa45",
+      "url": null,
+      "guidelines": "https://peerlist.io/legal/peerlist-terms-conditions.pdf",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "peerlist.svg",
+          "url": "https://peerlist.io",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "peerlist.svg",
+          "url": "https://peerlist.io",
+          "license": "CC0-1.0"
         }
       }
     },
@@ -23204,6 +24541,35 @@
       }
     },
     {
+      "slug": "platzi",
+      "name": "Platzi",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#98ca3f",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "platzi.svg",
+          "url": "https://github.com/PlatziDev/oss/blob/932bd83d43e061e1c38fbc116db31aa6d0145be6/static/logo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "platzi.svg",
+          "url": "https://github.com/PlatziDev/oss/blob/932bd83d43e061e1c38fbc116db31aa6d0145be6/static/logo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "plausible",
       "name": "Plausible Analytics",
       "aliases": [],
@@ -23264,6 +24630,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "playwright.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/playwright.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "pluralsight",
+      "name": "Pluralsight",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#f15b2a",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "pluralsight.svg",
+          "url": "https://www.pluralsight.com/newsroom/brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "pluralsight.svg",
+          "url": "https://www.pluralsight.com/newsroom/brand-assets",
           "license": "CC0-1.0"
         }
       }
@@ -23451,6 +24846,35 @@
           "origin": "simple-icons",
           "file": "poetry.svg",
           "url": "https://python-poetry.org",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "polars",
+      "name": "Polars",
+      "aliases": [],
+      "categories": [
+        "libraries"
+      ],
+      "hex": "#0075ff",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "polars.svg",
+          "url": "https://pola.rs",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "polars.svg",
+          "url": "https://pola.rs",
           "license": "CC0-1.0"
         }
       }
@@ -25634,6 +27058,71 @@
       }
     },
     {
+      "slug": "refine",
+      "name": "Refine",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#14141f",
+      "url": null,
+      "guidelines": "https://s.refine.dev/refine-brand-assets",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "refine.svg",
+          "url": "https://s.refine.dev/refine-brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "refine.svg",
+          "url": "https://s.refine.dev/refine-brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "refine.svg",
+          "url": "https://s.refine.dev/refine-brand-assets",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "reflex",
+      "name": "Reflex",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#6e56cf",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "reflex.svg",
+          "url": "https://reflex.dev/logos/light/reflex.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "reflex.svg",
+          "url": "https://reflex.dev/logos/light/reflex.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "relay",
       "name": "Relay",
       "aliases": [],
@@ -26446,6 +27935,35 @@
       }
     },
     {
+      "slug": "ruby-on-rails",
+      "name": "Ruby on Rails",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#d30001",
+      "url": null,
+      "guidelines": "https://rubyonrails.org/trademarks/",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "rubyonrails.svg",
+          "url": "https://github.com/simple-icons/simple-icons/issues/9619#issuecomment-1735150580",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "rubyonrails.svg",
+          "url": "https://github.com/simple-icons/simple-icons/issues/9619#issuecomment-1735150580",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "rubygems",
       "name": "RubyGems",
       "aliases": [],
@@ -26907,6 +28425,42 @@
       }
     },
     {
+      "slug": "scrimba",
+      "name": "Scrimba",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#2b283a",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "scrimba.svg",
+          "url": "https://scrimba.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "scrimba.svg",
+          "url": "https://scrimba.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "scrimba.svg",
+          "url": "https://scrimba.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "seaborn",
       "name": "seaborn",
       "aliases": [],
@@ -27111,6 +28665,35 @@
           "origin": "gilbarbara/logos (derived)",
           "file": "semaphoreci.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/semaphoreci.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "semrush",
+      "name": "Semrush",
+      "aliases": [],
+      "categories": [
+        "analytics"
+      ],
+      "hex": "#ff642d",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "semrush.svg",
+          "url": "https://www.semrush.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "semrush.svg",
+          "url": "https://www.semrush.com",
           "license": "CC0-1.0"
         }
       }
@@ -27510,6 +29093,35 @@
           "origin": "simple-icons",
           "file": "sketch.svg",
           "url": "https://www.sketch.com/about-us/#press",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "skillshare",
+      "name": "Skillshare",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#00ff84",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "skillshare.svg",
+          "url": "https://www.skillshare.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "skillshare.svg",
+          "url": "https://www.skillshare.com",
           "license": "CC0-1.0"
         }
       }
@@ -28652,6 +30264,35 @@
       }
     },
     {
+      "slug": "stimulus",
+      "name": "Stimulus",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#77e8b9",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "stimulus.svg",
+          "url": "https://stimulus.hotwire.dev",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "stimulus.svg",
+          "url": "https://stimulus.hotwire.dev",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "stoplight",
       "name": "StopLight",
       "aliases": [],
@@ -29195,6 +30836,42 @@
           "origin": "simple-icons",
           "file": "subversion.svg",
           "url": "https://subversion.apache.org/logo",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "suno",
+      "name": "Suno",
+      "aliases": [],
+      "categories": [
+        "ai"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "suno.svg",
+          "url": "https://suno.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "suno.svg",
+          "url": "https://suno.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "suno.svg",
+          "url": "https://suno.com",
           "license": "CC0-1.0"
         }
       }
@@ -30080,6 +31757,42 @@
       }
     },
     {
+      "slug": "temporal",
+      "name": "Temporal",
+      "aliases": [],
+      "categories": [
+        "devops"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "temporal.svg",
+          "url": "https://github.com/temporalio/temporaldotio/blob/b6b5f3ed1fda818d5d6c07e27ec15d51a61f2267/public/images/icons/temporal-no-text.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "temporal.svg",
+          "url": "https://github.com/temporalio/temporaldotio/blob/b6b5f3ed1fda818d5d6c07e27ec15d51a61f2267/public/images/icons/temporal-no-text.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "temporal.svg",
+          "url": "https://github.com/temporalio/temporaldotio/blob/b6b5f3ed1fda818d5d6c07e27ec15d51a61f2267/public/images/icons/temporal-no-text.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "tensorflow",
       "name": "TensorFlow",
       "aliases": [],
@@ -30489,6 +32202,35 @@
       }
     },
     {
+      "slug": "tina",
+      "name": "Tina",
+      "aliases": [],
+      "categories": [
+        "cms"
+      ],
+      "hex": "#ec4815",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "tina.svg",
+          "url": "https://github.com/tinacms/tinacms/blob/965edfb7d2a318ab6b86a4772e4daebf53f34f2e/examples/tina-self-hosted-demo/public/tina.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "tina.svg",
+          "url": "https://github.com/tinacms/tinacms/blob/965edfb7d2a318ab6b86a4772e4daebf53f34f2e/examples/tina-self-hosted-demo/public/tina.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "tldraw",
       "name": "tldraw",
       "aliases": [],
@@ -30852,6 +32594,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "truffle-icon.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/truffle-icon.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "trustpilot",
+      "name": "Trustpilot",
+      "aliases": [],
+      "categories": [
+        "social"
+      ],
+      "hex": "#00b67a",
+      "url": null,
+      "guidelines": "https://support.trustpilot.com/hc/en-us/articles/206289947-Trustpilot-Brand-Assets-Style-Guide",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "trustpilot.svg",
+          "url": "https://support.trustpilot.com/hc/en-us/articles/206289947-Trustpilot-Brand-Assets-Style-Guide",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "trustpilot.svg",
+          "url": "https://support.trustpilot.com/hc/en-us/articles/206289947-Trustpilot-Brand-Assets-Style-Guide",
           "license": "CC0-1.0"
         }
       }
@@ -31334,6 +33105,64 @@
           "origin": "simple-icons",
           "file": "ubuntu.svg",
           "url": "https://design.ubuntu.com/resources",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "udacity",
+      "name": "Udacity",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#02b3e4",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "udacity.svg",
+          "url": "https://www.udacity.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "udacity.svg",
+          "url": "https://www.udacity.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "udemy",
+      "name": "Udemy",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#a435f0",
+      "url": null,
+      "guidelines": "https://support.udemy.com/hc/en-us/articles/8926753692567-Trademark-Usage-Guidelines",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "udemy.svg",
+          "url": "https://udemy.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "udemy.svg",
+          "url": "https://udemy.com",
           "license": "CC0-1.0"
         }
       }
@@ -32700,6 +34529,35 @@
       }
     },
     {
+      "slug": "w3schools",
+      "name": "W3Schools",
+      "aliases": [],
+      "categories": [
+        "learning"
+      ],
+      "hex": "#04aa6d",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "w3schools.svg",
+          "url": "https://profile.w3schools.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "w3schools.svg",
+          "url": "https://profile.w3schools.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "wagtail",
       "name": "Wagtail",
       "aliases": [],
@@ -32731,6 +34589,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "wagtail.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/wagtail.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "wakatime",
+      "name": "WakaTime",
+      "aliases": [],
+      "categories": [
+        "devtools"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": "https://wakatime.com/legal/logos-and-trademark-usage",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "wakatime.svg",
+          "url": "https://wakatime.com/legal/logos-and-trademark-usage",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "wakatime.svg",
+          "url": "https://wakatime.com/legal/logos-and-trademark-usage",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "wakatime.svg",
+          "url": "https://wakatime.com/legal/logos-and-trademark-usage",
           "license": "CC0-1.0"
         }
       }
@@ -32899,6 +34793,42 @@
           "origin": "gilbarbara/logos",
           "file": "webflow.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/webflow.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "webgl",
+      "name": "WebGL",
+      "aliases": [],
+      "categories": [
+        "libraries"
+      ],
+      "hex": "#990000",
+      "url": null,
+      "guidelines": "https://www.khronos.org/files/legal/Khronos-Logo-Usage-Guide.pdf",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "webgl.svg",
+          "url": "https://www.khronos.org/legal/trademarks",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "webgl.svg",
+          "url": "https://www.khronos.org/legal/trademarks",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "webgl.svg",
+          "url": "https://www.khronos.org/legal/trademarks",
           "license": "CC0-1.0"
         }
       }

@@ -191,6 +191,14 @@
       ]
     },
     {
+      "slug": "amp",
+      "name": "AMP",
+      "si": "amp",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
       "slug": "amplitude",
       "name": "Amplitude",
       "gb": "amplitude",
@@ -460,6 +468,14 @@
       ]
     },
     {
+      "slug": "atlassian",
+      "name": "Atlassian",
+      "si": "atlassian",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "atom",
       "name": "Atom",
       "gb": "atom",
@@ -715,6 +731,14 @@
       ]
     },
     {
+      "slug": "babylonjs",
+      "name": "Babylon.js",
+      "si": "babylondotjs",
+      "categories": [
+        "libraries"
+      ]
+    },
+    {
       "slug": "backblaze",
       "name": "Backblaze",
       "si": "backblaze",
@@ -738,6 +762,14 @@
       "gb": "bamboo",
       "categories": [
         "devops"
+      ]
+    },
+    {
+      "slug": "base-ui",
+      "name": "Base UI",
+      "si": "baseui",
+      "categories": [
+        "ui"
       ]
     },
     {
@@ -1082,6 +1114,14 @@
       ]
     },
     {
+      "slug": "carrd",
+      "name": "Carrd",
+      "si": "carrd",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
       "slug": "cartesia",
       "name": "Cartesia",
       "gb": "cartesia",
@@ -1203,6 +1243,14 @@
       "name": "CircleCI",
       "si": "circleci",
       "gb": "circleci",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
+      "slug": "cisco",
+      "name": "Cisco",
+      "si": "cisco",
       "categories": [
         "devops"
       ]
@@ -1355,6 +1403,14 @@
       ]
     },
     {
+      "slug": "codecademy",
+      "name": "Codecademy",
+      "si": "codecademy",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "codeception",
       "name": "Codeception",
       "gb": "codeception",
@@ -1412,6 +1468,22 @@
       "gb": "codesandbox",
       "categories": [
         "devtools"
+      ]
+    },
+    {
+      "slug": "codesignal",
+      "name": "CodeSignal",
+      "si": "codesignal",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
+      "slug": "codewars",
+      "name": "Codewars",
+      "si": "codewars",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -1547,6 +1619,14 @@
       "gb": "couchdb",
       "categories": [
         "databases"
+      ]
+    },
+    {
+      "slug": "coursera",
+      "name": "Coursera",
+      "si": "coursera",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -1721,6 +1801,14 @@
       ]
     },
     {
+      "slug": "datacamp",
+      "name": "DataCamp",
+      "si": "datacamp",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "datadog",
       "name": "Datadog",
       "si": "datadog",
@@ -1888,6 +1976,14 @@
       ]
     },
     {
+      "slug": "discourse",
+      "name": "Discourse",
+      "si": "discourse",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
       "slug": "discover",
       "name": "Discover",
       "si": "discover",
@@ -1925,6 +2021,14 @@
       ]
     },
     {
+      "slug": "dodo-payments",
+      "name": "Dodo Payments",
+      "si": "dodopayments",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
       "slug": "dokploy",
       "name": "Dokploy",
       "gb": "dokploy",
@@ -1938,6 +2042,14 @@
       "gb": "dolt",
       "categories": [
         "databases"
+      ]
+    },
+    {
+      "slug": "dotenv",
+      "name": "dotenv",
+      "si": "dotenv",
+      "categories": [
+        "devtools"
       ]
     },
     {
@@ -2019,6 +2131,14 @@
       ]
     },
     {
+      "slug": "duolingo",
+      "name": "Duolingo",
+      "si": "duolingo",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "dynatrace",
       "name": "Dynatrace",
       "si": "dynatrace",
@@ -2061,12 +2181,36 @@
       ]
     },
     {
+      "slug": "edx",
+      "name": "edX",
+      "si": "edx",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "effect",
       "name": "Effect",
       "si": "effect",
       "gb": "effect",
       "categories": [
         "libraries"
+      ]
+    },
+    {
+      "slug": "egghead",
+      "name": "egghead",
+      "si": "egghead",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
+      "slug": "elastic",
+      "name": "Elastic",
+      "si": "elastic",
+      "categories": [
+        "databases"
       ]
     },
     {
@@ -2095,6 +2239,14 @@
       "categories": [
         "ui",
         "communication"
+      ]
+    },
+    {
+      "slug": "elementor",
+      "name": "Elementor",
+      "si": "elementor",
+      "categories": [
+        "cms"
       ]
     },
     {
@@ -2394,6 +2546,14 @@
       ]
     },
     {
+      "slug": "fly-io",
+      "name": "Fly.io",
+      "si": "flydotio",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
       "slug": "font-awesome",
       "name": "Font Awesome",
       "si": "fontawesome",
@@ -2480,6 +2640,14 @@
       "gb": "ghost",
       "categories": [
         "cms"
+      ]
+    },
+    {
+      "slug": "ghostty",
+      "name": "Ghostty",
+      "si": "ghostty",
+      "categories": [
+        "devtools"
       ]
     },
     {
@@ -2650,12 +2818,28 @@
       ]
     },
     {
+      "slug": "google-bigquery",
+      "name": "Google BigQuery",
+      "si": "googlebigquery",
+      "categories": [
+        "databases"
+      ]
+    },
+    {
       "slug": "google-calendar",
       "name": "Google Calendar",
       "si": "googlecalendar",
       "gb": "google-calendar",
       "categories": [
         "productivity"
+      ]
+    },
+    {
+      "slug": "google-classroom",
+      "name": "Google Classroom",
+      "si": "googleclassroom",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -2883,12 +3067,37 @@
       ]
     },
     {
+      "slug": "gumroad",
+      "name": "Gumroad",
+      "si": "gumroad",
+      "categories": [
+        "payments"
+      ]
+    },
+    {
       "slug": "gunicorn",
       "name": "Gunicorn",
       "si": "gunicorn",
       "gb": "gunicorn",
       "categories": [
         "devops"
+      ]
+    },
+    {
+      "slug": "hack-the-box",
+      "name": "Hack The Box",
+      "si": "hackthebox",
+      "categories": [
+        "learning",
+        "auth"
+      ]
+    },
+    {
+      "slug": "hackerrank",
+      "name": "HackerRank",
+      "si": "hackerrank",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -3028,6 +3237,14 @@
       ]
     },
     {
+      "slug": "heroui",
+      "name": "HeroUI",
+      "si": "heroui",
+      "categories": [
+        "ui"
+      ]
+    },
+    {
       "slug": "hetzner",
       "name": "Hetzner",
       "si": "hetzner",
@@ -3058,6 +3275,14 @@
       "gb": "highcharts",
       "categories": [
         "libraries"
+      ]
+    },
+    {
+      "slug": "home-assistant",
+      "name": "Home Assistant",
+      "si": "homeassistant",
+      "categories": [
+        "platforms"
       ]
     },
     {
@@ -3128,6 +3353,14 @@
       "gb": "httpie",
       "categories": [
         "devtools"
+      ]
+    },
+    {
+      "slug": "hubspot",
+      "name": "HubSpot",
+      "si": "hubspot",
+      "categories": [
+        "analytics"
       ]
     },
     {
@@ -3232,6 +3465,14 @@
       "gb": "instagram",
       "categories": [
         "social"
+      ]
+    },
+    {
+      "slug": "instatus",
+      "name": "Instatus",
+      "si": "instatus",
+      "categories": [
+        "monitoring"
       ]
     },
     {
@@ -3618,6 +3859,14 @@
       ]
     },
     {
+      "slug": "khan-academy",
+      "name": "Khan Academy",
+      "si": "khanacademy",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "kibana",
       "name": "Kibana",
       "si": "kibana",
@@ -3630,6 +3879,14 @@
       "slug": "kilo",
       "name": "Kilo",
       "gb": "kilo",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "kimi",
+      "name": "Kimi",
+      "si": "kimi",
       "categories": [
         "ai"
       ]
@@ -3765,6 +4022,14 @@
       "gb": "leaflet",
       "categories": [
         "libraries"
+      ]
+    },
+    {
+      "slug": "leetcode",
+      "name": "LeetCode",
+      "si": "leetcode",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -3921,6 +4186,14 @@
       ]
     },
     {
+      "slug": "lm-studio",
+      "name": "LM Studio",
+      "si": "lmstudio",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
       "slug": "lodash",
       "name": "Lodash",
       "si": "lodash",
@@ -4003,6 +4276,14 @@
       "gb": "lua",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "slug": "lucia",
+      "name": "Lucia",
+      "si": "lucia",
+      "categories": [
+        "auth"
       ]
     },
     {
@@ -4222,6 +4503,14 @@
       ]
     },
     {
+      "slug": "mdn-web-docs",
+      "name": "MDN Web Docs",
+      "si": "mdnwebdocs",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "mdx",
       "name": "MDX",
       "si": "mdx",
@@ -4270,6 +4559,14 @@
       "gb": "memgraph",
       "categories": [
         "databases"
+      ]
+    },
+    {
+      "slug": "mercado-pago",
+      "name": "Mercado Pago",
+      "si": "mercadopago",
+      "categories": [
+        "payments"
       ]
     },
     {
@@ -4432,6 +4729,14 @@
       "gb": "minimax",
       "categories": [
         "ai"
+      ]
+    },
+    {
+      "slug": "mintlify",
+      "name": "Mintlify",
+      "si": "mintlify",
+      "categories": [
+        "devtools"
       ]
     },
     {
@@ -4783,6 +5088,14 @@
       ]
     },
     {
+      "slug": "nuget",
+      "name": "NuGet",
+      "si": "nuget",
+      "categories": [
+        "build"
+      ]
+    },
+    {
       "slug": "numpy",
       "name": "NumPy",
       "si": "numpy",
@@ -4942,6 +5255,14 @@
       "name": "OpenCV",
       "si": "opencv",
       "gb": "opencv",
+      "categories": [
+        "ai"
+      ]
+    },
+    {
+      "slug": "openrouter",
+      "name": "OpenRouter",
+      "si": "openrouter",
       "categories": [
         "ai"
       ]
@@ -5160,6 +5481,14 @@
       ]
     },
     {
+      "slug": "payload-cms",
+      "name": "Payload CMS",
+      "si": "payloadcms",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
       "slug": "paypal",
       "name": "PayPal",
       "si": "paypal",
@@ -5175,6 +5504,14 @@
       "categories": [
         "african-brands",
         "payments"
+      ]
+    },
+    {
+      "slug": "peerlist",
+      "name": "Peerlist",
+      "si": "peerlist",
+      "categories": [
+        "social"
       ]
     },
     {
@@ -5316,6 +5653,14 @@
       ]
     },
     {
+      "slug": "platzi",
+      "name": "Platzi",
+      "si": "platzi",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "plausible",
       "name": "Plausible Analytics",
       "si": "plausibleanalytics",
@@ -5329,6 +5674,14 @@
       "gb": "playwright",
       "categories": [
         "testing"
+      ]
+    },
+    {
+      "slug": "pluralsight",
+      "name": "Pluralsight",
+      "si": "pluralsight",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -5371,6 +5724,14 @@
       "si": "poetry",
       "categories": [
         "build"
+      ]
+    },
+    {
+      "slug": "polars",
+      "name": "Polars",
+      "si": "polars",
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -5881,6 +6242,22 @@
       ]
     },
     {
+      "slug": "refine",
+      "name": "Refine",
+      "si": "refine",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
+      "slug": "reflex",
+      "name": "Reflex",
+      "si": "reflex",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
       "slug": "relay",
       "name": "Relay",
       "si": "relay",
@@ -6063,6 +6440,14 @@
       ]
     },
     {
+      "slug": "ruby-on-rails",
+      "name": "Ruby on Rails",
+      "si": "rubyonrails",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
       "slug": "rubygems",
       "name": "RubyGems",
       "si": "rubygems",
@@ -6176,6 +6561,14 @@
       ]
     },
     {
+      "slug": "scrimba",
+      "name": "Scrimba",
+      "si": "scrimba",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "seaborn",
       "name": "seaborn",
       "gb": "seaborn",
@@ -6224,6 +6617,14 @@
       "gb": "semaphore",
       "categories": [
         "devops"
+      ]
+    },
+    {
+      "slug": "semrush",
+      "name": "Semrush",
+      "si": "semrush",
+      "categories": [
+        "analytics"
       ]
     },
     {
@@ -6322,6 +6723,14 @@
       "gb": "sketchapp",
       "categories": [
         "design"
+      ]
+    },
+    {
+      "slug": "skillshare",
+      "name": "Skillshare",
+      "si": "skillshare",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -6583,6 +6992,14 @@
       ]
     },
     {
+      "slug": "stimulus",
+      "name": "Stimulus",
+      "si": "stimulus",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
       "slug": "stoplight",
       "name": "StopLight",
       "gb": "stoplight",
@@ -6710,6 +7127,14 @@
       "gb": "subversion",
       "categories": [
         "devtools"
+      ]
+    },
+    {
+      "slug": "suno",
+      "name": "Suno",
+      "si": "suno",
+      "categories": [
+        "ai"
       ]
     },
     {
@@ -6905,6 +7330,14 @@
       ]
     },
     {
+      "slug": "temporal",
+      "name": "Temporal",
+      "si": "temporal",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
       "slug": "tensorflow",
       "name": "TensorFlow",
       "si": "tensorflow",
@@ -6988,6 +7421,14 @@
       "si": "timescale",
       "categories": [
         "databases"
+      ]
+    },
+    {
+      "slug": "tina",
+      "name": "Tina",
+      "si": "tina",
+      "categories": [
+        "cms"
       ]
     },
     {
@@ -7082,6 +7523,14 @@
       "gb": "truffle",
       "categories": [
         "web3"
+      ]
+    },
+    {
+      "slug": "trustpilot",
+      "name": "Trustpilot",
+      "si": "trustpilot",
+      "categories": [
+        "social"
       ]
     },
     {
@@ -7185,6 +7634,22 @@
       "gb": "ubuntu",
       "categories": [
         "platforms"
+      ]
+    },
+    {
+      "slug": "udacity",
+      "name": "Udacity",
+      "si": "udacity",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
+      "slug": "udemy",
+      "name": "Udemy",
+      "si": "udemy",
+      "categories": [
+        "learning"
       ]
     },
     {
@@ -7500,12 +7965,28 @@
       ]
     },
     {
+      "slug": "w3schools",
+      "name": "W3Schools",
+      "si": "w3schools",
+      "categories": [
+        "learning"
+      ]
+    },
+    {
       "slug": "wagtail",
       "name": "Wagtail",
       "si": "wagtail",
       "gb": "wagtail",
       "categories": [
         "cms"
+      ]
+    },
+    {
+      "slug": "wakatime",
+      "name": "WakaTime",
+      "si": "wakatime",
+      "categories": [
+        "devtools"
       ]
     },
     {
@@ -7549,6 +8030,14 @@
       "gb": "webflow",
       "categories": [
         "cms"
+      ]
+    },
+    {
+      "slug": "webgl",
+      "name": "WebGL",
+      "si": "webgl",
+      "categories": [
+        "libraries"
       ]
     },
     {

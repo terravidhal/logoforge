@@ -174,12 +174,12 @@ function isNeutral(hex: string) {
   return s < 0.25 || l < 0.2;
 }
 
-/** Same hue, lighter, until it reads on the dark page. */
-function lightenForDark(hex: string) {
+/** Same hue, lighter, until it reads on the dark page (3:1 by default). */
+function lightenForDark(hex: string, target = MIN_DARK_CONTRAST) {
   const [h, s, l0] = toHsl(hex);
   for (let l = l0; l <= 0.95; l += 0.03) {
     const candidate = fromHsl(h, s, l);
-    if (contrast(candidate, DARK_BG) >= MIN_DARK_CONTRAST) return candidate;
+    if (contrast(candidate, DARK_BG) >= target) return candidate;
   }
   return "#ffffff";
 }
@@ -223,7 +223,7 @@ export type DarkMode = "auto" | "swap" | "whiten";
  * like Next.js or Notion — are SWAPPED (black↔white) so the detail survives.
  * Returns null when the logo already reads on dark.
  */
-export function makeDarkVariant(svg: string, mode: DarkMode = "auto") {
+export function makeDarkVariant(svg: string, mode: DarkMode = "auto", minContrast = MIN_DARK_CONTRAST) {
   const problems = darkProblemColors(svg);
   if (problems.length === 0) return null;
 
@@ -233,7 +233,7 @@ export function makeDarkVariant(svg: string, mode: DarkMode = "auto") {
   const swap = mode === "swap" || (mode === "auto" && hasWhiteDetail && hasBlackNeutral);
 
   const map = new Map<string, string>();
-  for (const c of problems) map.set(c, isNeutral(c) ? "#ffffff" : lightenForDark(c));
+  for (const c of problems) map.set(c, isNeutral(c) ? "#ffffff" : lightenForDark(c, minContrast));
   if (swap) {
     for (const c of colors) if (luminance(c) > 0.8) map.set(c, DARK_BG);
   }

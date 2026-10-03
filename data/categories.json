@@ -9,6 +9,7 @@
   { "slug": "cloud", "name": "Cloud & hosting" },
   { "slug": "devops", "name": "DevOps" },
   { "slug": "devtools", "name": "Developer tools" },
+  { "slug": "learning", "name": "Learning" },
   { "slug": "editors", "name": "Editors & IDEs" },
   { "slug": "testing", "name": "Testing" },
   { "slug": "build", "name": "Build tools" },
