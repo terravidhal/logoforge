@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 970 | 970 | 961 | 497 | 370 | 294 | 0 |
+| 971 | 971 | 962 | 498 | 370 | 294 | 0 |
 
 ## Excluded
 
@@ -190,6 +190,7 @@ Nothing flagged.
 | codesignal | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | codewars | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | codex | icon, icon-mono, icon-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| coding-dojo | icon, icon-mono, icon-dark | addition from Coding Dojo (official website) (trademark, 2026-10-03); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-10-03: torii mark checked (light, dark, mono) — single black shape, derived mono is identical |
 | coffeescript | icon, icon-mono, icon-dark |  |
 | coinbase | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | commitizen | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |

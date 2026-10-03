@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 970,
+  "count": 971,
   "logos": [
     {
       "slug": "1password",
@@ -6373,6 +6373,45 @@
           "file": "codex.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/codex.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "coding-dojo",
+      "name": "Coding Dojo",
+      "aliases": [
+        "CodingDojo",
+        "Coding Dojo bootcamp"
+      ],
+      "categories": [
+        "learning"
+      ],
+      "hex": null,
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "Coding Dojo (official website)",
+          "file": "https://cutecdn.codingdojo.com/svg_images/logos/coding_dojo_black_new_version.svg",
+          "url": "https://www.codingdojo.com/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "Coding Dojo (official website) (derived)",
+          "file": "https://cutecdn.codingdojo.com/svg_images/logos/coding_dojo_black_new_version.svg",
+          "url": "https://www.codingdojo.com/",
+          "license": "trademark"
+        },
+        "icon-dark": {
+          "origin": "Coding Dojo (official website) (dark: auto)",
+          "file": "https://cutecdn.codingdojo.com/svg_images/logos/coding_dojo_black_new_version.svg",
+          "url": "https://www.codingdojo.com/",
+          "license": "trademark"
         }
       }
     },

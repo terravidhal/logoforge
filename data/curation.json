@@ -1495,6 +1495,18 @@
       ]
     },
     {
+      "slug": "coding-dojo",
+      "name": "Coding Dojo",
+      "addition": true,
+      "categories": [
+        "learning"
+      ],
+      "aliases": [
+        "CodingDojo",
+        "Coding Dojo bootcamp"
+      ]
+    },
+    {
       "slug": "coffeescript",
       "name": "CoffeeScript",
       "si": "coffeescript",

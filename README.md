@@ -4,12 +4,12 @@
 
 **Brand logos for developers, as shadcn components.**
 
-970 clean SVG logos of the tools developers use — as files, as typed React components,
+971 clean SVG logos of the tools developers use — as files, as typed React components,
 through a shadcn registry, a JSON API and an MCP server for AI editors.
 
 [Website](https://logoforge.terravidhal.me) · [Logo cloud builder](https://logoforge.terravidhal.me/cloud) · [Docs](https://logoforge.terravidhal.me/docs) · [Request a logo](../../issues/new)
 
-![License: MIT](https://img.shields.io/badge/tooling-MIT-black) ![Logos: 970](https://img.shields.io/badge/logos-970-black) ![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)
+![License: MIT](https://img.shields.io/badge/tooling-MIT-black) ![Logos: 971](https://img.shields.io/badge/logos-971-black) ![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)
 
 </div>
 
