@@ -1,28 +1,58 @@
 <div align="center">
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset=".github/assets/mark-dark.svg">
+  <img src=".github/assets/mark-light.svg" alt="Logoforge" width="56" height="56">
+</picture>
+
 # Logoforge
 
 **Brand logos for developers, as shadcn components.**
 
-971 clean SVG logos of the tools developers use — as files, as typed React components,
-through a shadcn registry, a JSON API and an MCP server for AI editors.
+971 clean SVG logos of the tools developers use — install any of them as a typed React component<br>
+with one command, copy the SVG, or build a whole “Trusted by” logo cloud in seconds.
 
-[Website](https://logoforge.terravidhal.me) · [Logo cloud builder](https://logoforge.terravidhal.me/cloud) · [Docs](https://logoforge.terravidhal.me/docs) · [Request a logo](../../issues/new)
+```bash
+npx shadcn@latest add @logoforge/stripe
+```
 
-![License: MIT](https://img.shields.io/badge/tooling-MIT-black) ![Logos: 971](https://img.shields.io/badge/logos-971-black) ![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)
+[**Website**](https://logoforge.terravidhal.me) · [Logo cloud builder](https://logoforge.terravidhal.me/cloud) · [Categories](https://logoforge.terravidhal.me/categories) · [Docs](https://logoforge.terravidhal.me/docs) · [Request a logo](../../issues/new)
+
+[![shadcn registry](https://img.shields.io/badge/shadcn-official%20directory-black)](https://ui.shadcn.com/docs/directory)
+[![Logos: 971](https://img.shields.io/badge/logos-971-black)](https://logoforge.terravidhal.me)
+[![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)](CREDITS.md)
+[![Tooling: MIT](https://img.shields.io/badge/tooling-MIT-black)](LICENSE)
+[![check](https://github.com/terravidhal/logoforge/actions/workflows/check.yml/badge.svg)](https://github.com/terravidhal/logoforge/actions/workflows/check.yml)
+[![Logoforge MCP server](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge/badges/score.svg)](https://glama.ai/mcp/connectors/me.terravidhal.logoforge/logoforge)
+
+<a href="https://logoforge.terravidhal.me"><img src=".github/assets/hero.png" alt="Logoforge — every logo your stack ships with" width="900"></a>
 
 </div>
+
+> ⭐ **If Logoforge saves you a logo hunt, a star helps other developers find it.**
 
 ---
 
 ## Why Logoforge
 
-- **One component per logo, typed.** `<StripeLogo />`, `<GithubLogo variant="mono" />`, `<VercelLogo type="wordmark" />` — TypeScript only offers the variants a logo really has.
-- **Dark mode that works.** Near-black marks (GitHub, Vercel, Notion…) ship a dark file; the component switches with your `.dark` class, no JavaScript.
+- **One command, one typed component.** `npx shadcn add @logoforge/stripe` writes `components/logos/stripe.tsx` — no package to install, no CSS touched, nothing but React. `<StripeLogo />`, `<GithubLogo variant="mono" />`, `<VercelLogo type="wordmark" />`: TypeScript only offers the variants a logo really has.
+- **Dark mode that works.** Near-black marks (GitHub, Vercel, Notion…) ship a dark file; the component switches with your `.dark` class — Tailwind v3 and v4, no JavaScript.
 - **Mono that keeps its detail.** Badge-style marks (Adobe apps, AWS services) get a *knockout* one-color version — the symbol cut out of its shape — not a solid blob.
-- **Logo clouds in one command.** Pick 3–12 logos on [/cloud](https://logoforge.terravidhal.me/cloud); one `shadcn add` installs the section and every logo it imports.
-- **African brands.** MTN, Orange Money, M-Pesa, Flutterwave, Paystack, Moniepoint, OPay, Kuda, Chipper Cash, Yoco, Interswitch, Airtel, Orange, Andela — and more coming.
+- **Logo clouds in one command.** Pick logos on [/cloud](https://logoforge.terravidhal.me/cloud), choose grid, marquee or bento; one `shadcn add` installs the section and every logo it imports.
+- **African brands.** MTN, Orange Money, M-Pesa, Flutterwave, Paystack, Moniepoint, OPay, Kuda, Chipper Cash, Yoco, Interswitch, Airtel, Orange, Andela — the brands most logo sets leave out.
+- **Built for AI editors.** An MCP server lets Claude, Cursor, Windsurf or VS Code search and add logos for you.
 - **Every file is traceable.** Each variant records its source, its exact upstream file and its licence.
+
+<div align="center">
+  <img src=".github/assets/logo-cloud-builder.gif" alt="The logo cloud builder: add logos, switch layout and colors, copy one install command" width="800">
+  <br><sub>The <a href="https://logoforge.terravidhal.me/cloud">logo cloud builder</a> — pick logos, switch grid · marquee · bento, install with one command.</sub>
+</div>
+
+<div align="center">
+  <br>
+  <a href="https://logoforge.terravidhal.me"><img src=".github/assets/gallery.png" alt="The gallery: 971 logos, 27 categories, color or mono" width="900"></a>
+  <br><sub>The gallery — 971 logos in 27 categories (AI, frameworks, databases, cloud, payments, learning, African brands…), color or mono.</sub>
+</div>
 
 ## Use it
 
@@ -144,4 +174,10 @@ Everyone taking part follows the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ---
 
+<div align="center">
+
+**Logoforge is free and open source.** If it helped you, [⭐ star the repo](https://github.com/terravidhal/logoforge) — it's the best way to help other developers find it.
+
 Built by [Vidhal Elame](https://github.com/terravidhal) · sibling of [Blockforge](https://blockforge.terravidhal.me)
+
+</div>
