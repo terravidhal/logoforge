@@ -24,6 +24,9 @@
   { "slug": "platforms", "name": "OS & hardware" },
   { "slug": "browsers", "name": "Browsers" },
   { "slug": "social", "name": "Social" },
+  { "slug": "gaming", "name": "Gaming" },
+  { "slug": "media", "name": "Media & music" },
+  { "slug": "commerce", "name": "Commerce" },
   { "slug": "web3", "name": "Web3" },
   { "slug": "african-brands", "name": "African brands" }
 ]

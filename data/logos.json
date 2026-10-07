@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 971,
+  "count": 1011,
   "logos": [
     {
       "slug": "1password",
@@ -405,6 +405,42 @@
       }
     },
     {
+      "slug": "airbnb",
+      "name": "Airbnb",
+      "aliases": [],
+      "categories": [
+        "commerce"
+      ],
+      "hex": "#ff5a5f",
+      "url": "https://www.airbnb.com/",
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "wordmark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "airbnb-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/airbnb-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "airbnb.svg",
+          "url": "https://www.airbnb.com",
+          "license": "CC0-1.0"
+        },
+        "wordmark": {
+          "origin": "gilbarbara/logos",
+          "file": "airbnb.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/airbnb.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "airbrake",
       "name": "Airbrake",
       "aliases": [],
@@ -585,6 +621,42 @@
           "origin": "simple-icons (dark: auto)",
           "file": "algolia.svg",
           "url": "https://algolia.frontify.com/d/1AZwVNcFZiu7/style-guide#/basics/algolia-logo",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "algorand",
+      "name": "Algorand",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": "https://algorand.com/about/media-kit",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "algorand.svg",
+          "url": "https://www.algorand.com/about/media-kit",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "algorand.svg",
+          "url": "https://www.algorand.com/about/media-kit",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "algorand.svg",
+          "url": "https://www.algorand.com/about/media-kit",
           "license": "CC0-1.0"
         }
       }
@@ -1556,6 +1628,35 @@
       }
     },
     {
+      "slug": "applemusic",
+      "name": "Apple Music",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#fa243c",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "applemusic.svg",
+          "url": "https://www.apple.com/itunes/marketing-on-music/identity-guidelines.html#apple-music-icon",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "applemusic.svg",
+          "url": "https://www.apple.com/itunes/marketing-on-music/identity-guidelines.html#apple-music-icon",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "applitools",
       "name": "Applitools",
       "aliases": [],
@@ -1637,6 +1738,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "appsignal.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/appsignal.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "appstore",
+      "name": "App Store",
+      "aliases": [],
+      "categories": [
+        "platforms"
+      ],
+      "hex": "#0d96f6",
+      "url": "https://www.apple.com/ios/app-store/",
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "apple-app-store.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/apple-app-store.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "appstore.svg",
+          "url": "https://developer.apple.com/app-store",
           "license": "CC0-1.0"
         }
       }
@@ -3418,6 +3548,35 @@
       }
     },
     {
+      "slug": "bento",
+      "name": "Bento",
+      "aliases": [],
+      "categories": [
+        "social"
+      ],
+      "hex": "#768cff",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "bento.svg",
+          "url": "https://bento.me",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "bento.svg",
+          "url": "https://bento.me",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "better-auth",
       "name": "Better Auth",
       "aliases": [],
@@ -3521,6 +3680,35 @@
           "origin": "simple-icons (dark: auto)",
           "file": "bigcommerce.svg",
           "url": "https://www.bigcommerce.co.uk/press",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "binance",
+      "name": "Binance",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#f0b90b",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "binance.svg",
+          "url": "https://binance.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "binance.svg",
+          "url": "https://binance.com",
           "license": "CC0-1.0"
         }
       }
@@ -7319,6 +7507,35 @@
       }
     },
     {
+      "slug": "curseforge",
+      "name": "CurseForge",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "hex": "#f16436",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "curseforge.svg",
+          "url": "https://www.curseforge.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "curseforge.svg",
+          "url": "https://www.curseforge.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "cursor",
       "name": "Cursor",
       "aliases": [],
@@ -8685,6 +8902,35 @@
       }
     },
     {
+      "slug": "dogecoin",
+      "name": "Dogecoin",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#c2a633",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "dogecoin.svg",
+          "url": "https://cryptologos.cc/dogecoin",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "dogecoin.svg",
+          "url": "https://cryptologos.cc/dogecoin",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "dokploy",
       "name": "Dokploy",
       "aliases": [],
@@ -9113,6 +9359,42 @@
       }
     },
     {
+      "slug": "duckduckgo",
+      "name": "DuckDuckGo",
+      "aliases": [],
+      "categories": [
+        "browsers"
+      ],
+      "hex": "#de5833",
+      "url": "https://duckduckgo.com/",
+      "guidelines": "https://duckduckgo.com/press#press-materials",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "duckduckgo.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/duckduckgo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "duckduckgo.svg",
+          "url": "https://github.com/duckduckgo/duckduckgo-privacy-extension/blob/5c6ac8d6a07421adbfb97ee2ff855dd7655f8d71/shared/img/logo-small-grayscale.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "gilbarbara/logos (dark: auto)",
+          "file": "duckduckgo.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/duckduckgo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "duolingo",
       "name": "Duolingo",
       "aliases": [],
@@ -9216,6 +9498,35 @@
           "origin": "gilbarbara/logos (derived)",
           "file": "ebanx.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/ebanx.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "ebay",
+      "name": "eBay",
+      "aliases": [],
+      "categories": [
+        "commerce"
+      ],
+      "hex": "#e53238",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "ebay.svg",
+          "url": "https://go.developer.ebay.com/logos",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "ebay.svg",
+          "url": "https://go.developer.ebay.com/logos",
           "license": "CC0-1.0"
         }
       }
@@ -9902,6 +10213,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "envoy.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/envoy.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "epicgames",
+      "name": "Epic Games",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "hex": "#313131",
+      "url": null,
+      "guidelines": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "epicgames.svg",
+          "url": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "epicgames.svg",
+          "url": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "epicgames.svg",
+          "url": "https://dev.epicgames.com/docs/services/en-US/EpicAccountServices/DesignGuidelines/index.html#epicgamesbrandguidelines",
           "license": "CC0-1.0"
         }
       }
@@ -11722,6 +12069,35 @@
       }
     },
     {
+      "slug": "glide",
+      "name": "Glide",
+      "aliases": [],
+      "categories": [
+        "cms"
+      ],
+      "hex": "#18bed4",
+      "url": null,
+      "guidelines": "https://brand.glide.page/dl/brand-assets",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "glide.svg",
+          "url": "https://brand.glide.page/dl/brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "glide.svg",
+          "url": "https://brand.glide.page/dl/brand-assets",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "glitch",
       "name": "Glitch",
       "aliases": [],
@@ -11896,6 +12272,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "gocd.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/gocd.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "godaddy",
+      "name": "GoDaddy",
+      "aliases": [],
+      "categories": [
+        "cloud"
+      ],
+      "hex": "#1bdbdb",
+      "url": null,
+      "guidelines": "https://aboutus.godaddy.net/newsroom/media-resources/",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "godaddy.svg",
+          "url": "https://aboutus.godaddy.net/newsroom/media-resources/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "godaddy.svg",
+          "url": "https://aboutus.godaddy.net/newsroom/media-resources/",
           "license": "CC0-1.0"
         }
       }
@@ -12596,6 +13001,158 @@
           "origin": "gilbarbara/logos (derived)",
           "file": "google-workspace.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/google-workspace.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "googlechat",
+      "name": "Google Chat",
+      "aliases": [],
+      "categories": [
+        "communication"
+      ],
+      "hex": "#34a853",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "googlechat.svg",
+          "url": "https://support.google.com/chat/answer/9455386",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googlechat.svg",
+          "url": "https://support.google.com/chat/answer/9455386",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "googlemaps",
+      "name": "Google Maps",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#4285f4",
+      "url": "https://cloud.google.com/maps-platform/",
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "google-maps.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/google-maps.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googlemaps.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:Google_Maps_icon.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "googleplay",
+      "name": "Google Play",
+      "aliases": [],
+      "categories": [
+        "platforms"
+      ],
+      "hex": "#414141",
+      "url": "https://play.google.com/",
+      "guidelines": "https://partnermarketinghub.withgoogle.com/brands/google-play/visual-identity/primary-logos/",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "wordmark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "google-play-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/google-play-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googleplay.svg",
+          "url": "https://partnermarketinghub.withgoogle.com/brands/google-play/visual-identity/primary-logos/",
+          "license": "CC0-1.0"
+        },
+        "wordmark": {
+          "origin": "gilbarbara/logos",
+          "file": "google-play.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/google-play.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "googlesheets",
+      "name": "Google Sheets",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#34a853",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "googlesheets.svg",
+          "url": "https://sheets.google.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googlesheets.svg",
+          "url": "https://sheets.google.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "googleslides",
+      "name": "Google Slides",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#fbbc04",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "googleslides.svg",
+          "url": "https://slides.google.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "googleslides.svg",
+          "url": "https://slides.google.com",
           "license": "CC0-1.0"
         }
       }
@@ -16665,6 +17222,36 @@
       }
     },
     {
+      "slug": "kick",
+      "name": "Kick",
+      "aliases": [],
+      "categories": [
+        "media",
+        "social"
+      ],
+      "hex": "#53fc19",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "kick.svg",
+          "url": "https://kick.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "kick.svg",
+          "url": "https://kick.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "kilo",
       "name": "Kilo",
       "aliases": [],
@@ -17962,6 +18549,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "lit.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/lit.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "litecoin",
+      "name": "Litecoin",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#a6a9aa",
+      "url": null,
+      "guidelines": "https://litecoin-foundation.org/litecoin-branding-guidelines/",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "litecoin.svg",
+          "url": "https://litecoin-foundation.org/litecoin-branding-guidelines/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "litecoin.svg",
+          "url": "https://litecoin-foundation.org/litecoin-branding-guidelines/",
           "license": "CC0-1.0"
         }
       }
@@ -20323,6 +20939,42 @@
       }
     },
     {
+      "slug": "milanote",
+      "name": "Milanote",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#31303a",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "milanote.svg",
+          "url": "https://milanote.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "milanote.svg",
+          "url": "https://milanote.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "milanote.svg",
+          "url": "https://milanote.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "milvus",
       "name": "Milvus",
       "aliases": [],
@@ -21217,6 +21869,35 @@
       }
     },
     {
+      "slug": "nano",
+      "name": "Nano",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#209ce9",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "nano.svg",
+          "url": "https://nano.org/en/currency",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "nano.svg",
+          "url": "https://nano.org/en/currency",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "nativescript",
       "name": "NativeScript",
       "aliases": [],
@@ -21485,6 +22166,49 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "netbeans.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/netbeans.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#e50914",
+      "url": "https://www.netflix.com/",
+      "guidelines": "https://brand.netflix.com/en/assets/logos",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "wordmark",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "netflix-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/netflix-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "netflix.svg",
+          "url": "https://brand.netflix.com/en/assets/logos",
+          "license": "CC0-1.0"
+        },
+        "wordmark": {
+          "origin": "gilbarbara/logos",
+          "file": "netflix.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/netflix.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "gilbarbara/logos (dark: auto)",
+          "file": "netflix-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/netflix-icon.svg",
           "license": "CC0-1.0"
         }
       }
@@ -22389,6 +23113,42 @@
       }
     },
     {
+      "slug": "obsstudio",
+      "name": "OBS Studio",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#302e31",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "obsstudio.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:OBS.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "obsstudio.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:OBS.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "obsstudio.svg",
+          "url": "https://commons.wikimedia.org/wiki/File:OBS.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "ocaml",
       "name": "OCaml",
       "aliases": [],
@@ -22874,6 +23634,35 @@
           "origin": "simple-icons",
           "file": "openrouter.svg",
           "url": "https://openrouter.ai",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "opensea",
+      "name": "OpenSea",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#2081e2",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "opensea.svg",
+          "url": "https://docs.opensea.io",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "opensea.svg",
+          "url": "https://docs.opensea.io",
           "license": "CC0-1.0"
         }
       }
@@ -24183,6 +24972,35 @@
       }
     },
     {
+      "slug": "photopea",
+      "name": "Photopea",
+      "aliases": [],
+      "categories": [
+        "design"
+      ],
+      "hex": "#18a497",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "photopea.svg",
+          "url": "https://github.com/photopea/photopea/blob/d5c532e8ad8ece246e2ea8646aac7df768407c64/logo.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "photopea.svg",
+          "url": "https://github.com/photopea/photopea/blob/d5c532e8ad8ece246e2ea8646aac7df768407c64/logo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "php",
       "name": "PHP",
       "aliases": [],
@@ -24633,6 +25451,35 @@
           "origin": "simple-icons",
           "file": "plausibleanalytics.svg",
           "url": "https://github.com/plausible/docs/blob/be5c935484e075f1e0caf3c9b3351ddd62348139/static/img/logo.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "playstation",
+      "name": "PlayStation",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "hex": "#0070d1",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "playstation.svg",
+          "url": "https://www.playstation.com/en-us/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "playstation.svg",
+          "url": "https://www.playstation.com/en-us/",
           "license": "CC0-1.0"
         }
       }
@@ -25450,6 +26297,64 @@
           "origin": "simple-icons",
           "file": "prometheus.svg",
           "url": "https://prometheus.io",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "protonmail",
+      "name": "Proton Mail",
+      "aliases": [],
+      "categories": [
+        "communication"
+      ],
+      "hex": "#6d4aff",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "protonmail.svg",
+          "url": "https://proton.me/media/kit",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "protonmail.svg",
+          "url": "https://proton.me/media/kit",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "protonvpn",
+      "name": "Proton VPN",
+      "aliases": [],
+      "categories": [
+        "auth"
+      ],
+      "hex": "#66deb1",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "protonvpn.svg",
+          "url": "https://proton.me/media/kit",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "protonvpn.svg",
+          "url": "https://proton.me/media/kit",
           "license": "CC0-1.0"
         }
       }
@@ -27701,6 +28606,42 @@
       }
     },
     {
+      "slug": "roblox",
+      "name": "Roblox",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": "https://en.help.roblox.com/hc/en-us/articles/115001708126-Roblox-Name-and-Logo-Community-Usage-Guidelines",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "roblox.svg",
+          "url": "https://www.roblox.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "roblox.svg",
+          "url": "https://www.roblox.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "roblox.svg",
+          "url": "https://www.roblox.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "rocket-chat",
       "name": "Rocket.Chat",
       "aliases": [],
@@ -29166,6 +30107,35 @@
       }
     },
     {
+      "slug": "sky",
+      "name": "Sky",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#0072c9",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "sky.svg",
+          "url": "https://www.skysports.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "sky.svg",
+          "url": "https://www.skysports.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "skype",
       "name": "Skype",
       "aliases": [],
@@ -29608,6 +30578,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "sonarqube.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/sonarqube.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "soundcloud",
+      "name": "SoundCloud",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#ff5500",
+      "url": "https://soundcloud.com/",
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "wordmark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "soundcloud.svg",
+          "url": "https://press.soundcloud.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "soundcloud.svg",
+          "url": "https://press.soundcloud.com",
+          "license": "CC0-1.0"
+        },
+        "wordmark": {
+          "origin": "gilbarbara/logos",
+          "file": "soundcloud.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/soundcloud.svg",
           "license": "CC0-1.0"
         }
       }
@@ -30219,6 +31225,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "statuspage.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/statuspage.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "steam",
+      "name": "Steam",
+      "aliases": [],
+      "categories": [
+        "gaming"
+      ],
+      "hex": "#000000",
+      "url": "https://store.steampowered.com/",
+      "guidelines": "https://partner.steamgames.com/doc/marketing/branding",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "steam.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/steam.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "steam.svg",
+          "url": "https://partner.steamgames.com/doc/marketing/branding",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "gilbarbara/logos (dark: auto)",
+          "file": "steam.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/steam.svg",
           "license": "CC0-1.0"
         }
       }
@@ -32076,6 +33118,37 @@
       }
     },
     {
+      "slug": "tether",
+      "name": "Tether",
+      "aliases": [
+        "USDt"
+      ],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#50af95",
+      "url": null,
+      "guidelines": "https://tether.to/branding/",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "tether.svg",
+          "url": "https://tether.to/branding/",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "tether.svg",
+          "url": "https://tether.to/branding/",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "threads",
       "name": "Threads",
       "aliases": [],
@@ -32157,6 +33230,56 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "threejs.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/threejs.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "tidal",
+      "name": "TIDAL",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#000000",
+      "url": "https://tidal.com/",
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "wordmark",
+        "icon-dark",
+        "wordmark-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "gilbarbara/logos",
+          "file": "tidal-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/tidal-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "tidal.svg",
+          "url": "https://tidal.com/press",
+          "license": "CC0-1.0"
+        },
+        "wordmark": {
+          "origin": "gilbarbara/logos",
+          "file": "tidal.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/tidal.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "gilbarbara/logos (dark: auto)",
+          "file": "tidal-icon.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/tidal-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "wordmark-dark": {
+          "origin": "gilbarbara/logos (dark: auto)",
+          "file": "tidal.svg",
+          "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/tidal.svg",
           "license": "CC0-1.0"
         }
       }
@@ -32438,6 +33561,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "toml.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/toml.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "ton",
+      "name": "TON",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#0098ea",
+      "url": null,
+      "guidelines": "https://ton.org/en/brand-assets",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "ton.svg",
+          "url": "https://ton.org/en/brand-assets",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "ton.svg",
+          "url": "https://ton.org/en/brand-assets",
           "license": "CC0-1.0"
         }
       }
@@ -33115,6 +34267,42 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "typo3.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/typo3.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "uber",
+      "name": "Uber",
+      "aliases": [],
+      "categories": [
+        "commerce"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": "https://assets.uber.com/d/k4nuxdZ8MC7E/user-guide#/user-guide/terms-of-use",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "uber.svg",
+          "url": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "uber.svg",
+          "url": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "uber.svg",
+          "url": "https://assets.uber.com/d/k4nuxdZ8MC7E/logos/collection/151",
           "license": "CC0-1.0"
         }
       }
@@ -34311,6 +35499,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "vivaldi.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/vivaldi.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "vk",
+      "name": "VK",
+      "aliases": [],
+      "categories": [
+        "social"
+      ],
+      "hex": "#0077ff",
+      "url": null,
+      "guidelines": "https://vk.com/brand",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "vk.svg",
+          "url": "https://vk.com/brand",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "vk.svg",
+          "url": "https://vk.com/brand",
           "license": "CC0-1.0"
         }
       }
@@ -35625,6 +36842,35 @@
       }
     },
     {
+      "slug": "xrp",
+      "name": "XRP",
+      "aliases": [],
+      "categories": [
+        "web3"
+      ],
+      "hex": "#25a768",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "xrp.svg",
+          "url": "https://xrpl.org",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "xrp.svg",
+          "url": "https://xrpl.org",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "xstate",
       "name": "XState",
       "aliases": [],
@@ -35887,6 +37133,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "youtube.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/youtube.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "youtubemusic",
+      "name": "YouTube Music",
+      "aliases": [],
+      "categories": [
+        "media"
+      ],
+      "hex": "#ff0000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "youtubemusic.svg",
+          "url": "https://partnermarketinghub.withgoogle.com/#/brands",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "youtubemusic.svg",
+          "url": "https://partnermarketinghub.withgoogle.com/#/brands",
           "license": "CC0-1.0"
         }
       }

@@ -91,6 +91,15 @@
       ]
     },
     {
+      "slug": "airbnb",
+      "name": "Airbnb",
+      "si": "airbnb",
+      "gb": "airbnb",
+      "categories": [
+        "commerce"
+      ]
+    },
+    {
       "slug": "airbrake",
       "name": "Airbrake",
       "si": "airbrake",
@@ -137,6 +146,14 @@
       "gb": "algolia",
       "categories": [
         "databases"
+      ]
+    },
+    {
+      "slug": "algorand",
+      "name": "Algorand",
+      "si": "algorand",
+      "categories": [
+        "web3"
       ]
     },
     {
@@ -354,6 +371,14 @@
       ]
     },
     {
+      "slug": "applemusic",
+      "name": "Apple Music",
+      "si": "applemusic",
+      "categories": [
+        "media"
+      ]
+    },
+    {
       "slug": "applitools",
       "name": "Applitools",
       "gb": "applitools",
@@ -368,6 +393,15 @@
       "gb": "appsignal",
       "categories": [
         "monitoring"
+      ]
+    },
+    {
+      "slug": "appstore",
+      "name": "App Store",
+      "si": "appstore",
+      "gb": "apple-app-store",
+      "categories": [
+        "platforms"
       ]
     },
     {
@@ -800,6 +834,14 @@
       ]
     },
     {
+      "slug": "bento",
+      "name": "Bento",
+      "si": "bento",
+      "categories": [
+        "social"
+      ]
+    },
+    {
       "slug": "better-auth",
       "name": "Better Auth",
       "si": "betterauth",
@@ -821,6 +863,14 @@
       "si": "bigcommerce",
       "categories": [
         "cms"
+      ]
+    },
+    {
+      "slug": "binance",
+      "name": "Binance",
+      "si": "binance",
+      "categories": [
+        "web3"
       ]
     },
     {
@@ -1732,6 +1782,14 @@
       ]
     },
     {
+      "slug": "curseforge",
+      "name": "CurseForge",
+      "si": "curseforge",
+      "categories": [
+        "gaming"
+      ]
+    },
+    {
       "slug": "cursor",
       "name": "Cursor",
       "si": "cursor",
@@ -2041,6 +2099,14 @@
       ]
     },
     {
+      "slug": "dogecoin",
+      "name": "Dogecoin",
+      "si": "dogecoin",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
       "slug": "dokploy",
       "name": "Dokploy",
       "gb": "dokploy",
@@ -2143,6 +2209,15 @@
       ]
     },
     {
+      "slug": "duckduckgo",
+      "name": "DuckDuckGo",
+      "si": "duckduckgo",
+      "gb": "duckduckgo",
+      "categories": [
+        "browsers"
+      ]
+    },
+    {
       "slug": "duolingo",
       "name": "Duolingo",
       "si": "duolingo",
@@ -2165,6 +2240,14 @@
       "gb": "ebanx",
       "categories": [
         "payments"
+      ]
+    },
+    {
+      "slug": "ebay",
+      "name": "eBay",
+      "si": "ebay",
+      "categories": [
+        "commerce"
       ]
     },
     {
@@ -2317,6 +2400,14 @@
       "gb": "envoy",
       "categories": [
         "devops"
+      ]
+    },
+    {
+      "slug": "epicgames",
+      "name": "Epic Games",
+      "si": "epicgames",
+      "categories": [
+        "gaming"
       ]
     },
     {
@@ -2751,6 +2842,14 @@
       ]
     },
     {
+      "slug": "glide",
+      "name": "Glide",
+      "si": "glide",
+      "categories": [
+        "cms"
+      ]
+    },
+    {
       "slug": "glitch",
       "name": "Glitch",
       "si": "glitch",
@@ -2784,6 +2883,14 @@
       "gb": "gocd",
       "categories": [
         "devops"
+      ]
+    },
+    {
+      "slug": "godaddy",
+      "name": "GoDaddy",
+      "si": "godaddy",
+      "categories": [
+        "cloud"
       ]
     },
     {
@@ -2962,6 +3069,48 @@
       "slug": "google-workspace",
       "name": "Google Workspace",
       "gb": "google-workspace",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "googlechat",
+      "name": "Google Chat",
+      "si": "googlechat",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "googlemaps",
+      "name": "Google Maps",
+      "si": "googlemaps",
+      "gb": "google-maps",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "googleplay",
+      "name": "Google Play",
+      "si": "googleplay",
+      "gb": "google-play",
+      "categories": [
+        "platforms"
+      ]
+    },
+    {
+      "slug": "googlesheets",
+      "name": "Google Sheets",
+      "si": "googlesheets",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
+      "slug": "googleslides",
+      "name": "Google Slides",
+      "si": "googleslides",
       "categories": [
         "productivity"
       ]
@@ -3888,6 +4037,15 @@
       ]
     },
     {
+      "slug": "kick",
+      "name": "Kick",
+      "si": "kick",
+      "categories": [
+        "media",
+        "social"
+      ]
+    },
+    {
       "slug": "kilo",
       "name": "Kilo",
       "gb": "kilo",
@@ -4186,6 +4344,14 @@
       "gb": "lit",
       "categories": [
         "frameworks"
+      ]
+    },
+    {
+      "slug": "litecoin",
+      "name": "Litecoin",
+      "si": "litecoin",
+      "categories": [
+        "web3"
       ]
     },
     {
@@ -4717,6 +4883,14 @@
       ]
     },
     {
+      "slug": "milanote",
+      "name": "Milanote",
+      "si": "milanote",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "milvus",
       "name": "Milvus",
       "si": "milvus",
@@ -4926,6 +5100,14 @@
       ]
     },
     {
+      "slug": "nano",
+      "name": "Nano",
+      "si": "nano",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
       "slug": "nativescript",
       "name": "NativeScript",
       "si": "nativescript",
@@ -4984,6 +5166,15 @@
       "gb": "netbeans",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "slug": "netflix",
+      "name": "Netflix",
+      "si": "netflix",
+      "gb": "netflix",
+      "categories": [
+        "media"
       ]
     },
     {
@@ -5170,6 +5361,14 @@
       ]
     },
     {
+      "slug": "obsstudio",
+      "name": "OBS Studio",
+      "si": "obsstudio",
+      "categories": [
+        "media"
+      ]
+    },
+    {
       "slug": "ocaml",
       "name": "OCaml",
       "si": "ocaml",
@@ -5277,6 +5476,14 @@
       "si": "openrouter",
       "categories": [
         "ai"
+      ]
+    },
+    {
+      "slug": "opensea",
+      "name": "OpenSea",
+      "si": "opensea",
+      "categories": [
+        "web3"
       ]
     },
     {
@@ -5570,6 +5777,14 @@
       ]
     },
     {
+      "slug": "photopea",
+      "name": "Photopea",
+      "si": "photopea",
+      "categories": [
+        "design"
+      ]
+    },
+    {
       "slug": "php",
       "name": "PHP",
       "si": "php",
@@ -5678,6 +5893,14 @@
       "si": "plausibleanalytics",
       "categories": [
         "analytics"
+      ]
+    },
+    {
+      "slug": "playstation",
+      "name": "PlayStation",
+      "si": "playstation",
+      "categories": [
+        "gaming"
       ]
     },
     {
@@ -5876,6 +6099,22 @@
       "gb": "prometheus",
       "categories": [
         "monitoring"
+      ]
+    },
+    {
+      "slug": "protonmail",
+      "name": "Proton Mail",
+      "si": "protonmail",
+      "categories": [
+        "communication"
+      ]
+    },
+    {
+      "slug": "protonvpn",
+      "name": "Proton VPN",
+      "si": "protonvpn",
+      "categories": [
+        "auth"
       ]
     },
     {
@@ -6390,6 +6629,14 @@
       ]
     },
     {
+      "slug": "roblox",
+      "name": "Roblox",
+      "si": "roblox",
+      "categories": [
+        "gaming"
+      ]
+    },
+    {
       "slug": "rocket-chat",
       "si": "rocketdotchat",
       "gb": "rocket-chat",
@@ -6746,6 +6993,14 @@
       ]
     },
     {
+      "slug": "sky",
+      "name": "Sky",
+      "si": "sky",
+      "categories": [
+        "media"
+      ]
+    },
+    {
       "slug": "skype",
       "name": "Skype",
       "gb": "skype",
@@ -6845,6 +7100,15 @@
       "gb": "sonarqube",
       "categories": [
         "devtools"
+      ]
+    },
+    {
+      "slug": "soundcloud",
+      "name": "SoundCloud",
+      "si": "soundcloud",
+      "gb": "soundcloud",
+      "categories": [
+        "media"
       ]
     },
     {
@@ -6984,6 +7248,15 @@
       "gb": "statuspage",
       "categories": [
         "monitoring"
+      ]
+    },
+    {
+      "slug": "steam",
+      "name": "Steam",
+      "si": "steam",
+      "gb": "steam",
+      "categories": [
+        "gaming"
       ]
     },
     {
@@ -7402,6 +7675,14 @@
       ]
     },
     {
+      "slug": "tether",
+      "name": "Tether",
+      "si": "tether",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
       "slug": "threads",
       "name": "Threads",
       "si": "threads",
@@ -7416,6 +7697,15 @@
       "gb": "threejs",
       "categories": [
         "libraries"
+      ]
+    },
+    {
+      "slug": "tidal",
+      "name": "TIDAL",
+      "si": "tidal",
+      "gb": "tidal",
+      "categories": [
+        "media"
       ]
     },
     {
@@ -7484,6 +7774,14 @@
       "gb": "toml",
       "categories": [
         "languages"
+      ]
+    },
+    {
+      "slug": "ton",
+      "name": "TON",
+      "si": "ton",
+      "categories": [
+        "web3"
       ]
     },
     {
@@ -7638,6 +7936,14 @@
       "gb": "typo3",
       "categories": [
         "cms"
+      ]
+    },
+    {
+      "slug": "uber",
+      "name": "Uber",
+      "si": "uber",
+      "categories": [
+        "commerce"
       ]
     },
     {
@@ -7912,6 +8218,14 @@
       "gb": "vivaldi",
       "categories": [
         "browsers"
+      ]
+    },
+    {
+      "slug": "vk",
+      "name": "VK",
+      "si": "vk",
+      "categories": [
+        "social"
       ]
     },
     {
@@ -8233,6 +8547,14 @@
       ]
     },
     {
+      "slug": "xrp",
+      "name": "XRP",
+      "si": "xrp",
+      "categories": [
+        "web3"
+      ]
+    },
+    {
       "slug": "xstate",
       "name": "XState",
       "si": "xstate",
@@ -8292,6 +8614,14 @@
       "gb": "youtube",
       "categories": [
         "social"
+      ]
+    },
+    {
+      "slug": "youtubemusic",
+      "name": "YouTube Music",
+      "si": "youtubemusic",
+      "categories": [
+        "media"
       ]
     },
     {
