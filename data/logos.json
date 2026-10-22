@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1011,
+  "count": 1019,
   "logos": [
     {
       "slug": "1password",
@@ -400,6 +400,35 @@
           "origin": "gilbarbara/logos",
           "file": "adyen.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/adyen.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "affine",
+      "name": "AFFiNE",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#1e96eb",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "affine.svg",
+          "url": "https://affine.pro",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "affine.svg",
+          "url": "https://affine.pro",
           "license": "CC0-1.0"
         }
       }
@@ -1291,6 +1320,35 @@
       }
     },
     {
+      "slug": "anytype",
+      "name": "Anytype",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#ff6a7b",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "anytype.svg",
+          "url": "https://github.com/anyproto/anytype-ts/blob/544498296ceb4b6ed2970414de493f7f72bd0fcf/src/img/logo/symbol.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "anytype.svg",
+          "url": "https://github.com/anyproto/anytype-ts/blob/544498296ceb4b6ed2970414de493f7f72bd0fcf/src/img/logo/symbol.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "apache-http",
       "name": "Apache HTTP Server",
       "aliases": [],
@@ -1502,6 +1560,35 @@
           "file": "appdynamics.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/appdynamics.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "appflowy",
+      "name": "AppFlowy",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#f7931e",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official repository",
+          "file": "https://raw.githubusercontent.com/AppFlowy-IO/AppFlowy/main/frontend/resources/flowy_icons/40x/app_logo.svg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official repository (derived)",
+          "file": "https://raw.githubusercontent.com/AppFlowy-IO/AppFlowy/main/frontend/resources/flowy_icons/40x/app_logo.svg",
+          "url": "https://github.com/AppFlowy-IO/AppFlowy",
+          "license": "trademark"
         }
       }
     },
@@ -4755,6 +4842,36 @@
           "origin": "gilbarbara/logos",
           "file": "cachet.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/cachet.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "caddy",
+      "name": "Caddy",
+      "aliases": [],
+      "categories": [
+        "devops",
+        "cloud"
+      ],
+      "hex": "#1f88c0",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "caddy.svg",
+          "url": "https://caddyserver.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "caddy.svg",
+          "url": "https://caddyserver.com",
           "license": "CC0-1.0"
         }
       }
@@ -8826,6 +8943,42 @@
           "file": "docker.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/docker.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "docmost",
+      "name": "Docmost",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": null,
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official repository (app icon, vectorized from the 512 px PNG)",
+          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
+          "url": "https://github.com/docmost/docmost",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official repository (app icon, vectorized from the 512 px PNG) (derived)",
+          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
+          "url": "https://github.com/docmost/docmost",
+          "license": "trademark"
+        },
+        "icon-dark": {
+          "origin": "official repository (app icon, vectorized from the 512 px PNG) (dark: auto)",
+          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
+          "url": "https://github.com/docmost/docmost",
+          "license": "trademark"
         }
       }
     },
@@ -14781,6 +14934,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "hostgator.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/hostgator.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "hostinger",
+      "name": "Hostinger",
+      "aliases": [],
+      "categories": [
+        "cloud"
+      ],
+      "hex": "#673de6",
+      "url": null,
+      "guidelines": "https://www.hostinger.com/newsroom",
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "hostinger.svg",
+          "url": "https://www.hostinger.com/newsroom",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "hostinger.svg",
+          "url": "https://www.hostinger.com/newsroom",
           "license": "CC0-1.0"
         }
       }
@@ -23034,6 +23216,42 @@
       }
     },
     {
+      "slug": "o2switch",
+      "name": "o2switch",
+      "aliases": [],
+      "categories": [
+        "cloud"
+      ],
+      "hex": "#707e8e",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (header logo, framed on « o2 » and its dots)",
+          "file": "https://www.o2switch.fr/wp-content/uploads/425.svg",
+          "url": "https://www.o2switch.fr/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official website (header logo, framed on « o2 » and its dots) (derived)",
+          "file": "https://www.o2switch.fr/wp-content/uploads/425.svg",
+          "url": "https://www.o2switch.fr/",
+          "license": "trademark"
+        },
+        "icon-dark": {
+          "origin": "official website (header logo, framed on « o2 » and its dots) (dark: auto)",
+          "file": "https://www.o2switch.fr/wp-content/uploads/425.svg",
+          "url": "https://www.o2switch.fr/",
+          "license": "trademark"
+        }
+      }
+    },
+    {
       "slug": "oauth",
       "name": "OAuth",
       "aliases": [],
@@ -24125,6 +24343,42 @@
           "origin": "gilbarbara/logos",
           "file": "ory.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/ory.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "outline",
+      "name": "Outline",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#000000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "outline.svg",
+          "url": "https://www.getoutline.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "outline.svg",
+          "url": "https://www.getoutline.com",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "outline.svg",
+          "url": "https://www.getoutline.com",
           "license": "CC0-1.0"
         }
       }

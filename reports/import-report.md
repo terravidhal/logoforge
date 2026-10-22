@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1011 | 1011 | 1002 | 508 | 375 | 295 | 0 |
+| 1019 | 1019 | 1010 | 511 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -12,7 +12,9 @@ None.
 
 ## To review
 
-Nothing flagged.
+- **appflowy** — REVIEW mono derived from the color icon (check overlapping shapes)
+- **docmost** — REVIEW mono derived from the color icon (check overlapping shapes)
+- **o2switch** — REVIEW mono derived from the color icon (check overlapping shapes)
 
 ## All logos
 
@@ -29,6 +31,7 @@ Nothing flagged.
 | adobe-xd | icon, icon-mono, icon-dark | mono = knockout of the badge (symbol cut out of its background) |
 | adonisjs | icon, icon-mono, wordmark |  |
 | adyen | icon, icon-mono, wordmark | color icon = Simple Icons path in brand hex (single color) |
+| affine | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | airbnb | icon, icon-mono, wordmark |  |
 | airbrake | icon, icon-mono, icon-dark | Simple Icons skipped: Simple Icons licence is Apache-2.0, not CC0; icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | airtable | icon, icon-mono, icon-dark |  |
@@ -53,11 +56,13 @@ Nothing flagged.
 | ant-design | icon, icon-mono |  |
 | anthropic | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | antigravity | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| anytype | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | apache-http | icon, icon-mono, icon-dark | Simple Icons skipped: Simple Icons licence is Apache-2.0, not CC0; reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | apache-superset | icon, icon-mono, wordmark, icon-dark, wordmark-dark | Simple Icons skipped: Simple Icons licence is Apache-2.0, not CC0; reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | apidog | icon, icon-mono, wordmark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | apollo-graphql | icon, icon-mono, icon-dark |  |
 | appdynamics | icon, icon-mono, wordmark, icon-dark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| appflowy | icon, icon-mono | addition from official repository (trademark, 2026-10-22); REVIEW mono derived from the color icon (check overlapping shapes) |
 | appium | icon, icon-mono, icon-dark |  |
 | apple | icon, icon-mono, icon-dark |  |
 | apple-pay | icon, icon-mono, wordmark, icon-dark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
@@ -147,6 +152,7 @@ Nothing flagged.
 | buy-me-a-coffee | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | c | icon, icon-mono |  |
 | cachet | icon, icon-mono, wordmark | color icon = Simple Icons path in brand hex (single color) |
+| caddy | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | cakephp | icon, icon-mono, wordmark |  |
 | cal-com | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | calendly | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
@@ -257,6 +263,7 @@ Nothing flagged.
 | discover | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | django | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | docker | icon, icon-mono, wordmark |  |
+| docmost | icon, icon-mono, icon-dark | addition from official repository (app icon, vectorized from the 512 px PNG) (trademark, 2026-10-22); REVIEW mono derived from the color icon (check overlapping shapes) |
 | docusaurus | icon, icon-mono, icon-dark |  |
 | dodo-payments | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color); icon is all-light: darkened for light mode, original kept for dark |
 | dogecoin | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
@@ -420,6 +427,7 @@ Nothing flagged.
 | hono | icon, icon-mono |  |
 | hoppscotch | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | hostgator | icon, icon-mono, wordmark, icon-dark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| hostinger | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | hotjar | icon, icon-mono, wordmark, wordmark-dark |  |
 | html5 | icon, icon-mono, icon-dark |  |
 | htmx | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
@@ -634,6 +642,7 @@ Nothing flagged.
 | nvidia | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | nvm | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | nx | icon, icon-mono, wordmark, icon-dark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
+| o2switch | icon, icon-mono, icon-dark | addition from official website (header logo, framed on « o2 » and its dots) (trademark, 2026-10-22); REVIEW mono derived from the color icon (check overlapping shapes) |
 | oauth | icon, icon-mono, icon-dark | mono = knockout of the badge (symbol cut out of its background) |
 | obsidian | icon, icon-mono, wordmark, icon-dark |  |
 | obsstudio | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
@@ -663,6 +672,7 @@ Nothing flagged.
 | orange | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | orange-money | icon, icon-mono, icon-dark | addition from Wikimedia Commons (public-domain, 2026-09-27); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: African brands sheet checked (light, dark, mono) |
 | ory | icon, icon-mono, wordmark |  |
+| outline | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | ovh | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | oxc | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | p5js | icon, icon-mono, wordmark | color icon = Simple Icons path in brand hex (single color) |

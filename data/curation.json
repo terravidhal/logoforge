@@ -91,6 +91,14 @@
       ]
     },
     {
+      "slug": "affine",
+      "name": "AFFiNE",
+      "si": "affine",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "airbnb",
       "name": "Airbnb",
       "si": "airbnb",
@@ -303,6 +311,14 @@
       ]
     },
     {
+      "slug": "anytype",
+      "name": "Anytype",
+      "si": "anytype",
+      "categories": [
+        "productivity"
+      ]
+    },
+    {
       "slug": "apache-http",
       "name": "Apache HTTP Server",
       "si": "apache",
@@ -341,6 +357,14 @@
       "gb": "appdynamics",
       "categories": [
         "monitoring"
+      ]
+    },
+    {
+      "slug": "appflowy",
+      "name": "AppFlowy",
+      "addition": true,
+      "categories": [
+        "productivity"
       ]
     },
     {
@@ -1118,6 +1142,15 @@
       "gb": "cachet",
       "categories": [
         "monitoring"
+      ]
+    },
+    {
+      "slug": "caddy",
+      "name": "Caddy",
+      "si": "caddy",
+      "categories": [
+        "devops",
+        "cloud"
       ]
     },
     {
@@ -2079,6 +2112,14 @@
         "devtools",
         "cloud",
         "devops"
+      ]
+    },
+    {
+      "slug": "docmost",
+      "name": "Docmost",
+      "addition": true,
+      "categories": [
+        "productivity"
       ]
     },
     {
@@ -3476,6 +3517,14 @@
       "slug": "hostgator",
       "name": "HostGator",
       "gb": "hostgator",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
+      "slug": "hostinger",
+      "name": "Hostinger",
+      "si": "hostinger",
       "categories": [
         "cloud"
       ]
@@ -5344,6 +5393,14 @@
       ]
     },
     {
+      "slug": "o2switch",
+      "name": "o2switch",
+      "addition": true,
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
       "slug": "oauth",
       "name": "OAuth",
       "gb": "oauth",
@@ -5587,6 +5644,14 @@
       "gb": "ory",
       "categories": [
         "auth"
+      ]
+    },
+    {
+      "slug": "outline",
+      "name": "Outline",
+      "si": "outline",
+      "categories": [
+        "productivity"
       ]
     },
     {
