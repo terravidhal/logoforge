@@ -148,6 +148,12 @@ npm run analyze    # detect badge icons (needs Chrome; CHROME_PATH to override),
 npm run check      # validate everything — runs in CI on every pull request
 ```
 
+## Sponsors
+
+Logoforge is free and stays free. If it saves you time, you can [support the project](https://kesdbmqr.mychariow.store/prd_xnnlesci) (pay what you want): your logo and link are added here as a thank-you.
+
+No sponsors yet. Yours could be the first.
+
 ## Contributing
 
 **Request a logo** — [open an issue](../../issues/new) with the brand name and a link to its official brand assets.
