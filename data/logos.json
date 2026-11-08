@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1026,
+  "count": 1025,
   "logos": [
     {
       "slug": "1password",
@@ -8972,42 +8972,6 @@
           "file": "docker.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/docker.svg",
           "license": "CC0-1.0"
-        }
-      }
-    },
-    {
-      "slug": "docmost",
-      "name": "Docmost",
-      "aliases": [],
-      "categories": [
-        "productivity"
-      ],
-      "hex": null,
-      "url": null,
-      "guidelines": null,
-      "variants": [
-        "icon",
-        "icon-mono",
-        "icon-dark"
-      ],
-      "sources": {
-        "icon": {
-          "origin": "official repository (app icon, vectorized from the 512 px PNG)",
-          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
-          "url": "https://github.com/docmost/docmost",
-          "license": "trademark"
-        },
-        "icon-mono": {
-          "origin": "official repository (app icon, vectorized from the 512 px PNG) (derived, knockout)",
-          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
-          "url": "https://github.com/docmost/docmost",
-          "license": "trademark"
-        },
-        "icon-dark": {
-          "origin": "official repository (app icon, vectorized from the 512 px PNG) (dark: auto)",
-          "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
-          "url": "https://github.com/docmost/docmost",
-          "license": "trademark"
         }
       }
     },

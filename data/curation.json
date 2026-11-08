@@ -2123,14 +2123,6 @@
       ]
     },
     {
-      "slug": "docmost",
-      "name": "Docmost",
-      "addition": true,
-      "categories": [
-        "productivity"
-      ]
-    },
-    {
       "slug": "docusaurus",
       "name": "Docusaurus",
       "si": "docusaurus",

@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1026 | 1026 | 1016 | 512 | 375 | 295 | 0 |
+| 1025 | 1025 | 1015 | 511 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -263,7 +263,6 @@ None.
 | discover | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | django | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | docker | icon, icon-mono, wordmark |  |
-| docmost | icon, icon-mono, icon-dark | addition from official repository (app icon, vectorized from the 512 px PNG) (trademark, 2026-10-22); mono = knockout of the badge (symbol cut out of its background) |
 | docusaurus | icon, icon-mono, icon-dark |  |
 | dodo-payments | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color); icon is all-light: darkened for light mode, original kept for dark |
 | dogecoin | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |

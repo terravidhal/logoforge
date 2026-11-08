@@ -156,11 +156,6 @@
       "coverage": 1,
       "solidity": 1
     },
-    "docmost": {
-      "color": "#000000",
-      "coverage": 1,
-      "solidity": 0.987
-    },
     "emacs": {
       "color": "url",
       "coverage": 0.954,
