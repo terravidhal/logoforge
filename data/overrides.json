@@ -752,6 +752,15 @@
     "coding-dojo": {
       "reviewed": "2026-10-03: torii mark checked (light, dark, mono) — single black shape, derived mono is identical",
       "reason": "hand addition from the official vector lockup"
+    },
+    "fabbo": {
+      "noDark": true,
+      "skipMono": true,
+      "reason": "the mark is already a dark rounded tile that reads on both backgrounds; a derived dark version turns the tile white and a derived mono loses the F"
+    },
+    "xano": {
+      "reviewed": "2026-11-08: derived mono checked on the review sheet",
+      "reason": "mono derived from the color icon looked right on the review sheet"
     }
   }
 }

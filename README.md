@@ -9,7 +9,7 @@
 
 **Brand logos for developers, as shadcn components.**
 
-1,019 clean SVG logos of the tools developers use — install any of them as a typed React component<br>
+1,026 clean SVG logos of the tools developers use — install any of them as a typed React component<br>
 with one command, copy the SVG, or build a whole “Trusted by” logo cloud in seconds.
 
 ```bash
@@ -19,7 +19,7 @@ npx shadcn@latest add @logoforge/stripe
 [**Website**](https://logoforge.terravidhal.me) · [Logo cloud builder](https://logoforge.terravidhal.me/cloud) · [Categories](https://logoforge.terravidhal.me/categories) · [Docs](https://logoforge.terravidhal.me/docs) · [Request a logo](../../issues/new)
 
 [![shadcn registry](https://img.shields.io/badge/shadcn-official%20directory-black)](https://ui.shadcn.com/docs/directory)
-[![Logos: 1019](https://img.shields.io/badge/logos-1019-black)](https://logoforge.terravidhal.me)
+[![Logos: 1026](https://img.shields.io/badge/logos-1026-black)](https://logoforge.terravidhal.me)
 [![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)](CREDITS.md)
 [![Tooling: MIT](https://img.shields.io/badge/tooling-MIT-black)](LICENSE)
 [![check](https://github.com/terravidhal/logoforge/actions/workflows/check.yml/badge.svg)](https://github.com/terravidhal/logoforge/actions/workflows/check.yml)
@@ -50,8 +50,8 @@ npx shadcn@latest add @logoforge/stripe
 
 <div align="center">
   <br>
-  <a href="https://logoforge.terravidhal.me"><img src=".github/assets/gallery.png" alt="The gallery: 1,019 logos, 30 categories, color or mono" width="900"></a>
-  <br><sub>The gallery — 1,019 logos in 30 categories (AI, frameworks, databases, cloud, payments, learning, gaming, African brands…), color or mono.</sub>
+  <a href="https://logoforge.terravidhal.me"><img src=".github/assets/gallery.png" alt="The gallery: 1,026 logos, 30 categories, color or mono" width="900"></a>
+  <br><sub>The gallery — 1,026 logos in 30 categories (AI, frameworks, databases, cloud, payments, learning, gaming, African brands…), color or mono.</sub>
 </div>
 
 ## Use it
@@ -169,6 +169,15 @@ No sponsors yet. Yours could be the first.
 Categories are listed in [`data/categories.json`](data/categories.json).
 
 Everyone taking part follows the [Code of Conduct](CODE_OF_CONDUCT.md).
+
+## Star history
+
+<a href="https://star-history.com/#terravidhal/logoforge&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=terravidhal/logoforge&type=Date&theme=dark">
+    <img alt="Star history of Logoforge" src="https://api.star-history.com/svg?repos=terravidhal/logoforge&type=Date" width="600">
+  </picture>
+</a>
 
 ## Licences and trademarks
 

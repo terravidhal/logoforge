@@ -1667,6 +1667,14 @@
       ]
     },
     {
+      "slug": "contabo",
+      "name": "Contabo",
+      "si": "contabo",
+      "categories": [
+        "cloud"
+      ]
+    },
+    {
       "slug": "contentful",
       "name": "Contentful",
       "si": "contentful",
@@ -2537,6 +2545,14 @@
       "gb": "express",
       "categories": [
         "frameworks"
+      ]
+    },
+    {
+      "slug": "fabbo",
+      "name": "Fabbo",
+      "addition": true,
+      "categories": [
+        "ai"
       ]
     },
     {
@@ -5578,6 +5594,14 @@
       ]
     },
     {
+      "slug": "opentofu",
+      "name": "OpenTofu",
+      "si": "opentofu",
+      "categories": [
+        "devops"
+      ]
+    },
+    {
       "slug": "openzeppelin",
       "name": "OpenZeppelin",
       "si": "openzeppelin",
@@ -6242,6 +6266,14 @@
       "gb": "pycharm",
       "categories": [
         "editors"
+      ]
+    },
+    {
+      "slug": "pydantic",
+      "name": "Pydantic",
+      "si": "pydantic",
+      "categories": [
+        "libraries"
       ]
     },
     {
@@ -8373,6 +8405,14 @@
       ]
     },
     {
+      "slug": "wails",
+      "name": "Wails",
+      "si": "wails",
+      "categories": [
+        "frameworks"
+      ]
+    },
+    {
       "slug": "wakatime",
       "name": "WakaTime",
       "si": "wakatime",
@@ -8491,6 +8531,14 @@
       ]
     },
     {
+      "slug": "wezterm",
+      "name": "WezTerm",
+      "si": "wezterm",
+      "categories": [
+        "devtools"
+      ]
+    },
+    {
       "slug": "whatsapp",
       "name": "WhatsApp",
       "si": "whatsapp",
@@ -8592,6 +8640,14 @@
       "gb": "xamarin",
       "categories": [
         "frameworks"
+      ]
+    },
+    {
+      "slug": "xano",
+      "name": "Xano",
+      "addition": true,
+      "categories": [
+        "databases"
       ]
     },
     {

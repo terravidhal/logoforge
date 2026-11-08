@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1019 | 1019 | 1010 | 511 | 375 | 295 | 0 |
+| 1026 | 1026 | 1016 | 512 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -13,7 +13,6 @@ None.
 ## To review
 
 - **appflowy** — REVIEW mono derived from the color icon (check overlapping shapes)
-- **docmost** — REVIEW mono derived from the color icon (check overlapping shapes)
 - **o2switch** — REVIEW mono derived from the color icon (check overlapping shapes)
 
 ## All logos
@@ -212,6 +211,7 @@ None.
 | conda | icon, icon-mono | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | confluence | icon, icon-mono, icon-dark |  |
 | consul | icon, icon-mono |  |
+| contabo | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | contentful | icon, icon-mono |  |
 | convex | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | coolify | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
@@ -263,7 +263,7 @@ None.
 | discover | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | django | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | docker | icon, icon-mono, wordmark |  |
-| docmost | icon, icon-mono, icon-dark | addition from official repository (app icon, vectorized from the 512 px PNG) (trademark, 2026-10-22); REVIEW mono derived from the color icon (check overlapping shapes) |
+| docmost | icon, icon-mono, icon-dark | addition from official repository (app icon, vectorized from the 512 px PNG) (trademark, 2026-10-22); mono = knockout of the badge (symbol cut out of its background) |
 | docusaurus | icon, icon-mono, icon-dark |  |
 | dodo-payments | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color); icon is all-light: darkened for light mode, original kept for dark |
 | dogecoin | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
@@ -313,6 +313,7 @@ None.
 | excalidraw | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | expo | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | express | icon, icon-mono, wordmark, icon-dark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
+| fabbo | icon | addition from official website (logo file served by the brand, submitted on behalf of the brand owner in issue #2) (trademark, 2026-11-08) |
 | facebook | icon, icon-mono |  |
 | faker | icon, icon-mono, icon-dark | faker.svg: large file (28 KB) |
 | fastapi | icon, icon-mono, wordmark, wordmark-dark |  |
@@ -664,6 +665,7 @@ None.
 | openshift | icon, icon-mono, icon-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | openstack | icon, icon-mono, wordmark, wordmark-dark |  |
 | opentelemetry | icon, icon-mono, wordmark | Simple Icons skipped: Simple Icons licence is CC-BY-4.0, not CC0; reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| opentofu | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | openzeppelin | icon, icon-mono, wordmark, wordmark-dark |  |
 | opera | icon, icon-mono, icon-dark |  |
 | opsgenie | icon, icon-mono, icon-dark |  |
@@ -742,6 +744,7 @@ None.
 | purescript | icon, icon-mono, wordmark, icon-dark, wordmark-dark | Simple Icons skipped: Simple Icons licence is CC-BY-4.0, not CC0; reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | pusher | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | pycharm | icon, icon-mono, icon-dark |  |
+| pydantic | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | pypi | icon, icon-mono, icon-dark |  |
 | pyscript | icon, icon-mono | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | pytest | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
@@ -989,6 +992,7 @@ None.
 | vwo | icon, icon-mono, icon-dark | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | w3schools | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | wagtail | icon, icon-mono, icon-dark |  |
+| wails | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | wakatime | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | warp | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | web3js | icon, icon-mono |  |
@@ -1003,6 +1007,7 @@ None.
 | websocket | icon, icon-mono, icon-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | webstorm | icon, icon-mono, icon-dark |  |
 | wechat | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
+| wezterm | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | whatsapp | icon, icon-mono, wordmark |  |
 | windi-css | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | windsurf | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
@@ -1015,6 +1020,7 @@ None.
 | x | icon, icon-mono, icon-dark |  |
 | xai | icon, icon-mono, icon-dark | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | xamarin | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| xano | icon, icon-mono, icon-dark | addition from official website (the X mark cut from the official wordmark SVG, unchanged paths; white part set to near-black for light backgrounds) (trademark, 2026-11-08); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-11-08: derived mono checked on the review sheet |
 | xata | icon, icon-mono, wordmark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | xcode | icon, icon-mono, icon-dark | xcode.svg: large file (24 KB) |
 | xrp | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |

@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1019,
+  "count": 1026,
   "logos": [
     {
       "slug": "1password",
@@ -7003,6 +7003,35 @@
       }
     },
     {
+      "slug": "contabo",
+      "name": "Contabo",
+      "aliases": [],
+      "categories": [
+        "cloud"
+      ],
+      "hex": "#00aaeb",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "contabo.svg",
+          "url": "https://contabo.com",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "contabo.svg",
+          "url": "https://contabo.com",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "contentful",
       "name": "Contentful",
       "aliases": [],
@@ -8969,7 +8998,7 @@
           "license": "trademark"
         },
         "icon-mono": {
-          "origin": "official repository (app icon, vectorized from the 512 px PNG) (derived)",
+          "origin": "official repository (app icon, vectorized from the 512 px PNG) (derived, knockout)",
           "file": "https://raw.githubusercontent.com/docmost/docmost/main/apps/client/public/icons/app-icon-512x512.png",
           "url": "https://github.com/docmost/docmost",
           "license": "trademark"
@@ -10786,6 +10815,28 @@
           "file": "express.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/express.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "fabbo",
+      "name": "Fabbo",
+      "aliases": [],
+      "categories": [
+        "ai"
+      ],
+      "hex": "#e8962e",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (logo file served by the brand, submitted on behalf of the brand owner in issue #2)",
+          "file": "https://fabbo.ai/logo.svg",
+          "url": "https://fabbo.ai",
+          "license": "trademark"
         }
       }
     },
@@ -24051,6 +24102,38 @@
       }
     },
     {
+      "slug": "opentofu",
+      "name": "OpenTofu",
+      "aliases": [
+        "OpenTF",
+        "Terraform"
+      ],
+      "categories": [
+        "devops"
+      ],
+      "hex": "#ffda18",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "opentofu.svg",
+          "url": "https://github.com/opentofu/brand-artifacts/blob/0d4d0d6050ca0ff06471400bc3249a64c145f659/symbol-only/transparent/SVG/on-light-mono.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "opentofu.svg",
+          "url": "https://github.com/opentofu/brand-artifacts/blob/0d4d0d6050ca0ff06471400bc3249a64c145f659/symbol-only/transparent/SVG/on-light-mono.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "openzeppelin",
       "name": "OpenZeppelin",
       "aliases": [],
@@ -26903,6 +26986,35 @@
           "origin": "gilbarbara/logos (dark: auto)",
           "file": "pycharm.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/pycharm.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "pydantic",
+      "name": "Pydantic",
+      "aliases": [],
+      "categories": [
+        "libraries"
+      ],
+      "hex": "#e92063",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "pydantic.svg",
+          "url": "https://github.com/pydantic/pydantic/blob/94c748001a32992a587694b999fb1f3d2f1fc1fe/docs/logo-white.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "pydantic.svg",
+          "url": "https://github.com/pydantic/pydantic/blob/94c748001a32992a587694b999fb1f3d2f1fc1fe/docs/logo-white.svg",
           "license": "CC0-1.0"
         }
       }
@@ -36104,6 +36216,35 @@
       }
     },
     {
+      "slug": "wails",
+      "name": "Wails",
+      "aliases": [],
+      "categories": [
+        "frameworks"
+      ],
+      "hex": "#df0000",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "wails.svg",
+          "url": "https://wails.io",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "wails.svg",
+          "url": "https://wails.io",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "wakatime",
       "name": "WakaTime",
       "aliases": [],
@@ -36575,6 +36716,35 @@
       }
     },
     {
+      "slug": "wezterm",
+      "name": "WezTerm",
+      "aliases": [],
+      "categories": [
+        "devtools"
+      ],
+      "hex": "#4e49ee",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "wezterm.svg",
+          "url": "https://github.com/wez/wezterm/blob/fe78b5821fc106c1061f4c1cc454ff01e74bf97d/assets/icon/wezterm-icon.svg",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "wezterm.svg",
+          "url": "https://github.com/wez/wezterm/blob/fe78b5821fc106c1061f4c1cc454ff01e74bf97d/assets/icon/wezterm-icon.svg",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
       "slug": "whatsapp",
       "name": "WhatsApp",
       "aliases": [],
@@ -37013,6 +37183,42 @@
           "file": "xamarin.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/xamarin.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "xano",
+      "name": "Xano",
+      "aliases": [],
+      "categories": [
+        "databases"
+      ],
+      "hex": "#50a5ff",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (the X mark cut from the official wordmark SVG, unchanged paths; white part set to near-black for light backgrounds)",
+          "file": "https://cdn.xano.com/home/0.0.652-5YxvqGjn/assets/img/v3/xanoWhite.svg",
+          "url": "https://www.xano.com/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official website (the X mark cut from the official wordmark SVG, unchanged paths; white part set to near-black for light backgrounds) (derived)",
+          "file": "https://cdn.xano.com/home/0.0.652-5YxvqGjn/assets/img/v3/xanoWhite.svg",
+          "url": "https://www.xano.com/",
+          "license": "trademark"
+        },
+        "icon-dark": {
+          "origin": "official website (the X mark cut from the official wordmark SVG, unchanged paths; white part set to near-black for light backgrounds) (dark: auto)",
+          "file": "https://cdn.xano.com/home/0.0.652-5YxvqGjn/assets/img/v3/xanoWhite.svg",
+          "url": "https://www.xano.com/",
+          "license": "trademark"
         }
       }
     },

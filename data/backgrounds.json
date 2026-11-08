@@ -156,10 +156,20 @@
       "coverage": 1,
       "solidity": 1
     },
+    "docmost": {
+      "color": "#000000",
+      "coverage": 1,
+      "solidity": 0.987
+    },
     "emacs": {
       "color": "url",
       "coverage": 0.954,
       "solidity": 0.787
+    },
+    "fabbo": {
+      "color": "#0c0f1a",
+      "coverage": 1,
+      "solidity": 0.979
     },
     "fedora": {
       "color": "#294172",
