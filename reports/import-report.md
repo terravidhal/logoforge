@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1025 | 1025 | 1015 | 511 | 375 | 295 | 0 |
+| 1028 | 1028 | 1018 | 512 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -13,6 +13,8 @@ None.
 ## To review
 
 - **appflowy** — REVIEW mono derived from the color icon (check overlapping shapes)
+- **cedar** — REVIEW mono derived from the color icon (check overlapping shapes)
+- **flowable** — REVIEW mono derived from the color icon (check overlapping shapes)
 - **o2switch** — REVIEW mono derived from the color icon (check overlapping shapes)
 
 ## All logos
@@ -160,6 +162,7 @@ None.
 | carrd | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
 | cartesia | icon, icon-mono, wordmark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | cassandra | icon, icon-mono, icon-dark | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
+| cedar | icon, icon-mono | addition from official repository (the tree mark cut from the official logo.svg of cedar-policy/cedar, unchanged paths and colours; the wordmark is left out) (trademark, 2026-11-21); REVIEW mono derived from the color icon (check overlapping shapes) |
 | centos | icon, icon-mono, wordmark |  |
 | certbot | icon, icon-mono, icon-dark | icon is wide (the brand has no square mark); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | chai | icon, icon-mono, icon-dark |  |
@@ -204,6 +207,7 @@ None.
 | coding-dojo | icon, icon-mono, icon-dark | addition from Coding Dojo (official website) (trademark, 2026-10-03); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-10-03: torii mark checked (light, dark, mono) — single black shape, derived mono is identical |
 | coffeescript | icon, icon-mono, icon-dark |  |
 | coinbase | icon, icon-mono | color icon = Simple Icons path in brand hex (single color) |
+| collabora | icon, icon-mono, icon-dark | color icon = Simple Icons path in brand hex (single color) |
 | commitizen | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | compose-multiplatform | icon, icon-mono | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |
 | composer | icon, icon-mono, icon-dark | composer.svg: large file (122 KB) |
@@ -327,6 +331,7 @@ None.
 | firebase | icon, icon-mono, wordmark |  |
 | firefox | icon, icon-mono, icon-dark |  |
 | flask | icon, icon-mono, icon-dark |  |
+| flowable | icon, icon-mono | addition from official website (the mark served by the brand as flowable-favicon-white.svg, unchanged path; white fill set to the brand red #E84C3D taken from the official logo.svg, square viewBox) (trademark, 2026-11-21); REVIEW mono derived from the color icon (check overlapping shapes) |
 | flutter | icon, icon-mono, wordmark, icon-dark, wordmark-dark |  |
 | flutterwave | icon, icon-mono, icon-dark | addition from official website (trademark, 2026-09-27); reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: African brands sheet checked (light, dark, mono) |
 | fly | icon, icon-mono, wordmark, icon-dark, wordmark-dark | reviewed: mono derived from the color icon (check overlapping shapes); ✓ 2026-09-27: full contact-sheet review (891 logos) |

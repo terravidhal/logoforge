@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1025,
+  "count": 1028,
   "logos": [
     {
       "slug": "1password",
@@ -5186,6 +5186,35 @@
       }
     },
     {
+      "slug": "cedar",
+      "name": "Cedar",
+      "aliases": [],
+      "categories": [
+        "auth"
+      ],
+      "hex": "#71a621",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official repository (the tree mark cut from the official logo.svg of cedar-policy/cedar, unchanged paths and colours; the wordmark is left out)",
+          "file": "https://github.com/cedar-policy/cedar/blob/main/logo.svg",
+          "url": "https://www.cedarpolicy.com/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official repository (the tree mark cut from the official logo.svg of cedar-policy/cedar, unchanged paths and colours; the wordmark is left out) (derived)",
+          "file": "https://github.com/cedar-policy/cedar/blob/main/logo.svg",
+          "url": "https://www.cedarpolicy.com/",
+          "license": "trademark"
+        }
+      }
+    },
+    {
       "slug": "centos",
       "name": "CentOS",
       "aliases": [],
@@ -6781,6 +6810,45 @@
           "origin": "simple-icons",
           "file": "coinbase.svg",
           "url": "https://www.coinbase.com/press",
+          "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "collabora",
+      "name": "Collabora Online",
+      "aliases": [
+        "Collabora Office",
+        "Collabora Productivity"
+      ],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#5c2983",
+      "url": null,
+      "guidelines": "https://www.collaboraonline.com/branding-guidelines",
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "simple-icons",
+          "file": "collaboraonline.svg",
+          "url": "https://www.collaboraonline.com/branding-guidelines",
+          "license": "CC0-1.0"
+        },
+        "icon-mono": {
+          "origin": "simple-icons",
+          "file": "collaboraonline.svg",
+          "url": "https://www.collaboraonline.com/branding-guidelines",
+          "license": "CC0-1.0"
+        },
+        "icon-dark": {
+          "origin": "simple-icons (dark: auto)",
+          "file": "collaboraonline.svg",
+          "url": "https://www.collaboraonline.com/branding-guidelines",
           "license": "CC0-1.0"
         }
       }
@@ -11334,6 +11402,35 @@
           "file": "flask.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/flask.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "flowable",
+      "name": "Flowable",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#e84c3d",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (the mark served by the brand as flowable-favicon-white.svg, unchanged path; white fill set to the brand red #E84C3D taken from the official logo.svg, square viewBox)",
+          "file": "https://images.ctfassets.net/chja9v5uur3u/5CzgxharudYbrtVvSdWvm8/1cbb4e3a917d8a462245665adba0bec7/flowable-favicon-white.svg",
+          "url": "https://www.flowable.com/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official website (the mark served by the brand as flowable-favicon-white.svg, unchanged path; white fill set to the brand red #E84C3D taken from the official logo.svg, square viewBox) (derived)",
+          "file": "https://images.ctfassets.net/chja9v5uur3u/5CzgxharudYbrtVvSdWvm8/1cbb4e3a917d8a462245665adba0bec7/flowable-favicon-white.svg",
+          "url": "https://www.flowable.com/",
+          "license": "trademark"
         }
       }
     },

@@ -1221,6 +1221,14 @@
       ]
     },
     {
+      "slug": "cedar",
+      "name": "Cedar",
+      "addition": true,
+      "categories": [
+        "auth"
+      ]
+    },
+    {
       "slug": "centos",
       "name": "CentOS",
       "si": "centos",
@@ -1604,6 +1612,14 @@
       "si": "coinbase",
       "categories": [
         "web3"
+      ]
+    },
+    {
+      "slug": "collabora",
+      "name": "Collabora Online",
+      "si": "collaboraonline",
+      "categories": [
+        "productivity"
       ]
     },
     {
@@ -2669,6 +2685,14 @@
       "gb": "flask",
       "categories": [
         "frameworks"
+      ]
+    },
+    {
+      "slug": "flowable",
+      "name": "Flowable",
+      "addition": true,
+      "categories": [
+        "productivity"
       ]
     },
     {
