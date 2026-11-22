@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1028,
+  "count": 1029,
   "logos": [
     {
       "slug": "1password",
@@ -37481,6 +37481,35 @@
           "file": "yaml.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/yaml.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "yandex-360",
+      "name": "Yandex 360",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#ff9a6f",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (the mark cut from the official Latin logo served on the Yandex 360 brand page as logo-latin.svg, unchanged paths and gradient; the wordmark is left out)",
+          "file": "https://yastatic.net/s3/tuning/static/pages/brand-logo/versions/0.0.12/assets/images/logo-latin.svg",
+          "url": "https://360.yandex.ru/brand/logo/",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official website (the mark cut from the official Latin logo served on the Yandex 360 brand page as logo-latin.svg, unchanged paths and gradient; the wordmark is left out) (derived, knockout)",
+          "file": "https://yastatic.net/s3/tuning/static/pages/brand-logo/versions/0.0.12/assets/images/logo-latin.svg",
+          "url": "https://360.yandex.ru/brand/logo/",
+          "license": "trademark"
         }
       }
     },

@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1028 | 1028 | 1018 | 512 | 375 | 295 | 0 |
+| 1029 | 1029 | 1019 | 512 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -1049,3 +1049,4 @@ None.
 | zoom | icon, icon-mono, wordmark, icon-dark |  |
 | zsh | icon, icon-mono, wordmark, wordmark-dark | color icon = Simple Icons path in brand hex (single color) |
 | zulip | icon, icon-mono, wordmark, wordmark-dark |  |
+| yandex-360 | icon, icon-mono | addition from official website (the mark cut from the official Latin logo served on the Yandex 360 brand page as logo-latin.svg, unchanged paths and gradient; the wordmark is left out) (trademark, 2026-11-22); mono = knockout of the badge (symbol cut out of its background) |

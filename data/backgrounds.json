@@ -291,6 +291,11 @@
       "coverage": 1,
       "solidity": 0.753
     },
+    "yandex-360": {
+      "color": "url",
+      "coverage": 1,
+      "solidity": 0.786
+    },
     "yarn": {
       "color": "#368fb9",
       "coverage": 1,
