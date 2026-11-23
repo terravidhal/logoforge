@@ -8878,6 +8878,14 @@
       "categories": [
         "productivity"
       ]
+    },
+    {
+      "slug": "1c",
+      "name": "1C",
+      "addition": true,
+      "categories": [
+        "platforms"
+      ]
     }
   ]
 }

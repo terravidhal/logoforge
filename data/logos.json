@@ -13,8 +13,37 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1029,
+  "count": 1030,
   "logos": [
+    {
+      "slug": "1c",
+      "name": "1C",
+      "aliases": [],
+      "categories": [
+        "platforms"
+      ],
+      "hex": "#d91920",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official website (the main 1C logo from the official partner brand guideline archive logo1c.zip, EPS converted to SVG with unchanged paths and the official red; the ® sign is left out)",
+          "file": "https://static.1c.ru/files/guideline/logo1c.zip",
+          "url": "https://1c.ru/rus/partners/guideline.jsp",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official website (the main 1C logo from the official partner brand guideline archive logo1c.zip, EPS converted to SVG with unchanged paths and the official red; the ® sign is left out) (derived)",
+          "file": "https://static.1c.ru/files/guideline/logo1c.zip",
+          "url": "https://1c.ru/rus/partners/guideline.jsp",
+          "license": "trademark"
+        }
+      }
+    },
     {
       "slug": "1password",
       "name": "1Password",
