@@ -23,7 +23,7 @@ npx shadcn@latest add @logoforge/stripe
 [**Website**](https://logoforge.terravidhal.me) · [Logo cloud builder](https://logoforge.terravidhal.me/cloud) · [Categories](https://logoforge.terravidhal.me/categories) · [Docs](https://logoforge.terravidhal.me/docs) · [Request a logo](../../issues/new)
 
 [![shadcn registry](https://img.shields.io/badge/shadcn-official%20directory-black)](https://ui.shadcn.com/docs/directory)
-[![Logos: 1030](https://img.shields.io/badge/logos-1030-black)](https://logoforge.terravidhal.me)
+[![Logos: 1031](https://img.shields.io/badge/logos-1031-black)](https://logoforge.terravidhal.me)
 [![Sources: CC0](https://img.shields.io/badge/sources-CC0-black)](CREDITS.md)
 [![Tooling: MIT](https://img.shields.io/badge/tooling-MIT-black)](LICENSE)
 [![check](https://github.com/terravidhal/logoforge/actions/workflows/check.yml/badge.svg)](https://github.com/terravidhal/logoforge/actions/workflows/check.yml)

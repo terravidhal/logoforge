@@ -340,6 +340,17 @@ async function main() {
     ) + "\n",
   );
 
+  // README counts follow the gallery (badge, intro line, gallery caption): no number to edit by hand.
+  const readmePath = path.join(ROOT, "README.md");
+  const readme = await readFile(readmePath, "utf8");
+  const n = records.length;
+  const nComma = n.toLocaleString("en-US");
+  const updated = readme
+    .replace(/\[!\[Logos: [\d,]+\]\(https:\/\/img\.shields\.io\/badge\/logos-[\d,]+-black\)\]/, `[![Logos: ${n}](https://img.shields.io/badge/logos-${n}-black)]`)
+    .replace(/^[\d,]+ clean SVG logos/m, `${nComma} clean SVG logos`)
+    .replace(/The gallery: [\d,]+ logos/, `The gallery: ${nComma} logos`);
+  if (updated !== readme) await writeFile(readmePath, updated);
+
   // Contact sheets, 60 logos per page (a single page gets too tall to review).
   await rm(path.join(ROOT, "reports"), { recursive: true, force: true });
   await mkdir(path.join(ROOT, "reports"), { recursive: true });

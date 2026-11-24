@@ -20,9 +20,27 @@
   <rect x="1" y="1" width="898" height="118" rx="18" fill="#0a0f1e" stroke="url(#brand)" stroke-width="1.5"/>
   <rect x="1" y="1" width="898" height="118" rx="18" fill="url(#glow)"/>
   <rect x="30" y="26" width="68" height="68" rx="16" fill="#111a33" stroke="#24304f"/>
-  <g transform="translate(40 36) scale(2)" fill="none" stroke="url(#mark)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M4.5 6.5l5.5 5.5-5.5 5.5M17.5 3.25v6.5M14.25 6.5h6.5M13 17.75h7.75"/>
+  <svg x="36" y="32" width="56" height="56" viewBox="0 -16 360 360">
+  <defs>
+    <linearGradient id="m-top" x1="50" y1="50" x2="200" y2="190" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#2bd0f8"/><stop offset="0.55" stop-color="#2f8ef6"/><stop offset="0.85" stop-color="#4d64f2"/><stop offset="1" stop-color="#8f52f0"/></linearGradient>
+    <linearGradient id="m-bottom" x1="180" y1="190" x2="25" y2="295" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3426d8"/><stop offset="0.5" stop-color="#5b2be0"/><stop offset="1" stop-color="#a84cf2"/></linearGradient>
+    <linearGradient id="m-fold" x1="170" y1="180" x2="110" y2="240" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#1d1a8a" stop-opacity="0.75"/><stop offset="1" stop-color="#1d1a8a" stop-opacity="0"/></linearGradient>
+    <linearGradient id="m-plus" x1="265" y1="18" x2="280" y2="178" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3ad8f8"/><stop offset="0.6" stop-color="#2f7cf5"/><stop offset="1" stop-color="#3c55ef"/></linearGradient>
+    <linearGradient id="m-edge" x1="190" y1="100" x2="345" y2="100" gradientUnits="userSpaceOnUse"><stop offset="0.7" stop-color="#8b5cf6" stop-opacity="0"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0.45"/></linearGradient>
+    <linearGradient id="m-minus" x1="155" y1="250" x2="345" y2="280" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#56b6f7"/><stop offset="0.55" stop-color="#4a6cf3"/><stop offset="0.85" stop-color="#7c5cf2"/><stop offset="1" stop-color="#c04ee8"/></linearGradient>
+    <linearGradient id="m-shine" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0.16"/><stop offset="0.45" stop-color="#fff" stop-opacity="0"/></linearGradient>
+  </defs>
+  <g fill="none" stroke-linecap="round">
+    <path d="M152 185 L55 268" stroke="url(#m-bottom)" stroke-width="82"/>
+    <path d="M152 185 L100 229" stroke="url(#m-fold)" stroke-width="82"/>
+    <path d="M56 81 L152 184" stroke="url(#m-top)" stroke-width="82"/>
+    <path d="M56 81 L152 184" stroke="url(#m-shine)" stroke-width="82"/>
+    <path d="M265 49 V147 M216 98 H314" stroke="url(#m-plus)" stroke-width="60"/>
+    <path d="M265 49 V147 M216 98 H314" stroke="url(#m-edge)" stroke-width="60"/>
   </g>
+  <path d="M216 227 H309 A35.5 35.5 0 0 1 309 298 H186 Q154 298 160 276 Q166 254 182 238 Q193 227 216 227 Z" fill="url(#m-minus)"/>
+  <path d="M216 227 H309 A35.5 35.5 0 0 1 309 298 H186 Q154 298 160 276 Q166 254 182 238 Q193 227 216 227 Z" fill="url(#m-shine)"/>
+  </svg>
   <text x="122" y="44" fill="#8ea0c4" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.4">FROM THE MAKER OF LOGOFORGE</text>
   <text x="122" y="72" fill="#f5f7ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="700">Le Dev Augmenté</text>
   <text x="122" y="96" fill="#b4c0dc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15">Tools, AI and self-hosting for developers, in English and French</text>
