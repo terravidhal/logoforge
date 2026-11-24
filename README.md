@@ -9,7 +9,7 @@
 
 **Brand logos for developers, as shadcn components.**
 
-1,030 clean SVG logos of the tools developers use — install any of them as a typed React component<br>
+1,031 clean SVG logos of the tools developers use — install any of them as a typed React component<br>
 with one command, copy the SVG, or build a whole “Trusted by” logo cloud in seconds.
 
 ```bash
@@ -50,7 +50,7 @@ npx shadcn@latest add @logoforge/stripe
 
 <div align="center">
   <br>
-  <a href="https://logoforge.terravidhal.me"><img src=".github/assets/gallery.png" alt="The gallery: 1,030 logos, 30 categories, color or mono" width="900"></a>
+  <a href="https://logoforge.terravidhal.me"><img src=".github/assets/gallery.png" alt="The gallery: 1,031 logos, 30 categories, color or mono" width="900"></a>
   <br><sub>The gallery — 1,029 logos in 30 categories (AI, frameworks, databases, cloud, payments, learning, gaming, African brands…), color or mono.</sub>
 </div>
 

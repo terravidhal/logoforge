@@ -8886,6 +8886,14 @@
       "categories": [
         "platforms"
       ]
+    },
+    {
+      "slug": "odoo",
+      "name": "Odoo",
+      "addition": true,
+      "categories": [
+        "productivity"
+      ]
     }
   ]
 }

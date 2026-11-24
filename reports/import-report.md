@@ -4,7 +4,7 @@ Sources: simple-icons@16.32.0 · gilbarbara/logos@a5b6527 (CC0 only)
 
 | Logos | icon | icon-mono | icon-dark | wordmark | wordmark-dark | Excluded |
 |---|---|---|---|---|---|---|
-| 1030 | 1030 | 1020 | 512 | 375 | 295 | 0 |
+| 1031 | 1031 | 1021 | 513 | 375 | 295 | 0 |
 
 ## Excluded
 
@@ -17,6 +17,7 @@ None.
 - **flowable** — REVIEW mono derived from the color icon (check overlapping shapes)
 - **o2switch** — REVIEW mono derived from the color icon (check overlapping shapes)
 - **1c** — REVIEW mono derived from the color icon (check overlapping shapes)
+- **odoo** — REVIEW mono derived from the color icon (check overlapping shapes)
 
 ## All logos
 
@@ -1052,3 +1053,4 @@ None.
 | zulip | icon, icon-mono, wordmark, wordmark-dark |  |
 | yandex-360 | icon, icon-mono | addition from official website (the mark cut from the official Latin logo served on the Yandex 360 brand page as logo-latin.svg, unchanged paths and gradient; the wordmark is left out) (trademark, 2026-11-22); mono = knockout of the badge (symbol cut out of its background) |
 | 1c | icon, icon-mono | addition from official website (the main 1C logo from the official partner brand guideline archive logo1c.zip, EPS converted to SVG with unchanged paths and the official red; the ® sign is left out) (trademark, 2026-11-23); REVIEW mono derived from the color icon (check overlapping shapes) |
+| odoo | icon, icon-mono, icon-dark | addition from official GitHub repository of Odoo (addons/web/static/img/odoo_logo.svg, the Odoo wordmark with its official purple and grey; paths unchanged, only the XML header and title removed) (trademark, 2026-11-24); REVIEW mono derived from the color icon (check overlapping shapes) |

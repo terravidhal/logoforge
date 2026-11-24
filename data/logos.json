@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1030,
+  "count": 1031,
   "logos": [
     {
       "slug": "1c",
@@ -23569,6 +23569,42 @@
           "file": "octopusdeploy.svg",
           "url": "https://octopus.com/company/brand",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "odoo",
+      "name": "Odoo",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#8f8f8f",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon",
+        "icon-mono",
+        "icon-dark"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official GitHub repository of Odoo (addons/web/static/img/odoo_logo.svg, the Odoo wordmark with its official purple and grey; paths unchanged, only the XML header and title removed)",
+          "file": "https://raw.githubusercontent.com/odoo/odoo/master/addons/web/static/img/odoo_logo.svg",
+          "url": "https://github.com/odoo/odoo/blob/master/addons/web/static/img/odoo_logo.svg",
+          "license": "trademark"
+        },
+        "icon-mono": {
+          "origin": "official GitHub repository of Odoo (addons/web/static/img/odoo_logo.svg, the Odoo wordmark with its official purple and grey; paths unchanged, only the XML header and title removed) (derived)",
+          "file": "https://raw.githubusercontent.com/odoo/odoo/master/addons/web/static/img/odoo_logo.svg",
+          "url": "https://github.com/odoo/odoo/blob/master/addons/web/static/img/odoo_logo.svg",
+          "license": "trademark"
+        },
+        "icon-dark": {
+          "origin": "official GitHub repository of Odoo (addons/web/static/img/odoo_logo.svg, the Odoo wordmark with its official purple and grey; paths unchanged, only the XML header and title removed) (dark: auto)",
+          "file": "https://raw.githubusercontent.com/odoo/odoo/master/addons/web/static/img/odoo_logo.svg",
+          "url": "https://github.com/odoo/odoo/blob/master/addons/web/static/img/odoo_logo.svg",
+          "license": "trademark"
         }
       }
     },
