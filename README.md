@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://ledevaugmente.com/?ref=logoforge-github" target="_blank" rel="noopener"><img src=".github/assets/le-dev-augmente-banner.svg" alt="Le Dev Augmenté, the blog from the maker of Logoforge: tools, AI and self-hosting for developers. Read it on ledevaugmente.com" width="900"></a>
+</p>
+
 <div align="center">
 
 <picture>

@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="120" viewBox="0 0 900 120" role="img" aria-labelledby="t d">
+  <title id="t">Le Dev Augmenté</title>
+  <desc id="d">The blog from the maker of Logoforge: tools, AI and self-hosting for developers. ledevaugmente.com</desc>
+  <defs>
+    <linearGradient id="brand" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="mark" x1="0" y1="0" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#22d3ee"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.12" cy="0.5" r="0.6">
+      <stop offset="0" stop-color="#3b82f6" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="118" rx="18" fill="#0a0f1e" stroke="url(#brand)" stroke-width="1.5"/>
+  <rect x="1" y="1" width="898" height="118" rx="18" fill="url(#glow)"/>
+  <rect x="30" y="26" width="68" height="68" rx="16" fill="#111a33" stroke="#24304f"/>
+  <g transform="translate(40 36) scale(2)" fill="none" stroke="url(#mark)" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M4.5 6.5l5.5 5.5-5.5 5.5M17.5 3.25v6.5M14.25 6.5h6.5M13 17.75h7.75"/>
+  </g>
+  <text x="122" y="44" fill="#8ea0c4" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="13" letter-spacing="0.4">FROM THE MAKER OF LOGOFORGE</text>
+  <text x="122" y="72" fill="#f5f7ff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="25" font-weight="700">Le Dev Augmenté</text>
+  <text x="122" y="96" fill="#b4c0dc" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15">Tools, AI and self-hosting for developers, in English and French</text>
+  <rect x="676" y="41" width="196" height="38" rx="19" fill="url(#brand)"/>
+  <text x="774" y="66" text-anchor="middle" fill="#ffffff" font-family="ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif" font-size="15" font-weight="600">Read the blog →</text>
+</svg>
