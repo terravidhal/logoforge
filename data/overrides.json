@@ -47,6 +47,11 @@
     "slack": {
       "reviewed": "2026-09-27: derived mono checked on the review sheet"
     },
+    "planfix": {
+      "skipMono": true,
+      "noDark": true,
+      "reason": "gradient badge with a white flag: a derived mono loses the flag and the auto dark variant turns the flag black; the color badge reads on both themes (checked on a render)"
+    },
     "eclipse": {
       "monoKnockout": true,
       "reason": "badge-like mark: knockout mono reads better (checked on the knockout sheet)"

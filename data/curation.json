@@ -8894,6 +8894,14 @@
       "categories": [
         "productivity"
       ]
+    },
+    {
+      "slug": "planfix",
+      "name": "Planfix",
+      "addition": true,
+      "categories": [
+        "productivity"
+      ]
     }
   ]
 }

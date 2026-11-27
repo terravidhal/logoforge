@@ -13,7 +13,7 @@
       "license": "CC0-1.0"
     }
   },
-  "count": 1031,
+  "count": 1032,
   "logos": [
     {
       "slug": "1c",
@@ -25828,6 +25828,28 @@
           "file": "planetscale.svg",
           "url": "https://github.com/gilbarbara/logos/blob/a5b65275e761a8347a99eded1101c6b130a06e52/logos/planetscale.svg",
           "license": "CC0-1.0"
+        }
+      }
+    },
+    {
+      "slug": "planfix",
+      "name": "Planfix",
+      "aliases": [],
+      "categories": [
+        "productivity"
+      ],
+      "hex": "#0eb8c5",
+      "url": null,
+      "guidelines": null,
+      "variants": [
+        "icon"
+      ],
+      "sources": {
+        "icon": {
+          "origin": "official Planfix brand page (Sign.zip, RGB/Planfix Sign.svg, the Planfix sign with its official teal-to-lime gradient; paths unchanged, only the XML header, comment and title removed)",
+          "file": "https://planfix.com/uploads/logo/flag/Sign.zip",
+          "url": "https://planfix.com/logotype/",
+          "license": "trademark"
         }
       }
     },
